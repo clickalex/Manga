@@ -1,4 +1,4 @@
-# 03 — CHARACTERS · CAST BOOK (625 Named Characters)
+# 03 — CHARACTERS · CAST BOOK (628 Named Characters)
 
 **Casting logic:** every lead is the emotional "face" of a different realm & race, so any adaptation (manga, anime, movie, game) can put a different lead front-and-center and the world still holds. Every character has: a grief, a weapon, a contradiction, and a line they could say in a pilot.
 
@@ -8,9 +8,9 @@
 |---|---|---|---|
 | **Tier 1 — Core** | below (Section I) | 9 | Full profiles: look, personality, grief, weapon/sigil, arc, pilot line |
 | **Tier 2 — Principals** | below (Sections II–III) + [03a-principals.md](03a-principals.md) | 29 + 67 = 96 | Full profiles (existing) + function & beat (new) |
-| **Tier 3 — Named ensemble** | [03b-ensemble.md](03b-ensemble.md) | 280 | One line each: function + beat |
+| **Tier 3 — Named ensemble** | [03b-ensemble.md](03b-ensemble.md) | 283 | One line each: function + beat |
 | **Tier 4 — Named population** | [03c-roster.md](03c-roster.md) | 240 | One line each: name · race · place · role |
-| **Total** | | **625** | Named characters in the world |
+| **Total** | | **628** | Named characters in the world |
 
 **Counting rule (so the numbers audit):** group entries with no named individuals (the War-Chief council, the Seam Moot) are *not* counted; the Seven Archdukes are counted *once*, in [03a-principals.md](03a-principals.md) where they're named; the three named dead (Durin Khazdûrin, Tarkhan, War-Chief Ulrik the Unbroken) count in Tier 2.
 

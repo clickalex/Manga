@@ -1,8 +1,8 @@
-# 03b — TIER 3 · NAMED ENSEMBLE (280)
+# 03b — TIER 3 · NAMED ENSEMBLE (283)
 
 **What this file is:** the third ring of *named* characters — the recurring **named NPCs** who make each realm feel *lived-in*. Each entry has a **function** (a job/role in the realm) and a **beat** (a story function — the moment they matter, or the prejudice/theme they embody). None is a monster; each is a person with a job and a choice.
 
-**Count:** 280 named ensemble characters (28 per realm × 9 realms + 28 cross-realm/caravan). Numbered 1–280.
+**Count:** **283** named ensemble characters (28 per realm × 9 realms + 28 cross-realm/caravan, plus 3 ratified by the manga as it was written — the *Ratified additions* below). Numbered 1–280, +281–283.
 
 **How to use:** these are the *set-dressing with souls*. In manga/anime, each can be a background face that *earns a name* in a scene. In the TCG/PC games, each is a **named NPC / quest-giver / deck-flavor card**. In spin-offs, any of them can be promoted to a lead (the "world is the IP; the characters are the doors" rule).
 
@@ -386,4 +386,14 @@
 
 ---
 
-**Tier-3 total: 280 named ensemble characters.**
+## Ratified additions (earned on the page — manga Ch. 8–13)
+
+These three names came into being *in the manga* (writing rule #7 in [manga/README.md](manga/README.md)): two are people the pilot's crossing and the finale introduced; the third is a person the pilot had been drawing since Ch. 4 without a name, and the finale gave him one — *on the page, by his own mouth*. They keep the numbering running.
+
+281. **Kit** — Mosaic-born, the border crossing · the crossing child; the first of the world's new in-between (canon 02: *the Mosaic-born are the future of the race*). Beat: names the second road **HOME** at the bridge-stone (manga Ch. 8), takes the Moot's *tenth* chair with her name plate on it (Ch. 9 — the room grows because the world does), and keeps her plate through the finale. The world healing, growing the in-between — made a *child with a door*.
+282. **Reed** — Wood elf, the court · the realm's voice; the singer at the gate, reed at his lip; spells Vaelis's ink and answers the fauns phrase for phrase. Beat: sings the call down the **FOR** road (Ch. 12) and the realm's word in *voice* at the Re-Oath (Ch. 13) — the second of the realm's three forms (ink · voice · stone).
+283. **Grain** — Wood elf, the court's undercroft · the court's carver. Beat: named *Grain* in the manga Ch. 13 — un-named by the taking (Ch. 4, the faceless cell), kept a year by the under-grove (Ch. 11), named and returned in the finale: he answers to his own name (the Moot's third clause — *a self is a choice*), the ledger of The Unnamed re-inks its second name, and the door in the realm that had no name on it gets one. **Bark's teacher** — the hand that taught the shape (*Ch. 12 P10.3*, paid Ch. 13 P7.2). Not a new person: the man the reader has watched stand in a stairwell since Ch. 7. **After Ch. 13, never "the Third" again.**
+
+---
+
+**Tier-3 total: 283 named ensemble characters.**

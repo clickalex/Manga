@@ -1,6 +1,6 @@
 # AURELION — The Nine Realms Saga
 
-**A cross-media fantasy IP: one world, nine realms, forty+ races, built from day one for manga, anime, movies, card games, and PC games.**
+**A cross-media fantasy IP: one world, nine realms, forty-nine races, built from day one for manga, anime, movies, card games, and PC games.**
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Franchise requirement | How AURELION answers it |
 |---|---|
-| A world big enough to never run out of stories | 9 realms × 40+ races × 1 seam-town = hundreds of natural story locations |
+| A world big enough to never run out of stories | 9 realms × 49 races × 1 seam-town = hundreds of natural story locations |
 | Characters that outlive the source material | 9 leads, each the emotional "face" of a different realm & race — every adaptation can feature a different lead |
 | Built-in card game mechanics | The power system (Sigils, Chords, the Unraveling) is *designed as a card system before it is a plot* |
 | Built-in game variety | 9 realms = 9 playable race/class families in any PC game; the Mosaic mechanic = a hybrid build class |
@@ -34,14 +34,14 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 | File | Contents |
 |---|---|
 | [01-the-story.md](01-the-story.md) | **The great story** — full premise, world history, the three-act saga, all realm arcs, ending, sequel hook |
-| [02-races-and-realms.md](02-races-and-realms.md) | **40+ races** — complete race table for all 9 realms + deep profiles of the 14 pillar races (culture, art direction, game hooks) |
-| [03-characters.md](03-characters.md) | **Cast book index (625 total) + Tier 1 core (9) + Tier 2 principals (29)** — leads with full profiles, royalty, villains, cult roster, spin-off casting list |
+| [02-races-and-realms.md](02-races-and-realms.md) | **49 races** — complete race table for all 9 realms + deep profiles of the 14 pillar races (culture, art direction, game hooks) |
+| [03-characters.md](03-characters.md) | **Cast book index (628 total) + Tier 1 core (9) + Tier 2 principals (29)** — leads with full profiles, royalty, villains, cult roster, spin-off casting list |
 | [03a-principals.md](03a-principals.md) | **Tier 2 new principals (67)** — named sovereigns, courtiers, clan-leaders, family, realm-color (incl. the Seven Archdukes, finally named) |
-| [03b-ensemble.md](03b-ensemble.md) | **Tier 3 named ensemble (280)** — recurring named NPCs per realm: guards, scribes, healers, clan members, crew, courtiers |
+| [03b-ensemble.md](03b-ensemble.md) | **Tier 3 named ensemble (283)** — recurring named NPCs per realm: guards, scribes, healers, clan members, crew, courtiers |
 | [03c-roster.md](03c-roster.md) | **Tier 4 named population (240)** — the "world is populated" layer + spin-off seed bank |
 | [04-power-system.md](04-power-system.md) | **Sigils, Chords, ranks, the Unraveling, the Nine Crowns** — the magic system, written to double as card-game rules |
 | [05-future-scope.md](05-future-scope.md) | **The future scope list** — anime/manga/movie roadmap, TCG design + first set, PC games, novels, 10-year IP timeline, sequel scope |
-| [manga/](manga/README.md) | **The manga (main series)** — Ch. 1–12 scripted (12-page panel scripts — the full pilot + the S1 continuation), pilot canon quick-reference (incl. the Ch. 4–6 canon lock), S1 running state, writing rules |
+| [manga/](manga/README.md) | **The manga (main series)** — **Season 1 complete: Ch. 1–13 scripted** (12-page panel scripts — the full pilot + the Sylvaris arc), pilot canon quick-reference (incl. the Ch. 4–6 canon lock), S1 closed state (what Vol. 4 inherits), writing rules |
 
 ## Working titles
 
@@ -52,7 +52,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 
 - [x] Core story + theme
 - [x] World, realms, full race list
-- [x] Main character roster + villains (625 named)
+- [x] Main character roster + villains (628 named)
 - [x] Power system (card-game ready)
 - [x] Future scope / franchise roadmap
 - [x] Manga Ch. 1–3 scripted (12-page panel scripts: *The Bell in the Rain* · *The Name of the Scar* · *One Table*)
@@ -67,6 +67,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 - [x] Manga Ch. 10 scripted — **S1 continues** (*The Unnamed Road*: the white goes *under* the far bank — the bank is empty, and empty is worse; the count returns to Morgatha; Bramble's name is not in the ledger — "Good. Somebody's got to *say* it"; Viv's forty pages get one sentence — *a carried name belongs to whoever answers to it*; Fenn's map has no down, so Wren Thistledown — his niece, said on the page at last — draws the saga's first cross-section (the roots run under the river); the chorus panel returns — *under*; the Moot's door lets the named go; the bell stays on a peg; Osric's pole finds a bottom — root, warm; the spring lets its breath out downward, the seed leans at the trunk, one root *moves*; the card: *Here turn the named*)
 - [x] Manga Ch. 11 scripted — **S1 continues** (*The Held Door*: the Nine go *down* — the undercroft stair, the cell's empty room, the Keeping (kept things, no labels), the heart-root where the Everbloom Crown is the tree's first ring and the spring's water holds in a ring between it and the white; the white is waiting for a door — the Third's blank face, the one road up no one named; the tree asks Lyra a second time and she tells it to *ask the realm* (a new ring at her temple, a new ring in the wood; the crown-shape turns upward); Kaelen's scar pulses and the Voss bell rings on its peg at the Moot — the hour is written, Pippin's mark pulses, Roderick's hand is in the water; sealed Ashenmere answers the letter with a plate and the OPEN DOORS sign on the first white stone; the Third turns toward Kaelen and Morgatha's count stops for a panel; the Nine split — Lyra to the top, Kaelen in the room at the bottom, holding the door from the inside; the water breathes out once; the card: *Here hold the named*)
 - [x] Manga Ch. 12 scripted — **S1 continues — the call** (*Every Branch*: Faelis summons the grove the way a grove votes — the sprites carry it tree to tree, Reed sings it, Vaelis writes it, the ferry brings it; the Moot votes and *walks* — Room-Chimera rooms the moot wherever it is, Door-Oni carries the door with the Voss bell on its peg to the tree's root; Ashenmere walks the white on its own doorsteps, four hundred plates laid ahead and lifted behind, to the border grove's ring where the vote reaches it by root — Hilda's page 400 delivered to a tree, Pippin crossing *not alone*, his mark deliberately unpulsed; the realm arrives — clans, fauns, mothkin writing in silk, Rootdeep the keystone refusing to lean — and hears the tree's one sentence; every elf's hand to their temple; Viv's forty pages in one line; below, the Third's robe un-inks from the hem, the kept thing is set at his feet wrapped, Kaelen tells him what his father did inside a door, the stair's first step goes white and Kaelen stands on it — the door from the inside; the count stops and stays stopped; the card: *Here come the named*)
+- [x] Manga Ch. 13 scripted — **SEASON 1 FINALE / end of Vol. 3** (*Every Name*: Lyra's hand lands on the bark and the grove votes — *every branch* (the rest of Faelis's Ch. 6 line, finished); the realm answers the tree's one sentence in Viv's grammar — *names, not selves*; nine names, one voice each, and **Bramble's given back by all nine in parts**; the Third opens the kept thing and **names himself — Grain** (Orvane's last layer paid, Bark's plant paid); the Chord *through the tree* — the First Dawn's second form — and the Crown **loosed, not broken**, lifted into the tree's own crown of leaves; the gray recedes and **the white is gone**; Bark cuts the ring into the door that had no name; the Voss bell rings with no hand for a name come home and the Moot writes the hour; Pippin's mark pulses **once**; the count turns **upward**; under the roots Vaelthorn spends his one reserved line — heard by Kaelen alone — and the scar beats: a heartbeat, Aurelion's; the card: *Here choose the named*)
 - [ ] TCG Set 1 card list (120 cards — "Crown of Ashenmere")
 
-> Next: **script Chapter 13 — the Season 1 finale** (end of Vol. 3, *The First Crown*: the grove votes — every branch; Lyra's hand lands on the bark; the realm answers the tree's sentence with names, not selves; the Third opens the kept thing and chooses his name from Orvane's last layer; the Chord through the tree; the Crown — the tree's first ring — freed; the bell rings on the door at the root and the Moot writes the hour; and under the roots Vaelthorn speaks his one reserved line to Kaelen, and the scar is a heartbeat). The owed/forbidden list is in [manga/README.md](manga/README.md) under "The finale owes."
+> Next: **Volume 4 — *The Mountain-Ask* — opens Season 2** (Khazadûm; Grimm's home; the stone-song at last at scale — Vol. 4 is not scripted yet). The state the finale leaves behind is in [manga/README.md](manga/README.md) under "Season 1 closed." Still open in the season ledger: the anime S1 episode list (24 eps) and the TCG Set 1 list (*Crown of Ashenmere*, 120 cards).

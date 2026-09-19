@@ -316,8 +316,8 @@
 | **Tier 1 — Core** | [03-characters.md](03-characters.md) | **9** | The Mosaic Nine (full profiles: grief, weapon, contradiction, pilot line) |
 | **Tier 2 — Principals (existing)** | [03-characters.md](03-characters.md) | **29** | Named supporting cast, royalty, family, villains (full profiles) |
 | **Tier 2 — Principals (new)** | [03a-principals.md](03a-principals.md) | **67** | New named sovereigns, courtiers, clan-leaders, family, realm-color (function + beat) |
-| **Tier 3 — Named ensemble** | [03b-ensemble.md](03b-ensemble.md) | **280** | Recurring named NPCs per realm (function + beat) |
+| **Tier 3 — Named ensemble** | [03b-ensemble.md](03b-ensemble.md) | **283** | Recurring named NPCs per realm (function + beat) |
 | **Tier 4 — Named population** | [03c-roster.md](03c-roster.md) | **240** | Named population / spin-off seed bank (name · race · place · role) |
-| **TOTAL NAMED CHARACTERS** | | **625** | 9 + 29 + 67 + 280 + 240 |
+| **TOTAL NAMED CHARACTERS** | | **628** | 9 + 29 + 67 + 283 + 240 |
 
-**The cast book holds 625 named characters** — far past the 500 floor. The world is *populated*, *connected* (kin-ties across tiers), and *expandable* (any Tier-4 row can be promoted to a spin-off lead, a game NPC, or a TCG flavor card).
+**The cast book holds 628 named characters** — far past the 500 floor. The world is *populated*, *connected* (kin-ties across tiers), and *expandable* (any Tier-4 row can be promoted to a spin-off lead, a game NPC, or a TCG flavor card).

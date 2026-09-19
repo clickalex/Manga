@@ -74,7 +74,7 @@
 - Beard — family braids `#7a4a2b` · debt braids `#4a3527` (loose, faded)
 - Skin `#c98d68` · Forge-knight armor `#5b5f66` · Harness `#6b5d4f`
 - Askstone — haft `#5a4632` (polished old wood) · head `#8a8f98` (steel, worn bright)
-- Stone-song (when it returns, Vol. 4): a faint `#e07a3f` vein-light in the rock (Vol. 4's money color — do not use before then)
+- Stone-song (when it returns, Vol. 4): a faint `#e07a3f` vein-light in the rock — the **mountain's** money color, held for Vol. 4: at scale, on the surface, as a bloom. *(Audit note, Ch. 13: S1's use of the hue is the under-roads' answering ember-line — first cracked open Ch. 10 P9.2, carried as scene-light through Ch. 11–13: under the floor, one line, never a bloom.)*
 
 **Motifs & props.** The twelve braids (count them) · Askstone · the geode (Pebble's one idea: *somewhere's a geode, and it's his*) · the bridge (he rebuilds what falls — "a door that doesn't hold is just a hole with opinions").
 

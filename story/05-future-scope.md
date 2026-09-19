@@ -15,7 +15,7 @@ A franchise dies from *inconsistent canon*, not from *new* stories. The spine is
 5. **The Chord rule** — a Chord requires *two users who have chosen each other*. (Fixed)
 6. **The Unraveling** — the real death is *not being you*; a name is the cure. (Fixed)
 7. **The order of the Re-Oaths** — the Seams Re-Oath *first*. (Fixed)
-8. **No race is the monster.** (Fixed — the *one* rule that makes 40+ races feel real instead of decorative)
+8. **No race is the monster.** (Fixed — the *one* rule that makes 49 races feel real instead of decorative)
 
 **Everything else is flexible.** New races, new realms, new cities, new characters, new villains — all *allowed*. The spine is the *bones*; the flesh is the *story*.
 
@@ -120,7 +120,7 @@ A franchise dies from *inconsistent canon*, not from *new* stories. The spine is
 | **The Reforgers** (villains) | 12 | Prophet Orvane, Stonehand Drek, Gorakh, Vox-Nul, Malachar, Halo-Null, Vexmourne, Irongate Vane, Null, + the three Usurpers (Malachar, Vexmourne, Gorakh) as *boss* cards (each a *different* kind of *boss*: the *mirror*, the *bank*, the *stitch*) |
 | **The Nine Realms** (land/lore cards) | 9 | Terrania, Sylvaris, Khazadûm, Ulgar, Thalassa, Emberfall, Seraphel, Nocturne, the Seams (each a *land* card with a *realm* ability + a *festival* card (the realm's *own* culture, made *mechanical*)) |
 | **The Unraveling** (the threat) | 6 | The white-thread cracks (the *gray thread* counter), the *Un-named* (a *token* that is *un-nameable*), the *Hollow* (a *land* that is *negative space*) |
-| **The races** (the 40+ races, as *units*) | 67 | The full roster (each race a *unit* with a *Sigil mark* and a *cost-shape*; the *unit* is the *race's* *own* culture, made *mechanical*) |
+| **The races** (the 49 races, as *units*) | 67 | The full roster (each race a *unit* with a *Sigil mark* and a *cost-shape*; the *unit* is the *race's* *own* culture, made *mechanical*) |
 
 **The set's design rule:** the 120 cards are the *spine* — the Nine Crowns, the Nine heroes, the Chords, the Reforgers, the Realms, the Unraveling, the races. The *flesh* (the new races, the new realms, the new villains) is the *expansion*. The franchise math holds.
 
