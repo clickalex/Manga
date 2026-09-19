@@ -41,7 +41,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 | [03c-roster.md](03c-roster.md) | **Tier 4 named population (240)** — the "world is populated" layer + spin-off seed bank |
 | [04-power-system.md](04-power-system.md) | **Sigils, Chords, ranks, the Unraveling, the Nine Crowns** — the magic system, written to double as card-game rules |
 | [05-future-scope.md](05-future-scope.md) | **The future scope list** — anime/manga/movie roadmap, TCG design + first set, PC games, novels, 10-year IP timeline, sequel scope |
-| [manga/](manga/README.md) | **The manga (main series)** — Ch. 1–7 scripted (12-page panel scripts — the full pilot + the S1 continuation opens), Ch. 4–6 canon-locked outline (reference), pilot canon quick-reference, writing rules |
+| [manga/](manga/README.md) | **The manga (main series)** — Ch. 1–10 scripted (12-page panel scripts — the full pilot + the S1 continuation), pilot canon quick-reference (incl. the Ch. 4–6 canon lock), S1 running state, writing rules |
 
 ## Working titles
 
@@ -56,8 +56,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 - [x] Power system (card-game ready)
 - [x] Future scope / franchise roadmap
 - [x] Manga Ch. 1–3 scripted (12-page panel scripts: *The Bell in the Rain* · *The Name of the Scar* · *One Table*)
-- [x] Manga Ch. 4–6 canon-locked beat outline (*The Withered Court* · *The Name of the King* · *The First Crown* — pilot finale)
-- [x] Manga Ch. 4–6 scripted — **the pilot is complete** (12-page panel scripts, drawn from the canon-locked outline: the white rush, the Re-Oath, *The First Dawn*, Azrael & Bramble's first appearances, Vaelthorn's first word)
+- [x] Manga Ch. 4–6 scripted — **the pilot is complete** (12-page panel scripts, drawn from a canon-locked beat outline whose lock now lives in [manga/README.md](manga/README.md): the white rush, the Re-Oath, *The First Dawn*, Azrael & Bramble's first appearances, Vaelthorn's first word)
 - [x] Manga Ch. 7 scripted — **S1 continues** (*The Name of the Road*: the gray's strategy, the first named road — **FOR.** — the hearth's letter, the three realm messengers, the first nine-realm map, the bell's first self-ring on a colored page)
 - [x] Manga Ch. 8 scripted — **S1 continues** (*Open Doors*: the crossing walks the named road, the relay of plates + names, the white's first water test, the Veil-water holds by song, the folk cross the gate one by one, the border child Kit names the next road **HOME**, the white *turns* to look at a name for the first time)
 - [x] Manga Ch. 9 scripted — **S1 continues** (*The Realm's Word*: the Moot (a room, a table, nine chairs) receives the folk; Wren — the named bell-ringer — walks back through the door (the first return, re-inked in the ledger of The Unnamed); the Moot's Re-Oath is the realm's word (Spine #7, the realm-level, paid: ink, voice, stone); the Moot's meal (Kit's empty chair, Loam's kept plate, the Voss bell accepted into the Moot's keeping); the white's count stops — it waits, goes around to the water's end, the water has no end — and the white *turns back*: it faces the Moot)
@@ -65,6 +64,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 - [x] Location guides (Ashenmere + the Nine Realms — [../location/](../location/README.md))
 - [x] Deployable index page (root [../index.html](../index.html) — GitHub Pages)
 - [ ] Season 1 full episode list (anime S1, 24 eps)
+- [x] Manga Ch. 10 scripted — **S1 continues** (*The Unnamed Road*: the white goes *under* the far bank — the bank is empty, and empty is worse; the count returns to Morgatha; Bramble's name is not in the ledger — "Good. Somebody's got to *say* it"; Viv's forty pages get one sentence — *a carried name belongs to whoever answers to it*; Fenn's map has no down, so Wren Thistledown — his niece, said on the page at last — draws the saga's first cross-section (the roots run under the river); the chorus panel returns — *under*; the Moot's door lets the named go; the bell stays on a peg; Osric's pole finds a bottom — root, warm; the spring lets its breath out downward, the seed leans at the trunk, one root *moves*; the card: *Here turn the named*)
 - [ ] TCG Set 1 card list (120 cards — "Crown of Ashenmere")
 
-> Next: **script Chapter 10** — Season 1 continues (Vol. 3, *The First Crown*: the white is no longer walking — it is facing; the Moot keeps the names; the river is the front). The pilot's canon lock is the page itself; the outline remains the reference at [manga/chapter-04-06-outline.md](manga/chapter-04-06-outline.md).
+> Next: **script Chapter 11** — Season 1 continues (Vol. 3, *The First Crown*: the white is under the roots; the Nine are back at the gate; the spring is going down; a root has moved — still no sound, no face, no word; the bell hangs at the Moot, and if it rings the Moot writes down the hour; Ashenmere's next word is owed). The canon lock is the page itself, summarized in [manga/README.md](manga/README.md).

@@ -36,7 +36,7 @@ Manga/
 │       ├── chapter-07.md       ← Ch. 7 "The Name of the Road" (12-page panel script — S1 continues)
 │       ├── chapter-08.md       ← Ch. 8 "Open Doors" (12-page panel script — S1 continues)
 │       ├── chapter-09.md       ← Ch. 9 "The Realm's Word" (12-page panel script — S1 continues)
-│       └── chapter-04-06-outline.md ← Ch. 4–6 canon-locked outline (the reference the chapters were drawn from)
+│       └── chapter-10.md       ← Ch. 10 "The Unnamed Road" (12-page panel script — S1 continues)
 │
 ├── character/                  ← DESIGN (the character side)
 │   ├── README.md               ← cast system + tier audit + rules for new characters
@@ -84,7 +84,7 @@ python3 -m http.server 8000
 - **The story** — Aurelion, the First Dreaming, shattered itself into nine realms; its negative image (Vaelthorn, the Hollow Sovereign) hungers to reforge every race into one painless unity. A scarred human boy — a Mosaic, a fragment of the First Being — walks the seams with one warrior of every realm, answering the Unraveling the only way it can be answered: **by saying names back**.
 - **The cast** — 625 named characters in four tiers (9 core · 96 principals · 280 ensemble · 240 population), each lead the emotional face of a realm & race, so any medium can re-center on a different lead and the world holds.
 - **The power system** — Sigils (realm soul-marks that spend *identity*, not mana), Chords (two sigils of different realms, by *choice* — the card game's combo system, the theme as a mechanic), the Unraveling (the cost that is the story), and the Nine Crowns (artifacts of consent).
-- **The manga** — **the pilot is complete (Ch. 1–6, 72 pages — six 12-page chapters), and Season 1 is underway: Ch. 7–9 scripted** (*The Name of the Road* · *Open Doors* · *The Realm's Word* — the gray takes the roads, the first named road, the first nine-realm map; the crossing walks, the white tests the Veil-water, the next road is named **HOME**; the Moot's Re-Oath is the realm's word, the first named Reforger walks home, and the white stops walking — it *faces*). Ch. 10 continues (Vol. 3, *The First Crown*).
+- **The manga** — **the pilot is complete (Ch. 1–6, 72 pages — six 12-page chapters), and Season 1 is underway: Ch. 7–10 scripted** (*The Name of the Road* · *Open Doors* · *The Realm's Word* · *The Unnamed Road* — the gray takes the roads, the first named road, the first nine-realm map; the crossing walks, the white tests the Veil-water, the next road is named **HOME**; the Moot's Re-Oath is the realm's word, the first named Reforger walks home, the white stops walking — it *faces*; then it goes *under*, the map gets its first cross-section, the chorus panel returns, and the Nine turn back to the tree). Ch. 11 continues (Vol. 3, *The First Crown*).
 - **The future scope** — the canon spine (the 8 fixed facts), a 12-volume manga roadmap, 4 anime seasons, movies, a TCG whose *system is the game*, four PC games, novels & audio, a 10-year IP timeline, and the sequel door (Realm 10 — the stars).
 
 ---
@@ -96,5 +96,5 @@ python3 -m http.server 8000
 | Working title | **AURELION: The Nine Realms Saga** |
 | Realms / races | 9 (+ 1 reserved) / 49 (+ 9 reserved slots) |
 | Named characters | **625** (9 + 96 + 280 + 240) |
-| Pilot status | **Ch. 1–6 scripted — pilot complete** (Ch. 4–6 drawn from the canon-locked outline) · **Ch. 7–9 scripted — S1 continues** (Vol. 3, *The First Crown*) |
+| Pilot status | **Ch. 1–6 scripted — pilot complete** · **Ch. 7–10 scripted — S1 continues** (Vol. 3, *The First Crown*) |
 | IP rule #1 | **No race is the monster.** The monster is the hunger. |
