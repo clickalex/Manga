@@ -41,6 +41,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 | [03c-roster.md](03c-roster.md) | **Tier 4 named population (240)** — the "world is populated" layer + spin-off seed bank |
 | [04-power-system.md](04-power-system.md) | **Sigils, Chords, ranks, the Unraveling, the Nine Crowns** — the magic system, written to double as card-game rules |
 | [05-future-scope.md](05-future-scope.md) | **The future scope list** — anime/manga/movie roadmap, TCG design + first set, PC games, novels, 10-year IP timeline, sequel scope |
+| [manga/](manga/README.md) | **The manga (main series)** — Ch. 1–3 scripted (12-page panel scripts), Ch. 4–6 canon-locked beat outline, pilot canon quick-reference, writing rules |
 
 ## Working titles
 
@@ -51,12 +52,15 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 
 - [x] Core story + theme
 - [x] World, realms, full race list
-- [x] Main character roster + villains
+- [x] Main character roster + villains (625 named)
 - [x] Power system (card-game ready)
 - [x] Future scope / franchise roadmap
-- [ ] Pilot chapter beat-sheet (manga Ch. 1–3, anime Ep. 1)
-- [ ] Character design sheets (visual specs per race)
-- [ ] Season 1 full episode list
-- [ ] TCG Set 1 card list (120 cards)
+- [x] Manga Ch. 1–3 scripted (12-page panel scripts: *The Bell in the Rain* · *The Name of the Scar* · *One Table*)
+- [x] Manga Ch. 4–6 canon-locked beat outline (*The Withered Court* · *The Name of the King* · *The First Crown* — pilot finale)
+- [x] Character design sheets (the Mosaic Nine, with palettes — [../character/](../character/README.md))
+- [x] Location guides (Ashenmere + the Nine Realms — [../location/](../location/README.md))
+- [x] Deployable index page (root [../index.html](../index.html) — GitHub Pages)
+- [ ] Season 1 full episode list (anime S1, 24 eps)
+- [ ] TCG Set 1 card list (120 cards — "Crown of Ashenmere")
 
-> Suggested next turn: **write the Season 1 pilot outline (manga chapters 1–6)** — it will lock the tone and prove the story on the page.
+> Next: **script Ch. 4–6** (the outline is canon-locked — the verbatim lines and protected beats are in [manga/chapter-04-06-outline.md](manga/chapter-04-06-outline.md)).

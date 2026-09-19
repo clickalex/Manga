@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AURELION — The Nine Realms Saga</title>
+<meta name="description" content="AURELION: an original multi-race fantasy IP. Read the manga, the story bible, the 625-character cast, and the nine realms — one world, built for every medium.">
+<style>
+  :root{
+    --bg:#121417; --bg2:#181b20; --panel:#1d2127; --panel2:#232830;
+    --ink:#e8e6e0; --ink-dim:#a8a49a; --ink-faint:#6f6c64;
+    --line:#2c313a;
+    --nine-1:#b87333; --nine-2:#7fb069; --nine-3:#e07a3f; --nine-4:#9aa5a6;
+    --nine-5:#3e8e9e; --nine-6:#d1495b; --nine-7:#e8b04b; --nine-8:#7a6a9c; --nine-9:#f4f4f0;
+    --accent:#7fb069; --accent-ink:#141a10;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  .ninebar{display:flex;height:5px}
+  .ninebar span{flex:1}
+  .ninebar span:nth-child(1){background:var(--nine-1)} .ninebar span:nth-child(2){background:var(--nine-2)}
+  .ninebar span:nth-child(3){background:var(--nine-3)} .ninebar span:nth-child(4){background:var(--nine-4)}
+  .ninebar span:nth-child(5){background:var(--nine-5)} .ninebar span:nth-child(6){background:var(--nine-6)}
+  .ninebar span:nth-child(7){background:var(--nine-7)} .ninebar span:nth-child(8){background:var(--nine-8)}
+  .ninebar span:nth-child(9){background:var(--nine-9)}
+  header.site{
+    background:linear-gradient(180deg,var(--bg2),var(--bg));
+    border-bottom:1px solid var(--line);
+    padding:28px 20px 0; position:sticky; top:0; z-index:50;
+  }
+  .brand{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 16px}
+  .brand h1{
+    margin:0;font-family:Georgia,"Times New Roman",serif;font-weight:700;letter-spacing:.35em;
+    font-size:clamp(22px,4vw,34px);
+  }
+  .brand h1 em{font-style:normal;color:var(--accent)}
+  .brand .sub{color:var(--ink-dim);font-size:13px;letter-spacing:.18em;text-transform:uppercase}
+  nav.tabs{max-width:1080px;margin:18px auto 0;display:flex;gap:4px;flex-wrap:wrap}
+  nav.tabs button{
+    appearance:none;border:1px solid transparent;background:transparent;color:var(--ink-dim);
+    font:600 14px/1 inherit;letter-spacing:.06em;padding:10px 16px;cursor:pointer;border-radius:8px 8px 0 0;
+    border-bottom:none;
+  }
+  nav.tabs button:hover{color:var(--ink);background:var(--panel)}
+  nav.tabs button.active{color:var(--ink);background:var(--panel);border-color:var(--line);position:relative;top:1px}
+  nav.tabs button.active::after{content:"";position:absolute;left:16px;right:16px;bottom:-1px;height:3px;display:flex}
+  nav.tabs button.active[data-tab="home"]{box-shadow:inset 0 3px 0 var(--nine-2)}
+  nav.tabs button.active[data-tab="manga"]{box-shadow:inset 0 3px 0 var(--nine-6)}
+  nav.tabs button.active[data-tab="story"]{box-shadow:inset 0 3px 0 var(--nine-5)}
+  nav.tabs button.active[data-tab="characters"]{box-shadow:inset 0 3px 0 var(--nine-7)}
+  nav.tabs button.active[data-tab="locations"]{box-shadow:inset 0 3px 0 var(--nine-1)}
+  nav.tabs button.active[data-tab="scope"]{box-shadow:inset 0 3px 0 var(--nine-8)}
+  main{max-width:1080px;margin:0 auto;padding:32px 20px 80px}
+  .tab{display:none}
+  .tab.active{display:block}
+  h2.section{
+    font-family:Georgia,serif;font-size:22px;margin:0 0 18px;padding-bottom:10px;border-bottom:1px solid var(--line);
+  }
+  /* HOME */
+  .hero{display:grid;grid-template-columns:1.15fr .85fr;gap:28px;align-items:start}
+  @media(max-width:800px){.hero{grid-template-columns:1fr}}
+  .logline{
+    font-family:Georgia,serif;font-size:clamp(17px,2.4vw,21px);line-height:1.7;color:var(--ink);
+    border-left:3px solid var(--accent);padding-left:18px;margin:18px 0;
+  }
+  .cover{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--panel)}
+  .cover img{display:block;width:100%;height:auto}
+  .cover figcaption{padding:10px 14px;font-size:12.5px;color:var(--ink-dim);border-top:1px solid var(--line)}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:22px 0}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px}
+  .stat b{display:block;font-size:22px;font-family:Georgia,serif;color:var(--accent)}
+  .stat span{font-size:12px;color:var(--ink-dim);letter-spacing:.05em;text-transform:uppercase}
+  .pitch{color:var(--ink-dim);max-width:70ch}
+  .pitch b{color:var(--ink)}
+  /* CARDS (file lists) */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+  .card{
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px;cursor:pointer;
+    transition:transform .12s ease,border-color .12s ease;
+  }
+  .card:hover{transform:translateY(-2px);border-color:var(--ink-faint)}
+  .card .kicker{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:6px}
+  .card h3{margin:0 0 6px;font-size:16.5px;font-family:Georgia,serif}
+  .card p{margin:0;font-size:13.5px;color:var(--ink-dim)}
+  .card .badge{
+    display:inline-block;font-size:11px;padding:2px 8px;border-radius:20px;border:1px solid var(--line);
+    color:var(--ink-dim);margin-left:8px;vertical-align:2px;
+  }
+  .badge.ok{color:#9fd08f;border-color:#3c5236}
+  .badge.outline{color:#e8c26a;border-color:#5c4a22}
+  .badge.readme{color:#8fb7c9;border-color:#2e4650}
+  /* READER */
+  .reader-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:8px}
+  .reader-head .crumb{color:var(--ink-faint);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase}
+  .btn{
+    appearance:none;background:var(--panel);border:1px solid var(--line);color:var(--ink);border-radius:8px;
+    padding:8px 14px;font:600 13px/1.2 inherit;cursor:pointer;letter-spacing:.03em;
+  }
+  .btn:hover{border-color:var(--ink-faint)}
+  .btn:disabled{opacity:.35;cursor:default}
+  .reader-nav{display:flex;justify-content:space-between;gap:10px;margin:26px 0 10px}
+  .doc{
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;
+    padding:clamp(18px,4vw,44px);max-width:860px;
+  }
+  .loading{color:var(--ink-faint);font-style:italic;padding:40px 0}
+  /* MARKDOWN STYLING */
+  .doc h1{font-family:Georgia,serif;font-size:clamp(22px,3.4vw,30px);line-height:1.3;margin:.4em 0 .6em;border-bottom:1px solid var(--line);padding-bottom:.35em}
+  .doc h2{font-family:Georgia,serif;font-size:21px;margin:1.6em 0 .7em;color:var(--ink)}
+  .doc h2::before{content:"◆ ";color:var(--accent);font-size:.7em;vertical-align:2px}
+  .doc h3{font-size:15.5px;margin:1.4em 0 .5em;color:var(--ink)}
+  .doc h4{font-size:14px;margin:1.2em 0 .4em;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.06em}
+  .doc p{margin:.7em 0}
+  .doc strong{color:#f0eee8}
+  .doc em{color:var(--ink)}
+  .doc a{color:var(--nine-5);text-decoration:none;border-bottom:1px dotted var(--nine-5)}
+  .doc a:hover{color:var(--nine-7);border-bottom-color:var(--nine-7)}
+  .doc ul,.doc ol{padding-left:1.4em;margin:.7em 0}
+  .doc li{margin:.35em 0}
+  .doc blockquote{
+    margin:1em 0;padding:10px 18px;border-left:3px solid var(--accent);background:var(--bg2);
+    border-radius:0 8px 8px 0;color:var(--ink);font-family:Georgia,serif;font-size:1.02em;
+  }
+  .doc blockquote p{margin:.3em 0}
+  .doc table{border-collapse:collapse;width:100%;margin:1em 0;font-size:14px;display:block;overflow-x:auto}
+  .doc th,.doc td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+  .doc th{background:var(--panel2);font-weight:600;white-space:nowrap}
+  .doc tr:nth-child(even) td{background:rgba(255,255,255,.02)}
+  .doc hr{border:none;border-top:1px solid var(--line);margin:2em 0}
+  .doc code{background:var(--bg2);border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-size:.86em}
+  .doc pre{background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:14px;overflow-x:auto}
+  .doc pre code{background:none;border:none;padding:0}
+  .doc img{max-width:100%;border-radius:8px;border:1px solid var(--line)}
+  .doc blockquote strong{color:var(--nine-7)}
+  footer{border-top:1px solid var(--line);padding:22px 20px 40px;color:var(--ink-faint);font-size:13px;text-align:center}
+  footer .ninebar{max-width:220px;margin:0 auto 14px;height:3px}
+</style>
+</head>
+<body>
+<div class="ninebar" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+
+<header class="site">
+  <div class="brand">
+    <h1>AURE<em>LION</em></h1>
+    <div class="sub">The Nine Realms Saga · original IP</div>
+  </div>
+  <nav class="tabs" id="tabs" role="tablist">
+    <button data-tab="home" class="active" role="tab">Home</button>
+    <button data-tab="manga" role="tab">Manga</button>
+    <button data-tab="story" role="tab">Story Bible</button>
+    <button data-tab="characters" role="tab">Characters</button>
+    <button data-tab="locations" role="tab">Locations</button>
+    <button data-tab="scope" role="tab">Future Scope</button>
+  </nav>
+</header>
+
+<main>
+  <!-- ============ HOME ============ -->
+  <section class="tab active" id="tab-home">
+    <div class="hero">
+      <div>
+        <div class="logline">In a world shattered into nine realms — each home to its own civilization and its own kind of being — a scarred human boy, a rare <b>Mosaic</b> born with a fragment of the First Being's soul, sets out with one warrior of every realm to stop a hollow god who would devour all races into one painless unity.</div>
+        <div class="stats">
+          <div class="stat"><b>9</b><span>Realms</span></div>
+          <div class="stat"><b>49</b><span>Races</span></div>
+          <div class="stat"><b>625</b><span>Named characters</span></div>
+          <div class="stat"><b>36</b><span>Pilot pages</span></div>
+        </div>
+        <p class="pitch"><b>The theme:</b> unity without erasure. No race is the monster — the monster is the <i>hunger</i>, and the cure is a <i>name said back</i>. A multi-race epic built from day one for manga, anime, movies, card games, and PC games: the power system is a card system first, the leads are realm-faces second, and the world is the IP.</p>
+      </div>
+      <figure class="cover">
+        <img src="other/assets/cover-vol1.png" alt="AURELION Volume 1 cover — a scarred boy, a rift, and a nine-pointed-crown world" loading="lazy">
+        <figcaption>Volume 1 — <i>The Scar</i> · cover concept (title lettering to be added in production)</figcaption>
+      </figure>
+    </div>
+    <h2 class="section">Read the pilot</h2>
+    <p class="pitch">Three chapters are scripted (12 pages each — one chapter = one single issue = one anime episode), and chapters 4–6 are locked as a canon outline. The pilot ends with the King's first line, the grove's Re-Oath, and the Hollow's first word.</p>
+    <div style="margin-top:14px"><button class="btn" onclick="location.hash='#/manga/chapter-01'">▶ &nbsp;Start reading — Chapter 1: “The Bell in the Rain”</button></div>
+    <h2 class="section" style="margin-top:34px">How this site works</h2>
+    <p class="pitch">This is the project's <b>index page</b>, deployed straight from the repository on GitHub Pages — the repo <i>is</i> the site. The tabs open the same markdown files the team writes from: <b>Manga</b> (the pilot, chapter by chapter), <b>Story Bible</b> (saga, races, cast book, power system), <b>Characters</b> (design sheets), <b>Locations</b> (world guides), and <b>Future Scope</b> (the franchise roadmap). New chapters and scopes land here with every push.</p>
+  </section>
+
+  <!-- ============ MANGA ============ -->
+  <section class="tab" id="tab-manga">
+    <div id="manga-list">
+      <h2 class="section">The Manga — Season 1 (Volumes 1–3)</h2>
+      <p class="pitch" style="margin-bottom:18px">The main series is the spine: the same world, told panel by panel, in the order the realms wake. Ch. 1–2 = <i>Vol. 1 “The Scar”</i> · Ch. 3–5 = <i>Vol. 2 “The Withering”</i> · Ch. 6+ = <i>Vol. 3 “The First Crown”</i>.</p>
+      <div class="cards" id="manga-cards"></div>
+    </div>
+    <div id="manga-reader" style="display:none">
+      <div class="reader-head">
+        <span class="crumb" id="manga-crumb"></span>
+      </div>
+      <div class="reader-nav">
+        <button class="btn" id="manga-prev">← Previous</button>
+        <button class="btn" id="manga-toc">≡ Chapter list</button>
+        <button class="btn" id="manga-next">Next →</button>
+      </div>
+      <div class="doc" id="manga-doc"></div>
+    </div>
+  </section>
+
+  <!-- ============ STORY ============ -->
+  <section class="tab" id="tab-story">
+    <h2 class="section">The Story Bible</h2>
+    <p class="pitch" style="margin-bottom:18px">The canon — the fixed facts every medium builds on. The canon spine (what to protect) is in file 05, §I.</p>
+    <div class="cards" id="story-cards"></div>
+  </section>
+
+  <!-- ============ CHARACTERS ============ -->
+  <section class="tab" id="tab-characters">
+    <h2 class="section">Characters</h2>
+    <p class="pitch" style="margin-bottom:18px">The cast, organized for the art team, the card game, and the reader. Design sheets here; the 625-name cast book lives in the Story Bible.</p>
+    <div class="cards" id="char-cards"></div>
+  </section>
+
+  <!-- ============ LOCATIONS ============ -->
+  <section class="tab" id="tab-locations">
+    <h2 class="section">Locations</h2>
+    <p class="pitch" style="margin-bottom:18px">Where the story lives: the town that starts it, and the nine realms that wake to end it.</p>
+    <div class="cards" id="loc-cards"></div>
+  </section>
+
+  <!-- ============ SCOPE ============ -->
+  <section class="tab" id="tab-scope">
+    <h2 class="section">Future Scope — The Franchise Roadmap</h2>
+    <p class="pitch" style="margin-bottom:18px">AURELION is not a story that <i>gets adapted</i> — it's a world that <i>gets built</i>. The saga is the spine; the scope is the flesh. Open the file to see the anime, manga, movie, TCG, and PC-game roadmaps, the 10-year IP timeline, and the sequel scope.</p>
+    <div class="cards" id="scope-cards"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="ninebar" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+  AURELION · original IP by clickalex · this site is the repository itself, deployed from <b>main</b> via GitHub Pages
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+/* ================= DATA ================= */
+const MANGA_CHAPTERS = [
+  { file:"story/manga/chapter-01.md", num:"Ch. 1", title:"The Bell in the Rain",  desc:"Ashenmere. The Riftfall. The first Name-Return. The cart arrives. The grove breathes.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-02.md", num:"Ch. 2", title:"The Name of the Scar",  desc:"Lyra arrives. The withered grove. The first small Re-Oath — the green ring. The first half-table.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-03.md", num:"Ch. 3", title:"One Table",             desc:"Grimm, Morgatha, Viv, and Nereia arrive. Orvane's sermon. Nine of you, one table. The King's first line.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-04-06-outline.md", num:"Ch. 4–6", title:"The Withered Court · The Name of the King · The First Crown", desc:"The canon-locked beat outline for the pilot's finale: the court, the King's death, the Re-Oath, Azrael & Bramble, and Vaelthorn's first word.", status:"outline", badge:"36 pp · beat outline" },
+];
+const STORY_FILES = [
+  { file:"story/01-the-story.md",           kicker:"File 01", title:"The Great Story",       desc:"Full premise, world history, the three-act saga, all realm arcs, the ending, the sequel hook." },
+  { file:"story/02-races-and-realms.md",    kicker:"File 02", title:"Races & Realms",        desc:"49 races + 9 reserved Realm-10 slots; the nine realms; 15 pillar profiles (culture, art direction, game hooks)." },
+  { file:"story/03-characters.md",          kicker:"File 03", title:"Cast Book (625)",       desc:"Tier 1 core (9) + Tier 2 principals (29) + villains + the counting rule. The index of every named character." },
+  { file:"story/03a-principals.md",         kicker:"File 03a", title:"Tier 2 Principals (67)", desc:"Named sovereigns, courtiers, clan-leaders — incl. the Seven Archdukes, Faelis, Thornring, Mourvel." },
+  { file:"story/03b-ensemble.md",           kicker:"File 03b", title:"Tier 3 Ensemble (280)", desc:"Recurring named NPCs per realm: the Ashenmere town, the Sylvaris court, the news-service, the cells." },
+  { file:"story/03c-roster.md",             kicker:"File 03c", title:"Tier 4 Population (240)", desc:"The “world is populated” layer + the spin-off seed bank." },
+  { file:"story/04-power-system.md",        kicker:"File 04", title:"The Power System",      desc:"Sigils, Chords, the Unraveling, the Nine Crowns — written to double as card-game rules." },
+  { file:"story/05-future-scope.md",        kicker:"File 05", title:"Future Scope",          desc:"The canon spine, anime/manga/movie/TCG/PC roadmaps, the 10-year timeline, the sequel scope." },
+  { file:"story/manga/README.md",           kicker:"Manga", title:"Manga Guide",             desc:"Reading order, what a chapter file contains, pilot canon quick-reference, the writing rules." },
+];
+const CHAR_FILES = [
+  { file:"character/mosaic-nine.md",  kicker:"Design sheets", title:"The Mosaic Nine",       desc:"All nine leads: look, on-page palette (hex), motifs, pilot anchors, canon pilot lines, adaptation notes — plus the support cast and the Nine-Color Key." },
+  { file:"character/README.md",       kicker:"Cast index",    title:"Character System",      desc:"Casting logic, the tier system, the 625-name audit, and the rules for adding new characters." },
+];
+const LOC_FILES = [
+  { file:"location/ashenmere.md",   kicker:"Pilot location",  title:"Ashenmere",             desc:"The town of the pilot — map, design guide, the Festival of Open Doors, and what the town is *for*." },
+  { file:"location/nine-realms.md", kicker:"World guide",     title:"The Nine Realms",       desc:"Where everything is: the nine realms' location notes, the Nine-Color Key, the geography rule, and Realm 10 (reserved)." },
+];
+const SCOPE_FILES = [
+  { file:"story/05-future-scope.md", kicker:"The roadmap", title:"The Future Scope List",   desc:"Anime roadmap (4 seasons) · manga roadmap (12 volumes + spin-offs) · movies · TCG (system + Set 1) · PC games · novels & audio · 10-year IP timeline · sequel scope (Realm 10) · the risk list." },
+];
+
+/* ================= STATE ================= */
+let currentTab = "home";
+let mangaIndex = -1;
+let currentDoc = null;
+
+const $ = (s) => document.querySelector(s);
+const tabs = $("#tabs");
+
+/* ================= MARKDOWN ================= */
+function mdRender(md){
+  if (window.marked){
+    try { return marked.parse(md); } catch(e){ /* fall through */ }
+  }
+  return "<pre>" + md.replace(/&/g,"&amp;").replace(/</g,"&lt;") + "</pre>";
+}
+async function loadDoc(url){
+  const res = await fetch(url, {cache:"no-store"});
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  return await res.text();
+}
+function resolve(href, base){
+  try { return new URL(href, base).href; } catch(e){ return null; }
+}
+
+/* ================= CARD GRIDS ================= */
+function makeCard(f, onclick){
+  const el = document.createElement("div");
+  el.className = "card";
+  el.innerHTML =
+    (f.kicker ? `<div class="kicker">${f.kicker}</div>` : "") +
+    `<h3>${f.title}${f.badge ? ` <span class="badge ${f.status || "readme"}">${f.badge}</span>` : ""}</h3>` +
+    `<p>${f.desc}</p>`;
+  el.addEventListener("click", onclick);
+  return el;
+}
+function buildCards(){
+  MANGA_CHAPTERS.forEach((c, i) => {
+    $("#manga-cards").appendChild(makeCard(c, () => openManga(i)));
+  });
+  STORY_FILES.forEach(f => {
+    $("#story-cards").appendChild(makeCard(f, () => openFile("story", f.file)));
+  });
+  CHAR_FILES.forEach(f => {
+    $("#char-cards").appendChild(makeCard(f, () => openFile("characters", f.file)));
+  });
+  LOC_FILES.forEach(f => {
+    $("#loc-cards").appendChild(makeCard(f, () => openFile("locations", f.file)));
+  });
+  SCOPE_FILES.forEach(f => {
+    $("#scope-cards").appendChild(makeCard(f, () => openFile("scope", f.file)));
+  });
+}
+
+/* ================= TABS ================= */
+function setTab(name){
+  currentTab = name;
+  document.querySelectorAll("nav.tabs button").forEach(b => b.classList.toggle("active", b.dataset.tab === name));
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.id === "tab-" + name));
+  if (name === "manga" && mangaIndex < 0){ showMangaList(); }
+  window.scrollTo({top:0});
+}
+tabs.addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-tab]");
+  if (b) setTab(b.dataset.tab);
+});
+
+/* ================= READER (shared doc pane logic) ================= */
+async function renderInto(pane, url, title, base){
+  pane.innerHTML = '<div class="loading">Loading…</div>';
+  try {
+    const md = await loadDoc(url);
+    pane.innerHTML = mdRender(md);
+    // route .md links through the viewer
+    pane.querySelectorAll("a[href]").forEach(a => {
+      a.addEventListener("click", (ev) => {
+        const abs = resolve(a.getAttribute("href"), base || location.href);
+        if (!abs) return;
+        const path = abs.split(/[#?]/)[0];
+        if (/\.md$/i.test(path) && path.includes("Manga/")){
+          ev.preventDefault();
+          const rel = decodeURIComponent(new URL(path, location.href).pathname.split("Manga/").pop() || path);
+          openByFile(rel);
+        }
+      });
+    });
+  } catch (err) {
+    pane.innerHTML = `<p class="loading">Couldn't load this file (${err.message}). If you opened index.html straight from disk, serve it instead: <code>python3 -m http.server</code></p>`;
+  }
+}
+
+/* ================= MANGA READER ================= */
+function showMangaList(){
+  $("#manga-list").style.display = "";
+  $("#manga-reader").style.display = "none";
+}
+function openManga(i){
+  mangaIndex = i;
+  setTab("manga");
+  $("#manga-list").style.display = "none";
+  $("#manga-reader").style.display = "";
+  const c = MANGA_CHAPTERS[i];
+  $("#manga-crumb").textContent = `${c.num} · ${c.title}`;
+  $("#manga-prev").disabled = (i === 0);
+  $("#manga-next").disabled = (i === MANGA_CHAPTERS.length - 1);
+  history.replaceState(null, "", "#/manga/" + c.file.replace("story/manga/", "").replace(".md",""));
+  renderInto($("#manga-doc"), c.file, c.title, location.href);
+  window.scrollTo({top:0});
+}
+$("#manga-prev").addEventListener("click", () => { if (mangaIndex > 0) openManga(mangaIndex - 1); });
+$("#manga-next").addEventListener("click", () => { if (mangaIndex < MANGA_CHAPTERS.length - 1) openManga(mangaIndex + 1); });
+$("#manga-toc").addEventListener("click", showMangaList);
+
+/* ================= OTHER TABS (doc overlay) ================= */
+function openFile(tabName, file){
+  setTab(tabName);
+  const pane = document.createElement("div");
+  pane.className = "doc";
+  pane.style.marginTop = "18px";
+  const holder = document.getElementById("tab-" + tabName);
+  const old = holder.querySelector(".doc");
+  if (old) old.remove();
+  holder.appendChild(pane);
+  currentDoc = {pane, file, tab: tabName};
+  renderInto(pane, file, "", location.href);
+  pane.scrollIntoView({behavior:"smooth", block:"start"});
+}
+function openByFile(rel){
+  const all = [
+    ...MANGA_CHAPTERS.map(c => ({...c, tab:"manga"})),
+    ...STORY_FILES.map(f => ({...f, tab:"story"})),
+    ...CHAR_FILES.map(f => ({...f, tab:"characters"})),
+    ...LOC_FILES.map(f => ({...f, tab:"locations"})),
+    ...SCOPE_FILES.map(f => ({...f, tab:"scope"})),
+  ];
+  const hit = all.find(f => f.file === rel);
+  if (!hit){ location.hash = "#"; return; }
+  if (hit.tab === "manga"){
+    const i = MANGA_CHAPTERS.findIndex(c => c.file === hit.file);
+    openManga(i);
+  } else {
+    openFile(hit.tab, hit.file);
+  }
+}
+
+/* ================= ROUTER ================= */
+function route(){
+  const h = location.hash;
+  const m = h.match(/^#\/manga\/(.+)$/);
+  if (m){
+    const slug = decodeURIComponent(m[1]);
+    const file = "story/manga/" + slug + ".md";
+    const i = MANGA_CHAPTERS.findIndex(c => c.file === file);
+    if (i >= 0){ openManga(i); return; }
+    // a chapter file not in the list — still open it
+    openMangaListCustom(file);
+    return;
+  }
+  const t = h.match(/^#\/([a-z]+)$/);
+  if (t && ["home","manga","story","characters","locations","scope"].includes(t[1])) setTab(t[1]);
+}
+function openMangaListCustom(file){
+  setTab("manga");
+  $("#manga-list").style.display = "none";
+  $("#manga-reader").style.display = "";
+  mangaIndex = -1;
+  $("#manga-crumb").textContent = file.split("/").pop().replace(".md","");
+  $("#manga-prev").disabled = true; $("#manga-next").disabled = true;
+  renderInto($("#manga-doc"), file, "", location.href);
+}
+
+/* ================= INIT ================= */
+buildCards();
+window.addEventListener("hashchange", route);
+route();
+</script>
+</body>
+</html>
