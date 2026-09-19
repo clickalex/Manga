@@ -41,7 +41,7 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 | [03c-roster.md](03c-roster.md) | **Tier 4 named population (240)** — the "world is populated" layer + spin-off seed bank |
 | [04-power-system.md](04-power-system.md) | **Sigils, Chords, ranks, the Unraveling, the Nine Crowns** — the magic system, written to double as card-game rules |
 | [05-future-scope.md](05-future-scope.md) | **The future scope list** — anime/manga/movie roadmap, TCG design + first set, PC games, novels, 10-year IP timeline, sequel scope |
-| [manga/](manga/README.md) | **The manga (main series)** — Ch. 1–3 scripted (12-page panel scripts), Ch. 4–6 canon-locked beat outline, pilot canon quick-reference, writing rules |
+| [manga/](manga/README.md) | **The manga (main series)** — Ch. 1–6 scripted (12-page panel scripts — the full pilot), Ch. 4–6 canon-locked outline (reference), pilot canon quick-reference, writing rules |
 
 ## Working titles
 
@@ -57,10 +57,11 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 - [x] Future scope / franchise roadmap
 - [x] Manga Ch. 1–3 scripted (12-page panel scripts: *The Bell in the Rain* · *The Name of the Scar* · *One Table*)
 - [x] Manga Ch. 4–6 canon-locked beat outline (*The Withered Court* · *The Name of the King* · *The First Crown* — pilot finale)
+- [x] Manga Ch. 4–6 scripted — **the pilot is complete** (12-page panel scripts, drawn from the canon-locked outline: the white rush, the Re-Oath, *The First Dawn*, Azrael & Bramble's first appearances, Vaelthorn's first word)
 - [x] Character design sheets (the Mosaic Nine, with palettes — [../character/](../character/README.md))
 - [x] Location guides (Ashenmere + the Nine Realms — [../location/](../location/README.md))
 - [x] Deployable index page (root [../index.html](../index.html) — GitHub Pages)
 - [ ] Season 1 full episode list (anime S1, 24 eps)
 - [ ] TCG Set 1 card list (120 cards — "Crown of Ashenmere")
 
-> Next: **script Ch. 4–6** (the outline is canon-locked — the verbatim lines and protected beats are in [manga/chapter-04-06-outline.md](manga/chapter-04-06-outline.md)).
+> Next: **script Chapter 7** — Season 1 continues (Vol. 3, *The First Crown*: "The gray is patient. So is the map."). The pilot's canon lock is now the page itself; the outline remains the reference at [manga/chapter-04-06-outline.md](manga/chapter-04-06-outline.md).

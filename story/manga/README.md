@@ -9,7 +9,12 @@
 | [chapter-01.md](chapter-01.md) | 1 | *The Bell in the Rain* | 12 | ✅ Scripted |
 | [chapter-02.md](chapter-02.md) | 2 | *The Name of the Scar* | 12 | ✅ Scripted |
 | [chapter-03.md](chapter-03.md) | 3 | *One Table* | 12 | ✅ Scripted |
-| [chapter-04-06-outline.md](chapter-04-06-outline.md) | 4–6 | *The Withered Court · The Name of the King · The First Crown* | 36 | 📐 Beat outline (canon-locked) |
+| [chapter-04.md](chapter-04.md) | 4 | *The Withered Court* | 12 | ✅ Scripted |
+| [chapter-05.md](chapter-05.md) | 5 | *The Name of the King* | 12 | ✅ Scripted |
+| [chapter-06.md](chapter-06.md) | 6 | *The First Crown* | 12 | ✅ Scripted · **end of pilot** |
+| [chapter-04-06-outline.md](chapter-04-06-outline.md) | 4–6 | *Canon outline (the contract Ch. 4–6 was drawn from)* | 36 | 📐 Canon-locked reference |
+
+> **The pilot (Ch. 1–6) is complete.** Ch. 7 continues Season 1 (Vol. 3, *The First Crown* — "The gray is patient. So is the map.")
 
 **One chapter = 12 pages = one single-issue = one episode of the anime S1.** Season 1 = Volumes 1–3 of the main series (canon, 05-future-scope §III):
 
