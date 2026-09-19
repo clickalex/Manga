@@ -52,7 +52,8 @@ Manga/
 └── other/                      ← SITE (the deployment side)
     ├── README.md               ← deploy guide (GitHub Pages steps) + house rules
     └── assets/
-        └── cover-vol1.png      ← Volume 1 cover (AI concept, no text)
+        ├── cover-vol1.png      ← Volume 1 cover (AI concept, no text)
+        └── cover-vol1-web.jpg  ← web copy used by index.html (JPEG, ~350 KB)
 ```
 
 **The four-folder rule:** canon goes in `story/`, character design in `character/`, world/location docs in `location/`, site assets & deploy notes in `other/`. No loose files at the root except `index.html` and this README.

@@ -7,6 +7,7 @@
 | Path | What it is |
 |---|---|
 | [assets/cover-vol1.png](assets/cover-vol1.png) | **Volume 1 cover** (AI-generated, no text — the reader adds the title in lettering): the scarred boy, the chest-scar's silver-green bloom, the rift, the nine-pointed-crown world. Used by the index page's Home tab and the manga tab header. |
+| [assets/cover-vol1-web.jpg](assets/cover-vol1-web.jpg) | **Web copy of the cover** (same 1024×1536 image, JPEG q86, ~350 KB vs the 3.6 MB PNG master) — this is what `index.html` shows on the Home tab. Regenerate from the PNG with `convert cover-vol1.png -strip -quality 86 cover-vol1-web.jpg`; keep the PNG as the master. |
 
 ## Deploying to GitHub Pages (the index page)
 
@@ -14,7 +15,7 @@ The site is a **single index page** at the repo root: [`index.html`](../index.ht
 
 **Steps (one-time, ~2 minutes):**
 
-1. Push this branch and **merge the PR into `main`** (the PR is already open: clickalex/Manga#1).
+1. Make sure the work is on **`main`** (merge the open PR into `main`).
 2. On GitHub, open the repo → **Settings → Pages**.
 3. Under **Build and deployment → Source**: choose **Deploy from a branch**.
 4. Branch: **`main`**, folder: **`/ (root)`** → **Save**.

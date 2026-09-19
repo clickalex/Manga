@@ -171,7 +171,7 @@
         <p class="pitch"><b>The theme:</b> unity without erasure. No race is the monster — the monster is the <i>hunger</i>, and the cure is a <i>name said back</i>. A multi-race epic built from day one for manga, anime, movies, card games, and PC games: the power system is a card system first, the leads are realm-faces second, and the world is the IP.</p>
       </div>
       <figure class="cover">
-        <img src="other/assets/cover-vol1.png" alt="AURELION Volume 1 cover — a scarred boy, a rift, and a nine-pointed-crown world" loading="lazy">
+        <img src="other/assets/cover-vol1-web.jpg" alt="AURELION Volume 1 cover — a scarred boy, a rift, and a nine-pointed-crown world" width="1024" height="1536" loading="lazy">
         <figcaption>Volume 1 — <i>The Scar</i> · cover concept (title lettering to be added in production)</figcaption>
       </figure>
     </div>
@@ -236,7 +236,7 @@
   AURELION · original IP by clickalex · this site is the repository itself, deployed from <b>main</b> via GitHub Pages
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script id="marked-cdn" src="https://cdn.jsdelivr.net/npm/marked@15/marked.min.js" defer></script>
 <script>
 /* ================= DATA ================= */
 const MANGA_CHAPTERS = [
@@ -286,11 +286,32 @@ const $ = (s) => document.querySelector(s);
 const tabs = $("#tabs");
 
 /* ================= MARKDOWN ================= */
-function mdRender(md){
+// The CDN script is deferred so a slow/blocked CDN never blocks first paint; wait for it (or its failure) before rendering.
+const markedReady = new Promise((done) => {
+  if (window.marked) return done();
+  const s = document.getElementById("marked-cdn");
+  if (!s) return done();
+  s.addEventListener("load", done, {once:true});
+  s.addEventListener("error", done, {once:true});
+  setTimeout(done, 8000);
+});
+async function mdRender(md){
+  await markedReady;
   if (window.marked){
     try { return marked.parse(md); } catch(e){ /* fall through */ }
   }
   return "<pre>" + md.replace(/&/g,"&amp;").replace(/</g,"&lt;") + "</pre>";
+}
+// GitHub-style heading ids, so in-document anchors work
+function addHeadingIds(pane){
+  const seen = {};
+  pane.querySelectorAll("h1,h2,h3,h4,h5,h6").forEach(h => {
+    if (h.id) return;
+    let id = h.textContent.trim().toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s+/g, "-");
+    if (!id) return;
+    if (seen[id] != null){ seen[id]++; id = id + "-" + seen[id]; } else { seen[id] = 0; }
+    h.id = id;
+  });
 }
 async function loadDoc(url){
   const res = await fetch(url, {cache:"no-store"});
@@ -344,20 +365,31 @@ tabs.addEventListener("click", (e) => {
 });
 
 /* ================= READER (shared doc pane logic) ================= */
-async function renderInto(pane, url, base){
+async function renderInto(pane, file){
   pane.innerHTML = '<div class="loading">Loading…</div>';
+  // Relative links inside a markdown file resolve against THAT file's URL (e.g. "../../location/nine-realms.md" from story/manga/).
+  const docURL = resolve(file, SITE_BASE) || location.href;
   try {
-    const md = await loadDoc(url);
-    pane.innerHTML = mdRender(md);
-    // route .md links through the viewer
+    const md = await loadDoc(docURL);
+    pane.innerHTML = await mdRender(md);
+    addHeadingIds(pane);
+    // route links: .md files inside the site open in the viewer; same-document anchors scroll; everything else is left alone
     pane.querySelectorAll("a[href]").forEach(a => {
       a.addEventListener("click", (ev) => {
-        const abs = resolve(a.getAttribute("href"), base || location.href);
+        const href = a.getAttribute("href");
+        const abs = resolve(href, docURL);
         if (!abs) return;
-        const path = abs.split(/[#?]/)[0];
-        if (/\.md$/i.test(path) && path.startsWith(SITE_BASE)){
+        const [path, hash] = abs.split("#");
+        const cleanPath = path.split("?")[0];
+        if (cleanPath === docURL.split(/[#?]/)[0] && hash){
           ev.preventDefault();
-          openByFile(decodeURIComponent(path.slice(SITE_BASE.length)));
+          const target = document.getElementById(decodeURIComponent(hash));
+          if (target) target.scrollIntoView({behavior:"smooth", block:"start"});
+          return;
+        }
+        if (/\.md$/i.test(cleanPath) && cleanPath.startsWith(SITE_BASE)){
+          ev.preventDefault();
+          openByFile(decodeURIComponent(cleanPath.slice(SITE_BASE.length)));
         }
       });
     });
@@ -381,7 +413,7 @@ function openManga(i){
   $("#manga-prev").disabled = (i === 0);
   $("#manga-next").disabled = (i === MANGA_CHAPTERS.length - 1);
   history.replaceState(null, "", "#/manga/" + c.file.replace("story/manga/", "").replace(".md",""));
-  renderInto($("#manga-doc"), c.file, location.href);
+  renderInto($("#manga-doc"), c.file);
   window.scrollTo({top:0});
 }
 $("#manga-prev").addEventListener("click", () => { if (mangaIndex > 0) openManga(mangaIndex - 1); });
@@ -398,8 +430,17 @@ function openFile(tabName, file){
   const old = holder.querySelector(".doc");
   if (old) old.remove();
   holder.appendChild(pane);
-  renderInto(pane, file, location.href);
+  history.replaceState(null, "", "#/doc/" + file);
+  renderInto(pane, file);
   pane.scrollIntoView({behavior:"smooth", block:"start"});
+}
+// Which tab a markdown file belongs under when it isn't one of the listed cards (READMEs, future files).
+function tabForPath(rel){
+  if (rel.startsWith("story/manga/")) return "manga";
+  if (rel.startsWith("story/")) return "story";
+  if (rel.startsWith("character/")) return "characters";
+  if (rel.startsWith("location/")) return "locations";
+  return "story";
 }
 function openByFile(rel){
   const all = [
@@ -410,7 +451,13 @@ function openByFile(rel){
     ...SCOPE_FILES.map(f => ({...f, tab:"scope"})),
   ];
   const hit = all.find(f => f.file === rel);
-  if (!hit){ location.hash = "#"; return; }
+  if (!hit){
+    // Not a listed card (e.g. a README or a chapter added later) — still open it, in the right tab.
+    if (!/\.md$/i.test(rel)) return;
+    const tab = tabForPath(rel);
+    if (tab === "manga") openMangaListCustom(rel); else openFile(tab, rel);
+    return;
+  }
   if (hit.tab === "manga"){
     const i = MANGA_CHAPTERS.findIndex(c => c.file === hit.file);
     openManga(i);
@@ -432,6 +479,12 @@ function route(){
     openMangaListCustom(file);
     return;
   }
+  const d = h.match(/^#\/doc\/(.+)$/);
+  if (d){
+    const rel = decodeURIComponent(d[1]).replace(/^\/+/, "");
+    if (/\.md$/i.test(rel) && !rel.includes("..")) openByFile(rel);
+    return;
+  }
   const t = h.match(/^#\/([a-z]+)$/);
   if (t && ["home","manga","story","characters","locations","scope"].includes(t[1])) setTab(t[1]);
 }
@@ -442,7 +495,8 @@ function openMangaListCustom(file){
   mangaIndex = -1;
   $("#manga-crumb").textContent = file.split("/").pop().replace(".md","");
   $("#manga-prev").disabled = true; $("#manga-next").disabled = true;
-  renderInto($("#manga-doc"), file, location.href);
+  history.replaceState(null, "", "#/manga/" + file.replace("story/manga/", "").replace(".md",""));
+  renderInto($("#manga-doc"), file);
 }
 
 /* ================= INIT ================= */
