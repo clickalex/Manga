@@ -59,10 +59,11 @@ A thousand years ago, **Aurelion** — the First Dreaming, the being that was "e
 - [x] Manga Ch. 4–6 canon-locked beat outline (*The Withered Court* · *The Name of the King* · *The First Crown* — pilot finale)
 - [x] Manga Ch. 4–6 scripted — **the pilot is complete** (12-page panel scripts, drawn from the canon-locked outline: the white rush, the Re-Oath, *The First Dawn*, Azrael & Bramble's first appearances, Vaelthorn's first word)
 - [x] Manga Ch. 7 scripted — **S1 continues** (*The Name of the Road*: the gray's strategy, the first named road — **FOR.** — the hearth's letter, the three realm messengers, the first nine-realm map, the bell's first self-ring on a colored page)
+- [x] Manga Ch. 8 scripted — **S1 continues** (*Open Doors*: the crossing walks the named road, the relay of plates + names, the white's first water test, the Veil-water holds by song, the folk cross the gate one by one, the border child Kit names the next road **HOME**, the white *turns* to look at a name for the first time)
 - [x] Character design sheets (the Mosaic Nine, with palettes — [../character/](../character/README.md))
 - [x] Location guides (Ashenmere + the Nine Realms — [../location/](../location/README.md))
 - [x] Deployable index page (root [../index.html](../index.html) — GitHub Pages)
 - [ ] Season 1 full episode list (anime S1, 24 eps)
 - [ ] TCG Set 1 card list (120 cards — "Crown of Ashenmere")
 
-> Next: **script Chapter 8** — Season 1 continues (Vol. 3, *The First Crown*: the map is on the named road; the mountain is coughing). The pilot's canon lock is the page itself; the outline remains the reference at [manga/chapter-04-06-outline.md](manga/chapter-04-06-outline.md).
+> Next: **script Chapter 9** — Season 1 continues (Vol. 3, *The First Crown*: the named road reaches the water's end; the Moot's re-oath is the realm's word; the river is the new front). The pilot's canon lock is the page itself; the outline remains the reference at [manga/chapter-04-06-outline.md](manga/chapter-04-06-outline.md).

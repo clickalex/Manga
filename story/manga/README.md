@@ -13,9 +13,10 @@
 | [chapter-05.md](chapter-05.md) | 5 | *The Name of the King* | 12 | ✅ Scripted |
 | [chapter-06.md](chapter-06.md) | 6 | *The First Crown* | 12 | ✅ Scripted · **end of pilot** |
 | [chapter-07.md](chapter-07.md) | 7 | *The Name of the Road* | 12 | ✅ Scripted · S1 continues |
+| [chapter-08.md](chapter-08.md) | 8 | *Open Doors* | 12 | ✅ Scripted · S1 continues |
 | [chapter-04-06-outline.md](chapter-04-06-outline.md) | 4–6 | *Canon outline (the contract Ch. 4–6 was drawn from)* | 36 | 📐 Canon-locked reference |
 
-> **The pilot (Ch. 1–6) is complete.** Ch. 7 is scripted and Season 1 continues (Vol. 3, *The First Crown* — the road is named: **FOR.**). Ch. 8 is next.
+> **The pilot (Ch. 1–6) is complete.** Ch. 7–8 are scripted and Season 1 continues (Vol. 3, *The First Crown* — the road is named: **FOR.**, and the border child names the next: **HOME**). Ch. 9 is next.
 
 **One chapter = 12 pages = one single-issue = one episode of the anime S1.** Season 1 = Volumes 1–3 of the main series (canon, 05-future-scope §III):
 
