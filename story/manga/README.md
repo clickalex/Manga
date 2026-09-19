@@ -15,9 +15,10 @@
 | [chapter-07.md](chapter-07.md) | 7 | *The Name of the Road* | 12 | ✅ Scripted · S1 continues |
 | [chapter-08.md](chapter-08.md) | 8 | *Open Doors* | 12 | ✅ Scripted · S1 continues |
 | [chapter-09.md](chapter-09.md) | 9 | *The Realm's Word* | 12 | ✅ Scripted · S1 continues |
+| [chapter-10.md](chapter-10.md) | 10 | *The Name, Spoken* | 12 | ✅ Scripted · S1 continues |
 | [chapter-04-06-outline.md](chapter-04-06-outline.md) | 4–6 | *Canon outline (the contract Ch. 4–6 was drawn from)* | 36 | 📐 Canon-locked reference |
 
-> **The pilot (Ch. 1–6) is complete.** Ch. 7–9 are scripted and Season 1 continues (Vol. 3, *The First Crown* — the road is named: **FOR.** and **HOME**; the Moot's Re-Oath is the realm's word; the white faces). Ch. 10 is next.
+> **The pilot (Ch. 1–6) is complete.** Ch. 7–10 are scripted and Season 1 continues (Vol. 3, *The First Crown* — the road is named: **FOR.** and **HOME**; the Moot's Re-Oath is the realm's word; the name is spoken, the grief kept; the white is still, and facing). Ch. 11 is next.
 
 **One chapter = 12 pages = one single-issue = one episode of the anime S1.** Season 1 = Volumes 1–3 of the main series (canon, 05-future-scope §III):
 
