@@ -43,7 +43,7 @@
 
 ### P3.1 — The first: the bell-ringer
 **Art:** Kaelen, at the First's face (the art team: the Mosaic, the one frame — the face, the blank, the paper-white, the absence, the reader's held breath). The scribe, behind Kaelen (the art team: the scribe, the one frame — his inked face (Ch. 5 P11.2), his quill, the one thing in the court that is *kept* — the scribe who remembers, the realm's memory, made hand). The art team's key detail for this page (the Chord of the community, the new rule of the Name-Return, the canon made visual): **the realm supplies the memory, Kaelen supplies the name** — the Name-Return is not one voice; it is a *witness circle* (the scribe's hand, on Kaelen's shoulder — the memory, given; Kaelen's mouth, the name, spoken; the Chord is not the speaker alone, the Chord is the *kept* — the re-read payoff: the Ch. 1 P8.4 rhyme (Raelin's first full Name-Return — the memory that goes with the name), grown).
-**The scribe (the ink, the one frame, the one line, the memory, the reader's chest):** "…He rang the council's bell, every morning. I taught him the hour-song. He was *good* at it. His name was —"
+**The scribe (the ink, the one frame, the one line, the memory, the reader's chest):** "…She rang the council's bell, every morning. I taught her the hour-song. She was *good* at it. Her name was —"
 **Kaelen (quiet, the Mosaic, the Name-Return, the one line, the door, the reader's held breath):** "**Wren.**"
 **SFX:** *(a bell-note, small — drawn as a green thread from the name to the blank face — the Voss bell's mortal note, made elf-wood — the art team: the thread, the one frame, the reader's eye, the reader's chest.)*
 

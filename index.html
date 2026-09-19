@@ -47,7 +47,6 @@
   }
   nav.tabs button:hover{color:var(--ink);background:var(--panel)}
   nav.tabs button.active{color:var(--ink);background:var(--panel);border-color:var(--line);position:relative;top:1px}
-  nav.tabs button.active::after{content:"";position:absolute;left:16px;right:16px;bottom:-1px;height:3px;display:flex}
   nav.tabs button.active[data-tab="home"]{box-shadow:inset 0 3px 0 var(--nine-2)}
   nav.tabs button.active[data-tab="manga"]{box-shadow:inset 0 3px 0 var(--nine-6)}
   nav.tabs button.active[data-tab="story"]{box-shadow:inset 0 3px 0 var(--nine-5)}
@@ -90,8 +89,7 @@
     display:inline-block;font-size:11px;padding:2px 8px;border-radius:20px;border:1px solid var(--line);
     color:var(--ink-dim);margin-left:8px;vertical-align:2px;
   }
-  .badge.ok{color:#9fd08f;border-color:#3c5236}
-  .badge.outline{color:#e8c26a;border-color:#5c4a22}
+  .badge.scripted{color:#9fd08f;border-color:#3c5236}
   .badge.readme{color:#8fb7c9;border-color:#2e4650}
   /* READER */
   .reader-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:8px}
@@ -168,20 +166,20 @@
           <div class="stat"><b>9</b><span>Realms</span></div>
           <div class="stat"><b>49</b><span>Races</span></div>
           <div class="stat"><b>625</b><span>Named characters</span></div>
-          <div class="stat"><b>36</b><span>Pilot pages</span></div>
+          <div class="stat"><b>144</b><span>Scripted pages</span></div>
         </div>
         <p class="pitch"><b>The theme:</b> unity without erasure. No race is the monster — the monster is the <i>hunger</i>, and the cure is a <i>name said back</i>. A multi-race epic built from day one for manga, anime, movies, card games, and PC games: the power system is a card system first, the leads are realm-faces second, and the world is the IP.</p>
       </div>
       <figure class="cover">
-        <img src="other/assets/cover-vol1.png" alt="AURELION Volume 1 cover — a scarred boy, a rift, and a nine-pointed-crown world" loading="lazy">
+        <img src="other/assets/cover-vol1-web.jpg" alt="AURELION Volume 1 cover — a scarred boy, a rift, and a nine-pointed-crown world" width="1024" height="1536" loading="lazy">
         <figcaption>Volume 1 — <i>The Scar</i> · cover concept (title lettering to be added in production)</figcaption>
       </figure>
     </div>
-    <h2 class="section">Read the pilot</h2>
-    <p class="pitch">Three chapters are scripted (12 pages each — one chapter = one single issue = one anime episode), and chapters 4–6 are locked as a canon outline. The pilot ends with the King's first line, the grove's Re-Oath, and the Hollow's first word.</p>
+    <h2 class="section">Read the manga</h2>
+    <p class="pitch">Twelve chapters are scripted (12 pages each — one chapter = one single issue = one anime episode). The six-chapter <b>pilot</b> ends with the King's first line, the grove's Re-Oath, and the Hollow's first word; <b>Season 1 continues</b> in Ch. 7–12 — the road is named, the Moot gives the realm's word, the white goes <i>under</i>, the Nine go down after it, and the realm is called by every branch. Ch. 13 is the Season 1 finale.</p>
     <div style="margin-top:14px"><button class="btn" onclick="location.hash='#/manga/chapter-01'">▶ &nbsp;Start reading — Chapter 1: “The Bell in the Rain”</button></div>
     <h2 class="section" style="margin-top:34px">How this site works</h2>
-    <p class="pitch">This is the project's <b>index page</b>, deployed straight from the repository on GitHub Pages — the repo <i>is</i> the site. The tabs open the same markdown files the team writes from: <b>Manga</b> (the pilot, chapter by chapter), <b>Story Bible</b> (saga, races, cast book, power system), <b>Characters</b> (design sheets), <b>Locations</b> (world guides), and <b>Future Scope</b> (the franchise roadmap). New chapters and scopes land here with every push.</p>
+    <p class="pitch">This is the project's <b>index page</b>, deployed straight from the repository on GitHub Pages — the repo <i>is</i> the site. The tabs open the same markdown files the team writes from: <b>Manga</b> (Season 1, chapter by chapter), <b>Story Bible</b> (saga, races, cast book, power system), <b>Characters</b> (design sheets), <b>Locations</b> (world guides), and <b>Future Scope</b> (the franchise roadmap). New chapters and scopes land here with every push.</p>
   </section>
 
   <!-- ============ MANGA ============ -->
@@ -238,7 +236,7 @@
   AURELION · original IP by clickalex · this site is the repository itself, deployed from <b>main</b> via GitHub Pages
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script id="marked-cdn" src="https://cdn.jsdelivr.net/npm/marked@15/marked.min.js" defer></script>
 <script>
 /* ================= DATA ================= */
 const MANGA_CHAPTERS = [
@@ -248,10 +246,12 @@ const MANGA_CHAPTERS = [
   { file:"story/manga/chapter-04.md", num:"Ch. 4", title:"The Withered Court",  desc:"Sylvaris. The gate law. The prophet, revealed. The undercroft. Rootdeep's one word. The council's vote — and the throne-hall door.", status:"scripted", badge:"12 pp · scripted" },
   { file:"story/manga/chapter-05.md", num:"Ch. 5", title:"The Name of the King", desc:"Arvel's truth (the anchor). The great Name-Return. The King dies remembering. Thornring dies — S1's first death. The funeral. Orvane's reckoning.", status:"scripted", badge:"12 pp · scripted" },
   { file:"story/manga/chapter-06.md", num:"Ch. 6", title:"The First Crown",     desc:"The white rush. The Re-Oath. The First Dawn. Azrael & Bramble take the empty chairs. Eleven at the table. The Hollow — and its first word. END OF THE PILOT.", status:"scripted", badge:"12 pp · pilot finale" },
-  { file:"story/manga/chapter-09.md", num:"Ch. 9", title:"The Realm's Word",  desc:"S1 continues. The folk walk the HOME road to the Moot (the in-between's seat — a room, a table, nine chairs). The door asks; the folk answer with the relay's names. Wren — the named bell-ringer — walks back through the door (the first return, re-inked in the ledger of The Unnamed). The Moot's Re-Oath is the realm's word (ink, voice, stone). The Moot's meal: Kit's empty chair, Loam's kept plate, the Voss bell accepted into the Moot's keeping. The white's count stops — it waits, goes around to the water's end, and the water has no end. And the white turns back: it faces the Moot.", status:"scripted", badge:"12 pp · scripted" },
-  { file:"story/manga/chapter-08.md", num:"Ch. 8", title:"Open Doors",  desc:"S1 continues. The crossing walks the named road (the plate + the bread + the name, at every door). The white's first water test — the Veil-water holds by the water's line. The folk cross the gate one by one (the gate learns a people). The border child Kit names the next road: HOME. The white turns — the first time it looks at a name — and holds.", status:"scripted", badge:"12 pp · scripted" },
   { file:"story/manga/chapter-07.md", num:"Ch. 7", title:"The Name of the Road",  desc:"S1 continues. The gray's strategy (it takes the roads). Two names written back; one kept, unnamed. The road is named: FOR. The hearth's letter. Three messengers, three realms still falling. The first nine-realm map. The bell answers the ring.", status:"scripted", badge:"12 pp · scripted" },
-  { file:"story/manga/chapter-04-06-outline.md", num:"Ch. 4–6", title:"Canon Outline (locked)", desc:"The canon-locked beat outline the three chapters above were drawn from: verbatim lines, protected beats, production rules.", status:"outline", badge:"reference" },
+  { file:"story/manga/chapter-08.md", num:"Ch. 8", title:"Open Doors",  desc:"S1 continues. The crossing walks the named road (the plate + the bread + the name, at every door). The white's first water test — the Veil-water holds by the water's line. The folk cross the gate one by one (the gate learns a people). The border child Kit names the next road: HOME. The white turns — the first time it looks at a name — and holds.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-09.md", num:"Ch. 9", title:"The Realm's Word",  desc:"S1 continues. The folk walk the HOME road to the Moot (the in-between's seat — a room, a table, nine chairs). The door asks; the folk answer with the relay's names. Wren — the named bell-ringer — walks back through the door (the first return, re-inked in the ledger of The Unnamed). The Moot's Re-Oath is the realm's word (ink, voice, stone). The Moot's meal: Kit's empty chair, Loam's kept plate, the Voss bell accepted into the Moot's keeping. The white's count stops — it waits, goes around to the water's end, and the water has no end. And the white turns back: it faces the Moot.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-10.md", num:"Ch. 10", title:"The Unnamed Road",  desc:"S1 continues. The white, facing the Moot, goes under the far bank — not into the water (the water is a song) but into the ground; the bank is empty, and empty is worse. The count comes back to Morgatha. Bramble finds her name is not in the ledger (people took it, not the gray) and says: good — somebody has to say it. Viv's forty-page case gets one sentence back: a carried name belongs to whoever answers to it. Fenn's map has no down — Wren Thistledown (his niece, which the page finally says) draws the saga's first cross-section: the great tree's roots run under the river to the far bank. The chorus panel returns: under. The Moot's door lets the named go; the bell stays on a peg; Wren stays to draw this end. Osric's pole finds a bottom the Veil-water never had — root, warm. At the tree the spring lets its breath out downward, the seed leans at the trunk, and one root moves. Here turn the named.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-11.md", num:"Ch. 11", title:"The Held Door",  desc:"S1 continues. The spring is empty and its floor is open: the root that moved made a way. The Nine go down the undercroft stair — past the cell's empty room, into the Keeping (the under-grove's room of kept things with no labels), to the heart-root, where the Everbloom Crown is the tree's first ring and the spring's water holds in a ring between it and the white. The white is waiting for a door: the Third's blank face — the one road up that no one named. The tree asks Lyra a second time; she tells it to ask the realm, and spends a ring doing it. Kaelen's scar pulses — and across the map, in one page, the Voss bell rings on its peg at the Moot (the hour is written), Pippin's mark pulses, and Roderick's hand is in the water. In sealed Ashenmere, Senna answers her brother's letter with a plate and a five-year-old sign on the first white stone. The Nine split: Lyra up, to hear the realm asked; Kaelen down, in the room, holding the door from the inside. The water breathes out once. Here hold the named.", status:"scripted", badge:"12 pp · scripted" },
+  { file:"story/manga/chapter-12.md", num:"Ch. 12", title:"Every Branch",  desc:"S1 continues — the call. Faelis summons the grove the only way a grove can be summoned: every branch. The sprites carry it tree to tree, Reed sings it down the FOR road, Vaelis writes it, the ferry brings it to the Moot — which votes, and walks: Room-Chimera rooms the moot wherever it is, Door-Oni carries the door with the Voss bell on its peg. Ashenmere walks the white road on its own doorsteps — four hundred plates, laid ahead and lifted behind — to the border grove's ring, where the realm's vote reaches the town by root; Hilda's petition is finished at page 400 and delivered to a tree; Pippin crosses, not alone. The realm arrives — clans, fauns, mothkin writing the day in silk, Rootdeep the keystone refusing to lean — and hears the tree's one sentence for the first time; every elf's hand goes to their temple, and Viv gives them the forty pages in one line. Below, the Third's robe begins to un-ink from the hem, the kept thing comes down wrapped and is set at his feet, Kaelen tells him what his father did inside a door — and when the stair's first step goes white, steps onto it. The count stops, and stays stopped. Here come the named.", status:"scripted", badge:"12 pp · scripted" },
 ];
 const STORY_FILES = [
   { file:"story/01-the-story.md",           kicker:"File 01", title:"The Great Story",       desc:"Full premise, world history, the three-act saga, all realm arcs, the ending, the sequel hook." },
@@ -279,17 +279,39 @@ const SCOPE_FILES = [
 /* ================= STATE ================= */
 let currentTab = "home";
 let mangaIndex = -1;
-let currentDoc = null;
+// Directory this index.html is served from (works for GitHub Pages under /Manga/ and for a local `python3 -m http.server`).
+const SITE_BASE = new URL(".", location.href).href;
 
 const $ = (s) => document.querySelector(s);
 const tabs = $("#tabs");
 
 /* ================= MARKDOWN ================= */
-function mdRender(md){
+// The CDN script is deferred so a slow/blocked CDN never blocks first paint; wait for it (or its failure) before rendering.
+const markedReady = new Promise((done) => {
+  if (window.marked) return done();
+  const s = document.getElementById("marked-cdn");
+  if (!s) return done();
+  s.addEventListener("load", done, {once:true});
+  s.addEventListener("error", done, {once:true});
+  setTimeout(done, 8000);
+});
+async function mdRender(md){
+  await markedReady;
   if (window.marked){
     try { return marked.parse(md); } catch(e){ /* fall through */ }
   }
   return "<pre>" + md.replace(/&/g,"&amp;").replace(/</g,"&lt;") + "</pre>";
+}
+// GitHub-style heading ids, so in-document anchors work
+function addHeadingIds(pane){
+  const seen = {};
+  pane.querySelectorAll("h1,h2,h3,h4,h5,h6").forEach(h => {
+    if (h.id) return;
+    let id = h.textContent.trim().toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s+/g, "-");
+    if (!id) return;
+    if (seen[id] != null){ seen[id]++; id = id + "-" + seen[id]; } else { seen[id] = 0; }
+    h.id = id;
+  });
 }
 async function loadDoc(url){
   const res = await fetch(url, {cache:"no-store"});
@@ -343,21 +365,31 @@ tabs.addEventListener("click", (e) => {
 });
 
 /* ================= READER (shared doc pane logic) ================= */
-async function renderInto(pane, url, title, base){
+async function renderInto(pane, file){
   pane.innerHTML = '<div class="loading">Loading…</div>';
+  // Relative links inside a markdown file resolve against THAT file's URL (e.g. "../../location/nine-realms.md" from story/manga/).
+  const docURL = resolve(file, SITE_BASE) || location.href;
   try {
-    const md = await loadDoc(url);
-    pane.innerHTML = mdRender(md);
-    // route .md links through the viewer
+    const md = await loadDoc(docURL);
+    pane.innerHTML = await mdRender(md);
+    addHeadingIds(pane);
+    // route links: .md files inside the site open in the viewer; same-document anchors scroll; everything else is left alone
     pane.querySelectorAll("a[href]").forEach(a => {
       a.addEventListener("click", (ev) => {
-        const abs = resolve(a.getAttribute("href"), base || location.href);
+        const href = a.getAttribute("href");
+        const abs = resolve(href, docURL);
         if (!abs) return;
-        const path = abs.split(/[#?]/)[0];
-        if (/\.md$/i.test(path) && path.includes("Manga/")){
+        const [path, hash] = abs.split("#");
+        const cleanPath = path.split("?")[0];
+        if (cleanPath === docURL.split(/[#?]/)[0] && hash){
           ev.preventDefault();
-          const rel = decodeURIComponent(new URL(path, location.href).pathname.split("Manga/").pop() || path);
-          openByFile(rel);
+          const target = document.getElementById(decodeURIComponent(hash));
+          if (target) target.scrollIntoView({behavior:"smooth", block:"start"});
+          return;
+        }
+        if (/\.md$/i.test(cleanPath) && cleanPath.startsWith(SITE_BASE)){
+          ev.preventDefault();
+          openByFile(decodeURIComponent(cleanPath.slice(SITE_BASE.length)));
         }
       });
     });
@@ -381,7 +413,7 @@ function openManga(i){
   $("#manga-prev").disabled = (i === 0);
   $("#manga-next").disabled = (i === MANGA_CHAPTERS.length - 1);
   history.replaceState(null, "", "#/manga/" + c.file.replace("story/manga/", "").replace(".md",""));
-  renderInto($("#manga-doc"), c.file, c.title, location.href);
+  renderInto($("#manga-doc"), c.file);
   window.scrollTo({top:0});
 }
 $("#manga-prev").addEventListener("click", () => { if (mangaIndex > 0) openManga(mangaIndex - 1); });
@@ -398,9 +430,17 @@ function openFile(tabName, file){
   const old = holder.querySelector(".doc");
   if (old) old.remove();
   holder.appendChild(pane);
-  currentDoc = {pane, file, tab: tabName};
-  renderInto(pane, file, "", location.href);
+  history.replaceState(null, "", "#/doc/" + file);
+  renderInto(pane, file);
   pane.scrollIntoView({behavior:"smooth", block:"start"});
+}
+// Which tab a markdown file belongs under when it isn't one of the listed cards (READMEs, future files).
+function tabForPath(rel){
+  if (rel.startsWith("story/manga/")) return "manga";
+  if (rel.startsWith("story/")) return "story";
+  if (rel.startsWith("character/")) return "characters";
+  if (rel.startsWith("location/")) return "locations";
+  return "story";
 }
 function openByFile(rel){
   const all = [
@@ -411,7 +451,13 @@ function openByFile(rel){
     ...SCOPE_FILES.map(f => ({...f, tab:"scope"})),
   ];
   const hit = all.find(f => f.file === rel);
-  if (!hit){ location.hash = "#"; return; }
+  if (!hit){
+    // Not a listed card (e.g. a README or a chapter added later) — still open it, in the right tab.
+    if (!/\.md$/i.test(rel)) return;
+    const tab = tabForPath(rel);
+    if (tab === "manga") openMangaListCustom(rel); else openFile(tab, rel);
+    return;
+  }
   if (hit.tab === "manga"){
     const i = MANGA_CHAPTERS.findIndex(c => c.file === hit.file);
     openManga(i);
@@ -433,6 +479,12 @@ function route(){
     openMangaListCustom(file);
     return;
   }
+  const d = h.match(/^#\/doc\/(.+)$/);
+  if (d){
+    const rel = decodeURIComponent(d[1]).replace(/^\/+/, "");
+    if (/\.md$/i.test(rel) && !rel.includes("..")) openByFile(rel);
+    return;
+  }
   const t = h.match(/^#\/([a-z]+)$/);
   if (t && ["home","manga","story","characters","locations","scope"].includes(t[1])) setTab(t[1]);
 }
@@ -443,7 +495,8 @@ function openMangaListCustom(file){
   mangaIndex = -1;
   $("#manga-crumb").textContent = file.split("/").pop().replace(".md","");
   $("#manga-prev").disabled = true; $("#manga-next").disabled = true;
-  renderInto($("#manga-doc"), file, "", location.href);
+  history.replaceState(null, "", "#/manga/" + file.replace("story/manga/", "").replace(".md",""));
+  renderInto($("#manga-doc"), file);
 }
 
 /* ================= INIT ================= */
