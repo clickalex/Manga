@@ -1,0 +1,76 @@
+# The Nine Realms — World Guide
+
+> One world (**Vael**), shaped like a **nine-pointed crown**: eight realms ringing a center (the **Seams**, the in-between, "where the light enters"). The map is Fenn's (Ch. 1 P12.1): at the edges of the realms, **gray stains**, thin, creeping — the Unraveling.
+> **Canon source:** [../story/02-races-and-realms.md](../story/02-races-and-realms.md) (the full race tables — 49 races, + 9 reserved Realm-10 slots); this file is the *location* side: where things are, what they look like, and where each realm first appears in the pilot.
+> **The Nine-Color Key** (each realm's on-page color — used by the scarves, the map, the record page, and every "nine" graphic): see [../character/mosaic-nine.md](../character/mosaic-nine.md).
+
+| # | Realm | Color (hex) | "Face" & sovereign | Core Sigil | One-line culture | Pilot first appearance |
+|---|---|---|---|---|---|---|
+| 1 | **Terrania** (Mortal Lands) | copper `#b87333` | Humans · Empress Aeloria I | Hundredfold (adaptability) | A thousand nations, one argument that never ends | Ch. 1 (Ashenmere is its border) |
+| 2 | **Sylvaris** (Verdant Realm) | silver-green `#7fb069` | Elves · King Arvel (corrupted) | Everbloom (time-life) | A civilization that measures centuries like we measure Tuesdays | Ch. 2 (the border grove) → Ch. 4–6 (the court, the Re-Oath) |
+| 3 | **Khazadûm** (Stone Realm) | forge-ember `#e07a3f` | Dwarves · Grand-Anvil Khazur | Everburn (stone-forging) | The mountain is not a home, it is a *family member* | Ch. 3 (Grimm) — its own arc: Vol. 4 |
+| 4 | **Ulgar** (The Barrens) | bone-iron `#9aa5a6` | Orcs · War-Chief council (ultravote) | Titanvein (endurance) | Honor is a law with teeth; breaking code is the only true death | Ch. 3 (Morgatha) — its own arc: Vol. 5 |
+| 5 | **Thalassa** (Deep Sea) | deep teal `#3e8e9e` | Merfolk · Thalarch Maelis | Tidesong (tide-voice) | Parliament is a chorus; law is a song that must be sung true | Ch. 3 (Nereia; the Veil-water answers the bell) — its own arc: Vol. 6 |
+| 6 | **Emberfall** (Infernal Realm) | oath-red `#d1495b` | Demons · The Seven Archdukes (Fire-Court) | Oathflame (contract-fire) | Hell is not chaos — it's *contract law* with fire penalties | — (Vol. 7) |
+| 7 | **Seraphel** (Sky Realm) | dawn-gold `#e8b04b` | Angels · Archon Seravon | Seraphic (light-flight) | Order so pure it forgot why it protects anyone | Ch. 6 (Azrael — the pilot's first sky) — its own arc: Vol. 8 |
+| 8 | **Nocturne** (Shadow Realm) | candle-violet `#7a6a9c` | The Dead · Prime Regent (Vampire Regency) | Veilward (afterlife-shadow) | Death is a second life with a second set of manners | Ch. 3 (Viv — the first sun-panel of a dead woman) — its own arc: Vol. 9 |
+| 9 | **The Seams** (In-Between) | white light `#f4f4f0` (all nine at once) | The In-Between · The Seam Moot (no crown — *a room*) | Fray (unmarked) | The outcasts' patchwork homeland — where the light enters | Ch. 1 (Ashenmere; the town's law is the Seams' Re-Oath in miniature) |
+
+**Realm 10 (reserved):** Fenn's "tenth" (Ch. 1 P12.2, the pilot line) — *beyond the map, beyond the stars, quiet, hungry*. The stars are unraveling too (the Starborn see it first, canon 02). The sequel scope (canon 05 §IX) keeps nine reserved race slots for it. The map's blank edge is drawn in every Fenn panel — the world is *unfinished*, and only one person will admit it.
+
+---
+
+## Realm notes (the location side)
+
+### 1 · Terrania — the mortal lands
+A thousand nations, one argument. Republics, empires, merchant cities; the "Hundred Courts" of debate. **Humans** (vast sub-races; fast lives), **halflings** (the Seam-market backbone; brew-laws — "a promise is a brew"), **gnomes** (tinker-guilds; a gnome's name is a serial number they *earn* — Fenn's people), **beastkin** (clan by beast-line; the Fence-Laws conflict, Act 2), and the **Openbloods** (humans with visible borrowed Sigils — half-accepted, half-feared; the moral canary of the realm — Pippin, the pilot's canary).
+**On the page:** warm copper and timber; the argument is *visible* (markets, petitions, four hundred pages of paperwork — Hilda's). Ashenmere is its border-town face.
+**Pilot:** Ch. 1 (all of it) + Ch. 2 (the town sends the Nine).
+
+### 2 · Sylvaris — the verdant realm
+Time-cities; "the Centuries" as calendar; the pride of memory. **High Elves** (silver-green hair, long-veined skin, the rings as age), **Wood Elves** (forest clans; **grove-council law — every tree a vote**), **Shadow Elves** (exiles who understand death; keepers of the Under-Grove; the realm's secret sages — they name the Unraveling *first*), **Fauns** (herd-musicians; instinct-law), **Sprites** (30 cm lights; the forest's immune system), **Treants** (40 m, speak in seasons — Rootdeep, the last guard, speaks *once*), **Mothkin** (giant gentle moths; the realm's historians — they write history *in silk*; the silk is the record the team carries).
+**On the page:** the Unraveling's grammar is *born* here (full color → washed → line-art → white); the grove is the realm's face (the great tree's rings are names — "a ring is a name the tree gives itself"); the withered court is the realm's *wound*, and the Re-Oath (Ch. 6) is the realm's *answer* — the first realm to re-oath (the grove-council vote, Faelis's line, The First Dawn).
+**Pilot:** Ch. 2 (the border grove) → Ch. 4–6 (the court, the King, the Re-Oath). Its color: silver-green `#7fb069` — Kaelen's scar blooms it near the grove (Ch. 1 P8.3).
+
+### 3 · Khazadûm — the stone realm
+The Mountain-Family law: the mountain is kin, not property. **Deep Dwarves** (multi-braided beards; stone-scarred; the stone-song — Grimm's family gift, gone quiet the day the Reforgers started mining), **Flame Dwarves** (volcano-smiths; pride as a forgeable metal), **Golems** (servants gaining souls; the "First Waking" rite), **Stone Giants** (20 m, moss-veined — the living walls; they *are* the mountain's borders), **Grummplings** (40 cm rock-kin, boulder-bellies, one idea each — Pebble's people; their luck is *statistically real*).
+**On the page:** forge-ember `#e07a3f` over stone `#8d99ae`; the mountain is drawn *alive* (it leans, it listens — and, in Vol. 4, it *consents*). Grimm's hammer Askstone is "made to ask the mountain things" — the realm's law, made prop.
+**Pilot:** Ch. 3 (Grimm, Pebble, the bridge). Its own arc: Vol. 4 (*The Mountain-Ask* — Grimm's Chord with Kaelen: the stone-song read by a mortal).
+
+### 4 · Ulgar — the Barrens
+Blood-clan honor-law; the **Ultravote** (all clans, one throat — the Barrens' "king" is a *procedure*, not a person). **Orcs** (massive, scar-ornamented, bone-and-iron regalia — Morgatha's people), **Trolls** (regenerating, river-gardeners — they fix *everything*; subverted monster, canon), **Cyclopes** (9 m, one great eye, forge-sages; keepers of the oldest maps — Gorakh's people), **Minotaurs** (labyrinth-warriors; every dispute a duel of the maze), **Goblins** (1 m, many-armed, marketplace-clever — the logistics heart of the world; the pilot's couriers are their cousins), **Kobolds** (small, gem-eyed, tidy — cave-cartographers; Fenn's project).
+**On the page:** bone-iron `#9aa5a6`; the oath-script (legible scars — Morgatha's forearms, the body as book); the war-song count (the pilot's hidden clock, the Barrens' law, made lettering).
+**Pilot:** Ch. 3 (Morgatha). Its own arc: Vol. 5 (*The One Throat* — Morgatha's choice; the code rewrites itself: *the oath to keep a life outranks the oath to keep the code*).
+
+### 5 · Thalassa — the deep sea
+Tide-cities; **chorus-parliament; law must be sung true to bind**. **Merfolk** (scale-armor, coral-crown regalia — Nereia's people), **Sirens** (court-vocalists; a siren's verdict is a duet), **Undines** (water-spirits with no fixed body — the diplomats of the deep; they deliver the "first song" fragment), **Krakenkin** (30 m, ancient memory in every tentacle — they *remember* the Leviathan's first dream), **Selkies** (tide-wanderers; the ferry-folk between realms — the deep's only travelers), and **the Leviathan** (not a race: a sleeping whale-god, 20 km, a *load-bearing dream* the realm rests on — the Thalassa arc's MacGuffin: the Reforgers want it as Vaelthorn's first meal).
+**On the page:** deep teal `#3e8e9e`; the law is *music* (the first song — the sea's first law — stopped reaching the surface a year ago; Nereia was the voice; the pilot's rhyme: the Voss bell's mortal note *is* the first line, and the sea remembers it, Ch. 3 P6.2); Nereia's mood-markings (the reader reads her *before* her dialogue); the water-flask (the ticking clock, drawn).
+**Pilot:** Ch. 3 (Nereia; the Veil-water as Thalassa's shore). Its own arc: Vol. 6 (*The First Song* — the chorus Re-Oath; The Chorus-True, a thousand voices).
+
+### 6 · Emberfall — the infernal realm
+**Demons** (Archduke castes; horned, fire-veined, robes of contract-gold — Malachar's people; Oathfire law: contracts are sacred, breaking one burns you), **Djinn** (smoke-and-flame; wish-engineers — a wish is a contract with *clauses*; the Reforgers' "Scribe" is a djinn — comedy + horror), **Imps** (1 m tricksters, many pockets — the chaos-market dealers; the team's information brokers, unreliable, invaluable), **Salamanders** (flame-folk of hot-springs — the fire-realm's gentle counterweight), **Hellhounds** (pack-mind war-beasts, oath-branded collars — Malachar's broken pack = his tragic tell).
+**On the page:** oath-red `#d1495b` over contract-gold; hell drawn as a *courtroom* (the villain is a *lawyer*, the fire is the *enforcement*); the Seven Archdukes are a *committee* of oaths (the most fun villains-to-allies conversion in the book, canon 03).
+**Pilot:** — (its arc is Vol. 7, *The Oath-Eater*).
+
+### 7 · Seraphel — the sky realm
+**Angels/Seraphim** (winged orders, 2/4/6 wings; law-etched halos; the Light-Orders), **Starborn** (sun-children, constellation-scarred; the fate-readers — "the stars suggest, they don't *order*"; they first *see* the gray spreading beyond Vael — the sequel seed), **Wind Sylphs** (storm-sailors; the high-cloud fleets — the fastest combat in the book), **Fallen Angels** (a *faction*, not a race — gray-winged exiles, dimmed halos; the **Wandering Order**: oaths broken to protect — Azrael's people; the moral heart of Seraphel), **Gargoyles** (the Carved Order — angels in stone by night; they *choose* stone to listen better; the secret police who become the team's allies).
+**On the page:** dawn-gold `#e8b04b`; the sky is *law* (the halos are etched; the cracks are legible — Azrael's halo crack runs *like a river*); the fallen's gray wings are the color of the Unraveling and the most human color on the page (the pilot's subtlest visual argument, Ch. 6).
+**Pilot:** Ch. 6 (Azrael — the pilot's first sky; the Wing-Broken *seeded*). Its own arc: Vol. 8 (*The Gray Wings* — Azrael's trial).
+
+### 8 · Nocturne — the shadow realm
+Death is a second life with a second set of manners. **Vampires** (death-nobility; the Regency Council; "the Second Life" is a society, not a curse — Viv's people; the "dead can love the sun" arc), **Ghouls** (humble workers, soil-stained — the realm's working class; the moral plain-speaking voice), **Wraiths** (memory-echoes, candle-lit — the restless dead; the realm's living archive; they hold the stolen memories Vexmourne took — the vault), plus the dead's own politics (the Prime Regent's deal, the name-funerals, the Regency's treason-pin).
+**On the page:** candle-violet `#7a6a9c`; the dead drawn with *manners* (the afterlife's etiquette is visible — cards, queues, second-life social climbing); the first lie, made prop (the sunscreen — "the Council says the sun burns. It doesn't burn."); Viv's Veilward double (one frame *late*, never ahead — memory-shadow, the dead's manners made visual).
+**Pilot:** Ch. 3 (Viv — the first sun-panel of a dead woman; the Regency pin). Its own arc: Vol. 9 (*The Name-Funeral* — Viv's choice, at her mother's funeral, in the sun, together, saying nothing).
+
+### 9 · The Seams — the in-between lands
+The outcasts' patchwork homeland — where the light enters. No crown, no throne: the **Seam Moot** is *a room* (and the room is the law; the Moot's one rule: **a name is a home**). The Seams are made of everyone the realms didn't want: **tengu** (the news-service — Kessa's people; "truth by the blade's length"), **oni** (the mask-culture — a face is a door; the mask is the door *labeled* — Bramble's people; Tessen-Old, the mask-keeper), the **changelings** (never the same face twice — the Seams' children, the Wandering Order's hidden ones), the **in-between** (every mixed, every borrowed, every *almost*), and the **Mosaics** (the rarest: a piece of the First Being — Kaelen, and Null, and the blank edge of the map).
+**On the page:** **all nine colors at once** (`#f4f4f0` white light — the only "color" that is *every* color); patchwork architecture (two rooflines, one town — Ashenmere is the template); the Moot's *room* (the realm's sovereign is furniture — a table, nine chairs, the law is the seating plan); the news by paper (Kessa's headlines are the Seams' parliament).
+**Pilot:** Ch. 1 (Ashenmere — the town's three rules *are* the Seams' Re-Oath in miniature: *Open Doors. Feed a stranger. Remember a name.*) → Ch. 6 (Bramble; the Seams' children, home at the table). Its arc runs the whole saga (Vol. 10, *The Seams First* — Null, the dark twin).
+
+---
+
+## The geography rule (for all media)
+
+1. **The Veil-water connects everything.** Every realm borders water, and the water is the Veil's (the shimmer, the ripple, the first song). The ferry (Osric) is the realm-crossing's *face* — the team travels by water, road, and bridge, never by sky (until Ch. 6 — the pilot's first sky is the sky *arriving*, not a route).
+2. **The Seams are the center, not the middle.** On Fenn's map, the Seams are the *center* of the nine-pointed crown (the patchwork colors, "the only part of the map with *more* colors than the rest," Ch. 1 P12.1) — the light enters from the middle, and the gray eats from the edges (the Unraveling's geometry: *the difference is sipped from the rim first*).
+3. **Every realm has a door and a law.** The door is physical (the grove-gate, the bridge, the Moot's room); the law is procedural (the grove-council vote, the Ultravote, the chorus, the Fire-Court, the purity-council, the name-funeral, the popular oath, the seam-moot). The Reforgers lose at every door *by the door's own law* (canon design rule, 03) — the realm defeats its Usurper with its own mechanism. The team wins; **the realm does the healing.**
