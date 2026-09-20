@@ -90,7 +90,7 @@
 
 ### The forge
 1. **Bjornka** — Deep dwarf, Khazdûrin forge · Grimm's forge-knight young; **the first young dwarf to hear the stone-song again after the silence** — *paid, manga Ch. 19*: she is fifteen, in her first good coat, in the front rank beside Bjorn, and hers is the **only panel in the gallery that carries a sound-effect note** while the whole room is still waiting (P4.2). She does not tell anybody, because she does not yet know she has heard something the old man cannot, and the realm is going to be asking her about it for the rest of her life (P12.1).
-2. **Bjorn** — Deep dwarf, Khazdûrin forge · anvil-old; keeps Askstone warm (holds the family forge's coal alive for a century). *Manga Ch. 19:* he carries the clay pot down the fifty-eight (Ch. 17) and into the Court Floor, and the mountain's answer **burns a hundred years of fire down to one coal** in one night; his whole eulogy is *“One coal, lad. It'll do.”* (P8.2). *Manga Ch. 20:* he carries the pot **back down the fifty-eight**, through a street that comes out to walk with him, and **hands it to Grimm on a doorstep** — *“It's yours, lad. It always was.”* — and watches his century go into the flame-clan's First Fire with three words: *“…It'll do.”* The pot, empty, stays on the forge's shelf.
+2. **Bjorn** — Deep dwarf, Khazdûrin forge · anvil-old; keeps Askstone warm (holds the family forge's coal alive for a century). *Manga Ch. 19:* he carries the clay pot down the fifty-eight (Ch. 17) and into the Court Floor, and the mountain's answer **burns a hundred years of fire down to one coal** in one night; his whole eulogy is *“One coal, lad. It'll do.”* (P8.2). *Manga Ch. 21:* **his century ends and he says nothing at all** — the ring the pot left in the shelf-wood, the reach for a handle that is not there, the doorway crowd at the flame-forge, the empty hands. **No dialogue in Ch. 21, no ceremony, and nobody in the frame acknowledges him** (the art team's rule). *Manga Ch. 20:* he carries the pot **back down the fifty-eight**, through a street that comes out to walk with him, and **hands it to Grimm on a doorstep** — *“It's yours, lad. It always was.”* — and watches his century go into the flame-clan's First Fire with three words: *“…It'll do.”* The pot, empty, stays on the forge's shelf.
 3. **Anvil** — Deep dwarf, great-forge · stone-old; knows the mountain's oldest braid.
 4. **Pick** — Deep dwarf, mines · Torvik's miner-young; hears the stone-song's first crack.
 5. **Molten** — Deep dwarf, great-forge · molten-smith; forges the first stone of the Re-Oath.
@@ -112,9 +112,9 @@
 
 ### The grummplings & kin
 19. **Maren Ashwood** — Human (Seam-born), Khazdûrin forge · Grimm's mother; the mortal Seam-woman who outlived everyone; keeps his grandfather's story (the only one who remembers his face, in ink).
-20. **Nib** — Grummpling, tunnels · Cinder's miner-young; finds the first geode.
+20. **Nib** — Grummpling, tunnels · Cinder's miner-young; **finds the first geode — paid, manga Ch. 21 P8.2** (the crawl-space under the Khazdûrin forge; gives it up on grummpling law: *“It's* yours. *You kept the room.”*).
 21. **Chuckle** — Grummpling, tunnels · geode-seeker; follows Pebble's one idea.
-22. **Nibble** — Grummpling, tunnels · geode-young; holds the geode.
+22. **Nibble** — Grummpling, tunnels · geode-young; **holds the geode — paid, manga Ch. 21**: the lump of quartz goes back into the pocket *beside* the geode that fits it.
 23. **Boulder-Nib** — Grummpling, deep-tunnels · miner-old; knows the mountain's oldest tunnel.
 24. **Peb** — Grummpling, grummpling-clan · Cinder's clan-young; learns Pebble's one idea.
 25. **Emberkin** — Flame dwarf, flame-forge · Grudka's kin; keeps Grudka's forge warm.
