@@ -128,12 +128,12 @@
 
 ### The blood-clans
 1. **Ghorak** — Orc, Ulrik's clan · Urzun's blood-clan chief; votes *with* Morgatha.
-2. **Khura** — Orc, Ulrik's clan · oath-keeper; reads the new clause aloud (Durgan's counterpart).
+2. **Khura** — Orc, Ulrik's clan · oath-keeper; reads the new clause aloud (Durgan's counterpart). **Ch. 22: the volume's antagonist-by-law, played without one drop of malice** — she keeps the **debt-horn** and hands it over the moment she is asked; she refuses to let anyone *“stand in my yard and work on it”*; she brings the house of Tarkhan's stone **back into the circle** in a realm that thought it never would, and says she will vote **against** the captain *“with our faces up”*. She is the realm's future, not its past.
 3. **Torga** — Orc, Ulrik's clan · warrior; duels Tauron (and loses gracefully).
-4. **Ura** — Orc, Ulrik's clan · healer; mends Morgatha's scars (reads them like a book before mending).
-5. **Drog** — Orc, Ulrik's clan · elder; remembers Ulrik's first oath.
+4. **Ura** — Orc, Ulrik's clan · healer; mends Morgatha's scars (reads them like a book before mending). **Ch. 22:** she is the one who answers Viv's demand for a document — by putting **both forearms on the bench** under the lamp: the realm's statute, drawn as cut script on four people's arms, and the reason Viv says *“Your law is cut into people”*.
+5. **Drog** — Orc, Ulrik's clan · elder; remembers Ulrik's first oath. **Ch. 22:** the keeper of the **debt-line**, sitting on his stone at the pass, who reads *his own* debt back to Morgatha in exchange for hers — the realm's courtesy in one panel (*“The realm's been waiting to be ashamed in front of you.”*).
 6. **Kharza** — Orc, Ulrik's clan · young; learns the new code.
-7. **Ulgan** — Orc, Ulrik's clan · song-keeper; sings the war-song Morgatha counts her breaths in.
+7. **Ulgan** — Orc, Ulrik's clan · song-keeper; sings the war-song Morgatha counts her breaths in. **Ch. 22:** an old woman with a fist-drum, keeping time for the reading (*“Keep it whole, brothers; the stone's got a hole in it and it's not your turn to fill it.”*) — the volume's clock has a *keeper*, and it is her.
 8. **Gruk** — Orc, the Barrens · scout; spots the first Reforgers cell.
 9. **Targa** — Orc, Barrens-forge · smith; forges the new clause's first mark.
 10. **Kha** — Orc, Ulrik's clan · young; Kharza's sister; the code's youngest student.
@@ -154,7 +154,7 @@
 21. **Pipsqueak** — Goblin, seam-markets · swarm-trader; runs the first Re-Oath market.
 22. **Quick** — Goblin, courier-network · courier; carries the news between realms.
 23. **Nest** — Goblin, swarm · nest-keeper; keeps the swarm's nest (the swarm's home).
-24. **Fast** — Goblin, courier-network · fastest courier; the franchise's "goblins deliver" beat.
+24. **Fast** — Goblin, courier-network · fastest courier; the franchise's "goblins deliver" beat. **Ch. 22:** delivers the **nothing** — *“No letters out of the green or the gray. The swarm's got nothing, so the swarm's saying nothing. That's the news.”* — and is the reason **Fenn stops writing “no letters” and starts logging days**.
 25. **Crystal** — Kobold, cave-carts · Tess-Ohm's scribe; maps the gem-veins.
 26. **Stone** — Kobold, cave-carts · cave-cartographer; maps the caves (draws the Seams map with Wren & Tess-Ohm).
 27. **Fire-Knob** — Kobold, cave-carts · gem-spark; lights the first gem-spark (the map's illumination).

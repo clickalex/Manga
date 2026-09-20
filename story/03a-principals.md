@@ -146,7 +146,7 @@
 ### Mender Glintfin — TROLL · the river-caste
 - **Function:** river-caste mender; the one who fixes the team's gear.
 - **Beat:** the "monster" subversion made *practical* — he fixes Nereia's water-flask first (the "first repair" beat; the team's first "the troll is on our side" moment, shown by a *fixed object*, not a speech).
-- **Line:** *"Your flask's cracked. That's not a* monster *problem. That's a* mender *problem. Sit down. I've got thread."*
+- **Line:** *"Your flask's cracked. That's not a* monster *problem. That's a* mender *problem. Sit down. I've got thread."* — **SPENT, manga Ch. 22 P3.1**, at the ford: he takes Nereia's flask (cracked since Ch. 16) out of her hand without asking and gives it back **whole, with the mend visible** — thread, glue, a mender's clamp. The beat's payload is the **fixed object**, not a speech; **Nereia does not speak in Ch. 22 at all**.
 
 ### Sage Oros the Old Eye — CYCLOPE · the oldest maps
 - **Function:** keeper of the oldest maps; Gorakh's *teacher*.
@@ -166,7 +166,7 @@
 ### Ultravote Speaker Durgan the Unbent — ORC · the Ultravote
 - **Function:** the Ultravote's speaker; the code's *voice* (the procedure made flesh).
 - **Beat:** his voice reads the *new clause* (the code rewrites itself *in his throat*; the "the law changes and the law's voice says it" beat).
-- **Line:** *"The Ultravote is one throat. Today the throat* changed. *That's not a* coup. *That's the* code *talking."*
+- **Line:** *"The Ultravote is one throat. Today the throat* changed. *That's not a* coup. *That's the* code *talking."* — **HELD for the chapter the clause passes.** **Ch. 22:** he appears and keeps the volume's first silence — hands flat on the throat-stone, mouth shut, because with one clan stone empty **the realm may read and may not decide** (one line, not the canon one: *“One stone empty. One throat. No voice.”*).
 
 ---
 
