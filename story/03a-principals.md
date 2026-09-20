@@ -114,6 +114,7 @@
 - **Line:** *"I signed the oath because it was* law. *The law's still on my hand. I just wish it had a* conscience."
 
 ### Mountain-Speaker Khazri — DEEP DWARVE · the mountain-court
+- **Vol. 4 (Ch. 15–16):** he stands in the Hall of Speakers and does not speak; and the one *drawn* portrait of Durin Khazdûrin in the mountain is on the back of a slate **signed *K.*** — drawn by a young Speaker at the Naming, a hundred years ago, in the same hand as the single stroke on Echo’s slate. Nothing is explained: his line below is the arc’s turning point and is not to be spent before it.
 - **Function:** the one who hears the stone-song *for* the mountain; Grimm's mentor.
 - **Beat:** goes *silent* when the mining starts (Grimm's grief made institutional — the mountain's voice, lost; the "a relative, muted" beat). His return to speech is the arc's turning point.
 - **Line:** *"I didn't lose my hearing. The* mountain *stopped* talking. *There's a difference, and it's the difference between a* dead *ear and a* dead *kin."*

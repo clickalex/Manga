@@ -73,6 +73,8 @@
 
 ## Realm 3 — Khazadûm (24)
 
+*Ch. 16 promotes six of these names to the realm’s **witnesses** (the street question): **Hildrun, Tova, Perra, Varda, Yrsa, Ragna** — six old women, six faces of one dead man, no two alike.*
+
 | Name | Race | Place | Role |
 |---|---|---|---|
 | Anka Emberhand | Flame dwarf | flame-forge | Grudka's daughter; the forge-mother's daughter |

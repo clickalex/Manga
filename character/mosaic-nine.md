@@ -40,6 +40,8 @@
 
 **Adaptation notes.** His art *must* stay ordinary (no eye-glow, no power aura) — the power is the scar and the white threads, both small, both on the chest. TCG: the "Mosaic" frame (white light, all nine). PC game: the cost meter is the white threads; the player *sees* Kaelen fraying.
 
+**Cover-art rule (audit, Ch. 1–15 pass).** This note is *load-bearing* and applies to every painted cover, poster and key visual: **the nine colors never bloom on his skin.** Vol. 1’s first cover master drew the chest as a nine-color radial mandala with an aura; it was re-rendered and the old file kept beside the new one as *cover-vol1-v1-glow.png* ([../other/assets/](../other/assets/cover-vol1.png)). The approved v2 shows what the saga actually opens on (Ch. 1 P2.2): a **small, faint gray-green mark** — “a smudge of un-ink” — with its **first white thread** at the edge, easy to miss, on purpose. The Nine-Color Key belongs to the scarf, the record’s lights, the crown-citadel’s nine lanterns. On the boy, it is *one mark and the cost.*
+
 ---
 
 ## 2 · LYRA SYLVARI — High Elf · 17 (elven: ~170 rings) · Sylvaris
@@ -127,7 +129,7 @@
 
 **Pilot line (canon, verbatim):** *"My people's law is a song. Right now, the song's out of water. So am I. I think we can help each other."*
 
-**Adaptation notes.** She is *read* before she is *heard* — every frame with her, the markings change first, the dialogue second. The flask level is a drawn countdown; the reader's tension is arithmetic. **Vol. 4 (Ch. 15 P9.2): the flask is *cracked*** — a hairline from the mine's heat — and she has told nobody; draw the crack in every frame the flask appears from here on.
+**Adaptation notes.** She is *read* before she is *heard* — every frame with her, the markings change first, the dialogue second. The flask level is a drawn countdown; the reader's tension is arithmetic. **Vol. 4 (Ch. 15 P9.2): the flask is *cracked*** — a hairline from the mine's heat — and she has told nobody; draw the crack in every frame the flask appears from here on (**Ch. 16: two-thirds across**). **Ch. 16 P11.2:** the one supernatural beat of the street-question chapter — she pours a finger of water onto the Cut's stone and it **darkens and does not steam** (no glow, no color; a mouth, not a miracle), her markings going to *attention* (`#d8f3ef`) for a single frame for the first time since Ch. 11. Her close: “you're not dead, you're not sick, you're **empty** — and something's pouring into you.” The Empty stays unexplained this volume.
 
 ---
 
