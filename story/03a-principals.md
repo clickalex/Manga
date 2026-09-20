@@ -114,7 +114,7 @@
 - **Line:** *"I signed the oath because it was* law. *The law's still on my hand. I just wish it had a* conscience."
 
 ### Mountain-Speaker Khazri — DEEP DWARVE · the mountain-court
-- **Vol. 4 (Ch. 15–16):** he stands in the Hall of Speakers and does not speak; and the one *drawn* portrait of Durin Khazdûrin in the mountain is on the back of a slate **signed *K.*** — drawn by a young Speaker at the Naming, a hundred years ago, in the same hand as the single stroke on Echo’s slate. Nothing is explained: his line below is the arc’s turning point and is not to be spent before it.
+- **Vol. 4 (Ch. 15–17):** he stands in the Hall of Speakers and does not speak; carries his own chair down the mountain alone at night (Ch. 17) and sets it **half a step out of the line**, then stands at the wall rather than sitting; and his only *act* of the volume is laying **both slates on the eighth chair's seat** (Ch. 17 P8.1). He does not speak; and the one *drawn* portrait of Durin Khazdûrin in the mountain is on the back of a slate **signed *K.*** — drawn by a young Speaker at the Naming, a hundred years ago, in the same hand as the single stroke on Echo’s slate. Nothing is explained: his line below is the arc’s turning point and is not to be spent before it.
 - **Function:** the one who hears the stone-song *for* the mountain; Grimm's mentor.
 - **Beat:** goes *silent* when the mining starts (Grimm's grief made institutional — the mountain's voice, lost; the "a relative, muted" beat). His return to speech is the arc's turning point.
 - **Line:** *"I didn't lose my hearing. The* mountain *stopped* talking. *There's a difference, and it's the difference between a* dead *ear and a* dead *kin."*
@@ -125,7 +125,7 @@
 - **Line:** *"Pebble's got one idea. It's the* best *idea in the mountain. I've seen* kings *with worse."*
 
 ### Duelist Molka — FLAME DWARVE · the forge-duels
-- **Function:** forge-duel champion; the "forge is a family" philosophy; runs the Anvil-Naming festival — which is not a festival but the realm’s **court of account** (every braid read out, debts settled, the year’s word judged; venue decided by where the most anvils stand — Ch. 15). She reads the law from her book, and in Ch. 15 she is outflanked by it and *stops walking*; she does not speak until her duel scene.
+- **Function:** forge-duel champion; the "forge is a family" philosophy; runs the Anvil-Naming festival — which is not a festival but the realm’s **court of account** (every braid read out, debts settled, the year’s word judged; venue decided by where the most anvils stand — Ch. 15). She reads the law from her book, and in Ch. 15 she is outflanked by it and *stops walking*; Ch. 17 she closes the year by hand (the rack-walk, no dialogue) and speaks **exactly one line in Volume 4 before the duel**: the keeper's question at the Asking — *“Who speaks for the mountain?”* (Ch. 17 P12.1). Her 03a line is her duel scene's and is not to be spent else.
 - **Beat:** her duel with Torvik (over the mining-oath) is the arc's *legal* scene (the dwarf's "law" is a *duel* — the realm's answer to a broken oath is a forge, not a court).
 - **Line:** *"You want to break an oath? Then* stand *in the fire with me. The forge doesn't do* appeals."
 
