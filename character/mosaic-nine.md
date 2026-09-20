@@ -38,7 +38,7 @@
 
 **Pilot line (canon, verbatim — spoken to himself, to a new Mosaic child, and to the audience; three times in the story):** *"You're not a prophecy, kid. You're a person."*
 
-**Adaptation notes.** His art *must* stay ordinary (no eye-glow, no power aura) — the power is the scar and the white threads, both small, both on the chest. TCG: the "Mosaic" frame (white light, all nine). PC game: the cost meter is the white threads; the player *sees* Kaelen fraying.
+**Adaptation notes.** His art *must* stay ordinary (no eye-glow, no power aura) — the power is the scar and the white threads, both small, both on the chest. TCG: the "Mosaic" frame (white light, all nine). PC game: the cost meter is the white threads; the player *sees* Kaelen fraying. **Vol. 4 (Ch. 17–20):** the volume keeps him *second* on purpose — he carries **Askstone in its cloth** for four chapters and only sets it down when the man it belongs to asks (Ch. 19); he **stands where Grimm can see him** (Ch. 17 P9.1 promise, kept at Ch. 19 P2.1); he **says the name** the mortal half of the Mountain-Ask requires — *“Durin Khazdûrin”* — with the realm's six memories standing behind him (Ch. 19 P6.1, **the Name-Return's rules respected: a name is a witness, not a cure**); and he **declines** to read a realm's dead out loud at a coal-face, handing the words back to the man who owned them (*“You've got the words. I've got the shapes, and the shapes are read.”*, Ch. 20 P10.2). **The scar's lean is Vol. 5's door and stays shut all volume** — the heartbeat stays steady, one degree of tilt, drawn and never discussed. **No pilot-line use in Volume 4** (two remain: a new Mosaic child; the saga's last page).
 
 **Cover-art rule (audit, Ch. 1–15 pass).** This note is *load-bearing* and applies to every painted cover, poster and key visual: **the nine colors never bloom on his skin.** Vol. 1’s first cover master drew the chest as a nine-color radial mandala with an aura; it was re-rendered and the old file kept beside the new one as *cover-vol1-v1-glow.png* ([../other/assets/](../other/assets/cover-vol1.png)). The approved v2 shows what the saga actually opens on (Ch. 1 P2.2): a **small, faint gray-green mark** — “a smudge of un-ink” — with its **first white thread** at the edge, easy to miss, on purpose. The Nine-Color Key belongs to the scarf, the record’s lights, the crown-citadel’s nine lanterns. On the boy, it is *one mark and the cost.*
 
@@ -62,7 +62,7 @@
 
 **Pilot line (canon, verbatim):** *"I've waited three hundred years for something worth this. Don't waste it being brave."*
 
-**Adaptation notes.** Her wall is a *courtesy* — the panels show the wall going up (composed) and down (one crack) as separate visual states; the lettering never explains them. Her rings are her *health bar*: drawn, countable, spent.
+**Adaptation notes.** Her wall is a *courtesy* — the panels show the wall going up (composed) and down (one crack) as separate visual states; the lettering never explains them. **Vol. 4:** the noticer measures a foreign law against her own — *“The elves keep their law in a tree and the tree talks, and we spent eleven generations learning to answer it properly. These people kept their law in a book about lamp-oil…”* (Ch. 18 P5.1, Ch. 20 P10.2), and she gets **one almost-smile** in the volume (Ch. 17 P9.2), which is her only crack and must not be repeated casually. Her rings are her *health bar*: drawn, countable, spent.
 
 ---
 
@@ -108,7 +108,7 @@
 
 **Pilot line (canon, verbatim):** *"My body's a library. So far, every page's been a promise. I intend to stay readable."*
 
-**Adaptation notes.** She does *debt*, not warmth — her affection is payment, on the page. Her rage is never drawn as a monster-face (no race is the monster): it's drawn as the *count getting loud* in the corner of the frame.
+**Adaptation notes.** She does *debt*, not warmth — her affection is payment, on the page. Her rage is never drawn as a monster-face (no race is the monster): it's drawn as the *count getting loud* in the corner of the frame. **Vol. 4 (Ch. 15–20):** the count becomes *time* — she counts the twelve days down (and the mortgage on the realm's year), then turns **upward** again: **nine → eleven → twelve** (Ch. 16–18), **thirteen** (Ch. 19 P9.2 — she does **not** knock, hands on her knee, unexplained as always), **fourteen** (Ch. 20 P12.1). The volume closes with her **face west** (Ch. 20 P12.1): *“one hundred and ninety-seven things left to say to my brother, and I'm going to say them in his realm first”* — **Volume 5's first page, already standing in this one.**
 
 ---
 
@@ -173,7 +173,7 @@
 
 **Pilot line (canon, verbatim):** *"My kind's been dead a thousand years and still we're* polite. *It's the only horror story I can think of that's funnier than it should be."* — (The law is her *weapon*; the sun is her *grief* — the pilot spends the joke, the season spends the sun.)
 
-**Adaptation notes.** She is *always* mid-sentence (the reader joins her argument in progress — the lettering starts every frame with an em-dash). Her double is one frame *late*, never ahead. The umbrella is held like a sword she's declined to use — the pilot's quietest threat.
+**Adaptation notes.** She is *always* mid-sentence (the reader joins her argument in progress — the lettering starts every frame with an em-dash). Her double is one frame *late*, never ahead. The umbrella is held like a sword she's declined to use — the pilot's quietest threat. **Vol. 4 (Ch. 15–20):** the arc's *engine* is hers — she moves the realm's court into the mine rather than fight the venue (Ch. 15); she teaches nine thousand dwarves their own law in **five rules** and takes a miner's objection off his hand word for word (Ch. 18 P7.1–P8.1); she concedes Drek's whole argument to win the case (*“He's right. The mine's not on trial… the mountain's the only witness we haven't called”*, Ch. 18 P7.2); the case closes in one sentence (Ch. 19 P8.1: the witness testified for the **hands**); and in Ch. 20 she writes a realm's first **burn-signature clause** in real time (*“Note that. The signer holds it himself. Write the hands.”*) — then tells the realm to **elect its keeper yearly** and put the election in the book. **Her one defeat is drawn, not spoken:** Ch. 18 P9.2, she has no counter to Drek's agreement, and the art team must simply show her *not speaking*.
 
 ---
 
@@ -196,7 +196,7 @@
 
 **Pilot line (canon, verbatim):** *"You're scared of being the prophecy. I get it. I was scared of being any of the faces. Turns out the face was the easy part."*
 
-**Adaptation notes.** She is the cast's *barometer* — when her humor drops out of a panel, the reader knows a character is about to be hurt (the lettering team: her funny frames get the SFX; her serious frames get *nothing*). Her face is a *system*: default (learned), rental (one seam), warning (two seams). The label's writing is withheld for the whole saga — the TCG and the game must keep the tag *illegible* too.
+**Adaptation notes.** She is the cast's *barometer* — when her humor drops out of a panel, the reader knows a character is about to be hurt (the lettering team: her funny frames get the SFX; her serious frames get *nothing*). **Vol. 4 (Ch. 16–20):** the barometer runs the whole volume — she is the one who notes the realm's small dusty person going unnamed (Ch. 16, Ch. 18 P6.2: *“She's got the formula perfect”*), and Ch. 20 P8.2 gives her the volume's last private frame: *“I've worn nine faces and I couldn't tell you which one's mine. Look at them. They've just written theirs down. …In skin.”* **The tag stays illegible, and nothing in Volume 4 explains why she took it personally.** Her face is a *system*: default (learned), rental (one seam), warning (two seams). The label's writing is withheld for the whole saga — the TCG and the game must keep the tag *illegible* too.
 
 ---
 
@@ -218,7 +218,7 @@
 
 **Pilot line (canon, verbatim — delivered Ch. 1 P12.2, the first time he says it out loud):** *"I've mapped nine realms for three hundred years. The world's got a* tenth *and it's been* quiet. *That's never a good sign, kid. That's a* hungry *sign."*
 
-**Adaptation notes.** He is the reader's *hand* — his captions are the book's spine (always bottom right, always his hand, always the last word on the page). Marginalia is a *character* (the lettering team: tiny italics, in the margin, always); its three-hundred-year argument with Pebble and Viv is the pilot's running gag (the gag is *continuity*: the same three lines, in different orders, each time).
+**Adaptation notes.** He is the reader's *hand* — his captions are the book's spine (always bottom right, always his hand, always the last word on the page). **Vol. 4 (Ch. 15–20):** he *times the volume* — the twelve days cut into the frame edge (Ch. 15–17), the **cascade delivered early and broken on purpose** in Ch. 17 P11.1 (*“the room holds at the realm”* is the last line, because the chapter's real last word is a silence), the reading-line and the naming-line counted flat through Ch. 18–19, and Ch. 20 P10.1's **first warm mark in three hundred years** — fire added to the map. **His open ledger:** *six pins left, still no letters from the twins* (Ch. 17, 18, 19, 20 — do not close it in Volume 4). Marginalia is a *character* (the lettering team: tiny italics, in the margin, always); its three-hundred-year argument with Pebble and Viv is the pilot's running gag (the gag is *continuity*: the same three lines, in different orders, each time).
 
 ---
 
