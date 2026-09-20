@@ -42,7 +42,7 @@
 - **Role:** The team's hammer and heart. Forge-knight, heir to a family forge that's been cold for a century.
 - **Look:** Stocky, beard in twelve braids (nine are family, three are *debt*), stone-scarred hands, carries a hammer called **Askstone** that his grandfather made "to ask the mountain things."
 - **Personality:** Loud, loyal, feeds everyone he meets. Hides that he can't hear the stone-song anymore — his family's gift went quiet the day the Reforgers started mining. He's not angry at the mountain. He's grieving a *relative*.
-- **Grief:** His father **Durin Khazdûrin** died in the Century-Root War a hundred years ago — and Grimm's mother, a mortal Seam-woman, outlived everyone, which means Grimm is *the only dwarf alive who can't remember his own grandfather's face*. The mountain's silence is a family archive with the lights off.
+- **Grief:** His grandfather **Durin Khazdûrin** died in the Century-Root War a hundred years ago — and Grimm's mother, a mortal Seam-woman, outlived everyone, which means Grimm is *the only dwarf alive who can't remember his own grandfather's face*. The mountain's silence is a family archive with the lights off.
 - **Weapon/sigil:** **Everburn** (stone-forging). His Chord: **The Mountain-Ask** (with Kaelen) — the stone-song read by a mortal. The scene of Season 2's Khazadûm arc.
 - **Arc:** Learns the mountain can be asked by *any* of its family — even a hundred-year-old with a dead ear. The forge goes hot again in his hands, and he braids a tenth braid: *for the family that's coming.*
 - **Comedy:** His grummpling sidekick **Pebble** has exactly one idea (a geode, somewhere, is his) and gets them lost constantly. Pebble is the franchise mascot candidate.

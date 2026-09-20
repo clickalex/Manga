@@ -42,7 +42,7 @@
 
 ### P3.1 — Grimm
 **Art:** Grimm, standing now, Askstone *planted* — not raised — butt on the stone, hands folded on the head (the art team: the hammer at rest is the charm; he was told not to ask the mountain, and he is not asking; this is a name, said to a *room*). Pebble on his shoulder, quiet. The root-bridge behind him; one root-line under the floor with the faint Khazadûm ember in it (**#e07a3f**), answering *once* — no more (the Mountain-Ask is Volume 4; this is a name heard through the floor).
-**Grimm (flat, the dwarf — the forge, the family, the name):** "**Durin Khazdûrin.** My father. His forge's been cold a hundred years because nobody in the family could bear to say his name *inside* it."
+**Grimm (flat, the dwarf — the forge, the family, the name):** "**Durin Khazdûrin.** My grandfather. His forge's been cold a hundred years because nobody in the family could bear to say his name *inside* it."
 **Grimm (next, to the grain):** "…Say it warm. That's all a forge ever wanted."
 
 ### P3.2 — Morgatha (the count)

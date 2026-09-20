@@ -78,6 +78,8 @@
 
 **Motifs & props.** The twelve braids (count them) · Askstone · the geode (Pebble's one idea: *somewhere's a geode, and it's his*) · the bridge (he rebuilds what falls — "a door that doesn't hold is just a hole with opinions").
 
+**Vol. 4 anchors (from Ch. 14).** The braids become the reader's clock: **nine tight, three loose, drawn identically and countably every page of Volume 4** (Ch. 14 P2.2 states the account; **P8.2 is one silent frame of him counting and not finishing** — no balloon, no reaction shot). The **name-stone** takes heat out of his palm (hoarfrost, no rejection — P4.2). **Askstone stays wrapped** until the arc earns it (P2.2, P5.2, P10.1) — the hammer is *made to ask the mountain things* and its owner is not ready to be seen asking. His pilot line's second half is spent at his own forge's door (P5.2). The arc's private mercy so far: **one drop** off the anvil (P10.2).
+
 **Pilot anchors.** Ch. 3 P3 (debut, the bridge) · P11.1 (the bridge plan) · Ch. 4 P1 (the bridge *holds*) · Ch. 5 (the first death, beside Kaelen).
 
 **Pilot line (canon, verbatim):** *"My dad's forge's been cold a hundred years. I'm not leaving until it's warm again."*

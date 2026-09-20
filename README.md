@@ -39,7 +39,8 @@ Manga/
 │       ├── chapter-10.md       ← Ch. 10 "The Unnamed Road" (12-page panel script — S1 continues)
 │       ├── chapter-11.md       ← Ch. 11 "The Held Door" (12-page panel script — S1 continues)
 │       ├── chapter-12.md       ← Ch. 12 "Every Branch" (12-page panel script — S1, the call)
-│       └── chapter-13.md       ← Ch. 13 "Every Name" (12-page panel script — **Season 1 finale / end of Vol. 3**)
+│       ├── chapter-13.md       ← Ch. 13 "Every Name" (12-page panel script — **Season 1 finale / end of Vol. 3**)
+│       └── chapter-14.md       ← Ch. 14 "Twelve Braids" (12-page panel script — **Season 2 opens / Vol. 4 "The Mountain-Ask"**)
 │
 ├── character/                  ← DESIGN (the character side)
 │   ├── README.md               ← cast system + tier audit + rules for new characters
@@ -88,7 +89,7 @@ python3 -m http.server 8000
 - **The story** — Aurelion, the First Dreaming, shattered itself into nine realms; its negative image (Vaelthorn, the Hollow Sovereign) hungers to reforge every race into one painless unity. A scarred human boy — a Mosaic, a fragment of the First Being — walks the seams with one warrior of every realm, answering the Unraveling the only way it can be answered: **by saying names back**.
 - **The cast** — 628 named characters in four tiers (9 core · 96 principals · 283 ensemble · 240 population), each lead the emotional face of a realm & race, so any medium can re-center on a different lead and the world holds.
 - **The power system** — Sigils (realm soul-marks that spend *identity*, not mana), Chords (two sigils of different realms, by *choice* — the card game's combo system, the theme as a mechanic), the Unraveling (the cost that is the story), and the Nine Crowns (artifacts of consent).
-- **The manga** — **Season 1 is complete: Ch. 1–13 scripted (156 pages — thirteen 12-page chapters)**. The pilot (Ch. 1–6) ends with the King's first line, the grove's Re-Oath, and the Hollow's first word; Season 1 continues through the Sylvaris arc (*The Name of the Road* · *Open Doors* · *The Realm's Word* · *The Unnamed Road* · *The Held Door* · *Every Branch* — the road is named, the Moot gives the realm's word, the white goes *under*, the Nine go down after it, the realm is called by every branch) and closes on the finale **Ch. 13, *Every Name*** — the realm's answer in nine names, the Third named **Grain**, the Chord through the tree, the Crown loosed into the tree's own crown, Vaelthorn's reserved line spent to Kaelen alone, and the scar that beats: Aurelion's. **Volume 4 — *The Mountain-Ask* — opens Season 2** (nothing of it scripted yet).
+- **The manga** — **Season 1 is complete (Ch. 1–13, 156 pages) and Season 2 has opened (Ch. 14)**. The pilot (Ch. 1–6) ends with the King's first line, the grove's Re-Oath, and the Hollow's first word; the Sylvaris arc (Ch. 7–13) names the roads, gives the realm's word, and closes with *Every Name* — the realm's answer in nine names, the Chord through the tree, the Crown loosed into the tree's own crown, Vaelthorn's reserved line spent to Kaelen alone, and the scar that beats: Aurelion's. **Volume 4 — *The Mountain-Ask* — begins at Ch. 14, *Twelve Braids***: eleven days east, a realm that counts a person's word in their own hair, a mine that sells the binding and files the breaking, a mountain that has stopped answering, and the heir of a cold forge who has to find out whether he is the only one who can't hear it or the only one it is talking to.
 - **The future scope** — the canon spine (the 8 fixed facts), a 12-volume manga roadmap, 4 anime seasons, movies, a TCG whose *system is the game*, four PC games, novels & audio, a 10-year IP timeline, and the sequel door (Realm 10 — the stars).
 
 ---
@@ -100,5 +101,5 @@ python3 -m http.server 8000
 | Working title | **AURELION: The Nine Realms Saga** |
 | Realms / races | 9 (+ 1 reserved) / 49 (+ 9 reserved slots) |
 | Named characters | **628** (9 + 96 + 283 + 240) |
-| Pilot status | **Ch. 1–6 scripted — pilot complete** · **Ch. 7–13 scripted — Season 1 complete** (Vol. 3, *The First Crown*, closes on Ch. 13, *Every Name*; Vol. 4 — *The Mountain-Ask* — opens Season 2) |
+| Pilot status | **Ch. 1–6 scripted — pilot complete** · **Ch. 7–13 scripted — Season 1 complete** (Vol. 3, *The First Crown*, closes on Ch. 13, *Every Name*) · **Ch. 14 scripted — Season 2 opens** (Vol. 4, *The Mountain-Ask*) |
 | IP rule #1 | **No race is the monster.** The monster is the hunger. |
