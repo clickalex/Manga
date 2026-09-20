@@ -53,7 +53,7 @@ A franchise dies from *inconsistent canon*, not from *new* stories. The spine is
 | **Vol. 11** | *The Hollow* | The descent; the grief-vaults; the Nine Crown Shards |
 | **Vol. 12** | *The Living Crown* | The final act; the Heart-Given; the Seam-moot; the ending |
 
-**Scripted so far:** Vols. 1–3 = Ch. 1–13 (Season 1 complete, closing on *Every Name*); **Vol. 4 = Ch. 14 onward** (Season 2 opens with *Twelve Braids*).
+**Scripted so far:** Vols. 1–3 = Ch. 1–13 (Season 1 complete, closing on *Every Name*); **Vol. 4 = Ch. 14–15** (Season 2 opens with *Twelve Braids*; *The Contract Braid* takes the realm's court into the mine).
 
 ### The spin-off manga (each is a *different* story in the *same* world)
 | Spin-off | Tone | The story |

@@ -124,7 +124,7 @@
 - **Line:** *"Pebble's got one idea. It's the* best *idea in the mountain. I've seen* kings *with worse."*
 
 ### Duelist Molka — FLAME DWARVE · the forge-duels
-- **Function:** forge-duel champion; the "forge is a family" philosophy; runs the Anvil-Naming festival.
+- **Function:** forge-duel champion; the "forge is a family" philosophy; runs the Anvil-Naming festival — which is not a festival but the realm’s **court of account** (every braid read out, debts settled, the year’s word judged; venue decided by where the most anvils stand — Ch. 15). She reads the law from her book, and in Ch. 15 she is outflanked by it and *stops walking*; she does not speak until her duel scene.
 - **Beat:** her duel with Torvik (over the mining-oath) is the arc's *legal* scene (the dwarf's "law" is a *duel* — the realm's answer to a broken oath is a forge, not a court).
 - **Line:** *"You want to break an oath? Then* stand *in the fire with me. The forge doesn't do* appeals."
 

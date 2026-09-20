@@ -162,7 +162,7 @@ A cross-realm cult of the desperate and the ambitious. Preach: the realms must b
 | Cell (realm) | Leader | The mirror (the realm's worst impulse, made flesh) |
 |---|---|---|
 | **Sylvaris** (S1) | **Prophet Orvane** (a human, ex-priest) | The elf's *pride* — "the grove is *one*; the *branches* are the wound" (a human preaching *elf* ideology, the realm's worst impulse *worn by an outsider*) |
-| **Khazadûm** (S2) | **The Miner, Stonehand Drek** (a flame dwarf) | The dwarf's *grief* — "the mountain's a *relative*; the *mining* is the *funeral*; the Reforging is the *last* braid" (a dwarf who *can't hear the stone-song*, and has made a *theology* of the silence) |
+| **Khazadûm** (S2) | **The Miner, Stonehand Drek** (a flame dwarf) | The dwarf's *grief* — "the mountain's a *relative*; the *mining* is the *funeral*; the Reforging is the *last* braid" (a dwarf who *can't hear the stone-song*, and has made a *theology* of the silence; **Vol. 4 note: he is warm, he is a mason, and he keeps every promise he makes** — his braids are shorn as *mourning dress*, “a braid’s a promise to keep listening” (Ch. 14–15); dangerous precisely because he is a man of his word) |
 | **Ulgar** (S2) | **Gorakh the Scarred** (a cyclops) | The orc's *code* — "the *honor* is the *wound*; the *Reforging* is the *one* throat" (the code, *taken to its logical end*) |
 | **Thalassa** (S2) | **The Silencer, Vox-Nul** (a siren) | The merfolk's *law* — "the *chorus* is the *wound*; the *silence* is the *one* voice" (the law, *sung* into a *void*) |
 | **Emberfall** (S2) | **Malachar, the Oath-Eater** (a demon) | The demon's *oath* — "the *contract* is the *cage*; the *Reforging* is the *key*" (the law, *broken* into a *religion*) |
