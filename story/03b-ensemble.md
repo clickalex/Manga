@@ -105,7 +105,7 @@
 12. **Granite** — Stone giant, old-gate · warden-old; holds the mountain's oldest gate.
 13. **Fern** — Stone giant, moss-line · moss-warden; tends the mountain's moss.
 14. **Sprout** — Stone giant, moss-line · moss-young; plants the first post-mining moss.
-15. **Echo** — Deep dwarf, mountain-court · Khazri's echo-young; hears the stone-song's first return.
+15. **Echo** — Deep dwarf, mountain-court · Khazri's echo-young; hears the stone-song's first return. **Manga Ch. 18: he reads the year.** When the Grand-Anvil's voice fails at entry nine hundred and four, the keeper carries the book across the floor and puts it in his hands without a word, and he reads the remaining three thousand entries in a level voice that never cracks and never misreads a plate — fourteen years of copying a shape he cannot read, spent on the one thing he is perfect at. His single line closes the Speaker's turn: *“fourteen years. He's never looked at anybody.”* *Not spent:* the stone-song's first return is still his (03b).
 16. **Ore** — Golem, first-waking rite · Oreheart's witness; witnesses the First Waking.
 17. **Clink** — Golem, first-waking rite · Oreheart's heart-young; asks to be a person (the second First Waking).
 18. **Spark** — Golem, first-waking rite · First-Waking candidate; the one who *asks* first.

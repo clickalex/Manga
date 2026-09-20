@@ -75,6 +75,8 @@
 
 *Ch. 16 promotes six of these names to the realm’s **witnesses** (the street question): **Hildrun, Tova, Perra, Varda, Yrsa, Ragna** — six old women, six faces of one dead man, no two alike.*
 
+*Ch. 18 puts two more on the page: **Urka** (Torvik’s son, shaft nine) raises the **first objection in the realm’s recorded history** — on the same contract plate as Grimm’s entry, and his ground is the sentence’s other half (*it says I was heard; ask it*) — and **Ragna** (Echo’s sister, mountain-court) raises the second: the year counts **hands, not people**. Three objections, four hundred years, one page, and a keeper’s hand that does not speak.*
+
 | Name | Race | Place | Role |
 |---|---|---|---|
 | Anka Emberhand | Flame dwarf | flame-forge | Grudka's daughter; the forge-mother's daughter |
