@@ -183,6 +183,7 @@
 - **Line:** *"I remember the first song. I remember it* stopping. *I don't remember why. That's the* worst *part. A memory with no* reason."
 
 ### Ferry-Captain Marra — SELKIE · the tide-wanderers
+- **Ch. 26 (P9.1), planted for Vol. 6:** met on the caravan road east with a **boat on a wagon** and a bucket of seawater she drinks like tea. The sea's *first song* has stopped reaching, and her canon strategy is already on the page: *“the sea's gone quiet, and I'm not waiting for it to come back to me. I'm going to it.”* She **fills Nereia's flask without being asked** (the volume's third stranger-courtesy to Nereia) and the two sea-folk share a page **without one word between them**. Practical, warm, edged; salt-cracked hands; **her Thalassa arc is Vol. 6's.**
 - **Function:** the team's sea-to-land liaison; the only "traveler" of the deep.
 - **Beat:** leaves the sea *with* the team (the heartbreak of choice); her sea-skin stays in a tide-jar in Ashenmere (the "Freeskin" visual — a selkie's home, *bottled*, on a shelf in a human town).
 - **Line:** *"The sea's in the jar. That's not* leaving. *That's* packing. *I can always come* home."

@@ -140,6 +140,8 @@
 
 ## 6 · AZRAEL VENN — Fallen Angel · 22 · Seraphel
 
+*(Manga Ch. 26: see the oath-entry beat recorded in [../story/03-characters.md](../story/03-characters.md) — the travel-horn's margin takes his name; no glow, no halo, ever.)*
+
 **The ace and the wound.** Strongest fighter; least sure he's allowed to want anything. Dry, over-precise, deflects with jokes that are technically not jokes; the calmest person alive — because he has already lost the fight that matters.
 
 **Design.** **Gray wings** — the same gray as the Unraveling (the art team's subtlest visual argument: the fallen angel's wings are the color of the thing that eats names, and they are *the most human color on the page*; the reader must *not* read them as the gray) with **dawn-pink wing-tips** (the light didn't go out; it *chose people over law*). The **halo is a cracked statute** (the crack runs through the halo *like a river* — the oath he broke: *"I will protect no mortal from the Purge."* He broke it. He hid the in-between children. The Wandering Order.). Pale, precise, the calmest face in the cast.
