@@ -141,7 +141,7 @@
 ### Duelist-Champion Tauron — MINOTAUR · the labyrinth
 - **Function:** labyrinth-duel champion; the recurring rival (duels the team in the Ulgar arc; loses; becomes their maze-guide).
 - **Beat:** the duel-culture's face; his loss is *graceful* (the minotaur's honor: a lost duel is a *gift* — he gives them the maze as thanks for the fight; the "honor as exchange" beat).
-- **Line:** *"You lost. Which means the maze is* yours. *Walk it. It'll teach you more than any* map."
+- **Line:** *"You lost. Which means the maze is* yours. *Walk it. It'll teach you more than any* map." — **SPENT, manga Ch. 23 P5.1**, as the **yield**: he beats Morgatha in the centre by making her choose between the fight and the clause she is carrying, listens for four corridors, **recites her clause back to her perfectly**, and then declares **his own loss** (the realm’s rule: the holder of a thing answers for it; a lost duel is a gift) and gives her the maze. Delivered as a **gift, never a consolation**. His rival **Taurus** watches from the gate crowd with appetite (Ch. 23 P1.1) — **Taurus’s own scene is not yet written.**
 
 ### Mender Glintfin — TROLL · the river-caste
 - **Function:** river-caste mender; the one who fixes the team's gear.
@@ -151,7 +151,7 @@
 ### Sage Oros the Old Eye — CYCLOPE · the oldest maps
 - **Function:** keeper of the oldest maps; Gorakh's *teacher*.
 - **Beat:** the "almost-agreement" tension — he taught Gorakh the stitch-theory; the student out-raged the teacher. His one line to Gorakh is the arc's quiet knife.
-- **Line:** *"I taught you to* see *the wound. I never taught you to call the* patient *the* doctor."
+- **Line:** *"I taught you to* see *the wound. I never taught you to call the* patient *the* doctor." — **HELD for Gorakh’s own chapter.** **Ch. 23:** he appears in the map-room and the art team replaces the line with something the lettering team must protect — **he stands beside his own handwriting on the request-slip and says nothing** (the keeper’s note on Gorakh’s ask is *in Oros’s hand*), and he says exactly one careful sentence about **reading the margins**. Do not spend the canon line here.
 
 ### Swarm-Matress Snitch — GOBLIN · the courier network
 - **Function:** head of the goblin courier network; the logistics heart; knows every Seam's weather (Roderick's twin info-network).

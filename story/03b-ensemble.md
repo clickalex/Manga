@@ -139,15 +139,15 @@
 10. **Kha** — Orc, Ulrik's clan · young; Kharza's sister; the code's youngest student.
 
 ### The minotaur / the troll / the cyclops
-11. **Maze** — Minotaur, labyrinth · labyrinth-keeper; guides the maze; gives the team the maze-map after Tauron's loss.
-12. **Taurus** — Minotaur, labyrinth · Tauron's rival; challenges Tauron.
+11. **Maze** — Minotaur, labyrinth · labyrinth-keeper; guides the maze; gives the team the maze-map after Tauron's loss. **Ch. 23:** the volume's teaching voice — he walks the team through the rules (*“Nothing in here is mean, captain. It just won't say a thing's settled when it isn't.”*), accepts **Viv's three terms** as *readable*, has Horn cut them into the gatepost, and gives the map. Old, shoulder-braced, lamplighter's eyes; not a gatekeeper, a *curator*.
+12. **Taurus** — Minotaur, labyrinth · Tauron's rival; challenges Tauron. **Ch. 23:** one frame in the gate crowd, off duty, drawn as **pure appetite** — he wants a walker today. **His challenge is not in Ch. 23**; do not stage it early.
 13. **Horn** — Minotaur, labyrinth · horn-carver; carves the duel-record into horn.
 14. **Ripple** — Troll, river-caste · Glintfin's mender; mends the team's armor.
 15. **Flow** — Troll, river-caste · river-fisher; feeds the team.
 16. **Deep** — Troll, river-caste · river-elder; remembers the river's oldest song.
 17. **One-Eye** — Cyclops, old-forges · Oros's sage; reads the oldest map.
 18. **Iron-Eye** — Cyclops, old-forges · forge-sage; forges the oldest hammer.
-19. **Ash-Eye** — Cyclops, old-forges · map-keeper; keeps the map Gorakh's family made (the "family map" beat — he returns it to the Barrens, so the Rift's blame is shared).
+19. **Ash-Eye** — Cyclops, old-forges · map-keeper; keeps the map Gorakh's family made (the "family map" beat — he returns it to the Barrens, so the Rift's blame is shared). **Ch. 23, paid as a transfer and not an apology:** *(Clarified in the Ch. 23 pass: this note now reflects the on-page beat — he returns the family map to the Barrens with the Rift's fault written into the margin in his own hand, in front of One-Eye and Iron-Eye, while **Oros says nothing**.)*
 
 ### The goblin / the kobold / the ultravote
 20. **Dart** — Goblin, courier-network · Snitch's courier; carries the first Re-Oath petition.
@@ -155,9 +155,9 @@
 22. **Quick** — Goblin, courier-network · courier; carries the news between realms.
 23. **Nest** — Goblin, swarm · nest-keeper; keeps the swarm's nest (the swarm's home).
 24. **Fast** — Goblin, courier-network · fastest courier; the franchise's "goblins deliver" beat. **Ch. 22:** delivers the **nothing** — *“No letters out of the green or the gray. The swarm's got nothing, so the swarm's saying nothing. That's the news.”* — and is the reason **Fenn stops writing “no letters” and starts logging days**.
-25. **Crystal** — Kobold, cave-carts · Tess-Ohm's scribe; maps the gem-veins.
+25. **Crystal** — Kobold, cave-carts · Tess-Ohm's scribe; maps the gem-veins. **Ch. 23:** the copyists' bench in the map-room — corrects Fenn's *holding* hand while he learns to cut a country, and reads the **copy-ledger** row that becomes the volume's second finding (*one copy made … the asker's companions read with him, twice — four of them*).
 26. **Stone** — Kobold, cave-carts · cave-cartographer; maps the caves (draws the Seams map with Wren & Tess-Ohm).
-27. **Fire-Knob** — Kobold, cave-carts · gem-spark; lights the first gem-spark (the map's illumination).
+27. **Fire-Knob** — Kobold, cave-carts · gem-spark; lights the first gem-spark (the map's illumination). **Ch. 23:** lights the lamp over Fenn's copy-work so the cuts catch — the kobolds' own art: *a map is lit from within.*
 28. **Grom** — Orc, the Ultravote · war-chief council; speaks at the Ultravote.
 
 ---
