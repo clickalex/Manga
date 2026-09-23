@@ -177,15 +177,21 @@
 
 ## Thalassa (+7)
 
+### Thalarch Maelis — MERFOLK · the chorus-parliament
+- **Function:** ruler of Thalassa; **voiceless** — she gave her voice to the first song long ago (a small old scar at the throat), and her part of it has been carried by **Song-Part** ever since: the "one voice" tragedy, made concrete, and the reason a realm whose law is music is ruled by its only silent citizen.
+- **Behaviour, canon (Ch. 30):** she never speaks and never sings; she **taps the arm of the bone chair with two fingers** and her keeper answers for her; she **votes by handing Song-Part her hand**; she crosses a ring to do it herself, and she stands in the rising tide like anybody else. Draw her with **no crown and no chair when she leaves it** — the Thalarch is the shortest person in the ring and it does not matter at all.
+- **Line:** **none. Ever.** She has no voice in this saga; anything she "says" is sung by Song-Part, and the lettering must make that legible every time.
+
+
 ### Judge-Chancellor Aurelia Vox — SIREN · the law-court
 - **Function:** the law-court's highest singer; Iliana's successor; sings the verdict that frees the team from sea-law.
 - **Beat:** the "duet-verdict" beat; her verdict-duet is the most famous after the First Song (the "the law's voice, passed down" beat — the court's singing tradition, embodied).
-- **Line:** *"The court sings its verdict. I'm about to sing* freedom. *That's the first verdict I've sung that's not a* cage."
+- **Line:** *"The court sings its verdict. I'm about to sing* freedom. *That's the first verdict I've sung that's not a* cage." ***HELD*** — the verdict that *frees the team from sea-law* is a later Vol. 6 chapter's (Ch. 30's verdict is **Pearl's motion-by-duet**, and Aurelia does not appear).
 
 ### Elder Mnemothe — KRACKENKIN · the deep-memory
 - **Function:** the oldest mind; the one who *remembers* the Leviathan's first dream.
 - **Beat:** the Thalassa arc's lore-beat; speaks in centuries (the "even the sea thinks in centuries" joke); his memory is the realm's *firstness* kept alive (the "the oldest mind, holding the first song" beat).
-- **Line:** *"I remember the first song. I remember it* stopping. *I don't remember why. That's the* worst *part. A memory with no* reason."
+- **Line:** *"I remember the first song. I remember it* stopping. *I don't remember why. That's the* worst *part. A memory with no* reason." — **SPENT, manga Ch. 30 P6.1**, at the memory-reef, with the outermost ring's lip thin and unfinished under one tentacle-tip; he speaks without a single tentacle stopping.
 
 ### Ferry-Captain Marra — SELKIE · the tide-wanderers
 - **Ch. 26 (P9.1), planted for Vol. 6:** met on the caravan road east with a **boat on a wagon** and a bucket of seawater she drinks like tea. The sea's *first song* has stopped reaching, and her canon strategy is already on the page: *“the sea's gone quiet, and I'm not waiting for it to come back to me. I'm going to it.”* She **fills Nereia's flask without being asked** (the volume's third stranger-courtesy to Nereia) and the two sea-folk share a page **without one word between them**. Practical, warm, edged; salt-cracked hands; **her Thalassa arc is Vol. 6's.**
@@ -206,7 +212,7 @@
 ### Dream-Keeper Whalesong — MERFOLK · the Deep-Listening
 - **Function:** the one assigned to *listen* to the Leviathan; the Deep-Listening festival's keeper.
 - **Beat:** when the First Song goes quiet, he *keeps listening anyway* (the "faith without answer" beat — the arc's quiet hero; a merfolk listening to a god that stopped speaking, for a century, out of *duty*).
-- **Line:** *"The Leviathan's* silent. *I'm still* listening. *That's not* hope. *That's* manners."
+- **Line:** *"The Leviathan's* silent. *I'm still* listening. *That's not* hope. *That's* manners." — **SPENT, manga Ch. 30 P7.1**, verbatim, at the Deep-Listening post (361 notches, no gap), delivered as a job description. **Ch. 30 P7.2:** the deep answers in a **key the sea does not have** (*that was the first line being sung back at us*), he leaves the day's notch **uncut**, tells nobody but the map, and goes back to the shell. **Nothing in Vol. 6's next two chapters may explain it.**
 
 ### Duelsinger Vespera — SIREN · the verdict-duets
 - **Function:** Aurelia's counterpart; the "duel-of-law" scene (two siren verdicts dueling — the most legal song in the book).

@@ -165,15 +165,15 @@
 ## Realm 5 — Thalassa (28)
 
 ### The court / the chorus
-1. **Tide** — Merfolk, chorus-parliament · chorus-lead; leads the Chorus-True.
-2. **Current** — Merfolk, chorus-parliament · second-voice; sings the chorus's second part.
-3. **Stream** — Merfolk, chorus-parliament · third-voice; sings the chorus's third part.
-4. **Coral** — Merfolk, court · court-scribe; records the Re-Oath.
-5. **Pearl** — Merfolk, court · court-judge; judges the Re-Oath (by duet).
-6. **Shell** — Merfolk, court · court-herald; announces the Re-Oath (in song).
+1. **Tide** — Merfolk, chorus-parliament · chorus-lead; leads the Chorus-True. **Ch. 30:** one of the three voices in the Shell; the three parts are **lettered as a stacked chord** (a reader must be able to see a chord on a page); his verdict on the Barrens' badly-sung clause is the sea's welcome — *true, and badly sung, and we will keep it … you have a voice like a door and the door's yours.*
+2. **Current** — Merfolk, chorus-parliament · second-voice; sings the chorus's second part. **Ch. 30:** second of the three voices; part of the chord that closes the Barrens' clause back to the realm (*a voice comes to the door; the door answers; a true thing is not turned away*).
+3. **Stream** — Merfolk, chorus-parliament · third-voice; sings the chorus's third part. **Ch. 30:** third of the three voices; holds the beginner's wrong note the way a good chorus holds one — the sea's whole invitation to the realm of the collar.
+4. **Coral** — Merfolk, court · court-scribe; records the Re-Oath. **Ch. 30:** the Shell's scribe; records by **singing the thing back**, and the rubric is hers, canon from here: *you may not enter anything you cannot sing back.* She returns the realm's document across the sand (— *a document is a song nobody’s singing; it isn't refused, it's* **unheard**, *which is worse*) and memorises the Barrens' clause with her eyes closed while the party reads it.
+5. **Pearl** — Merfolk, court · court-judge; judges the Re-Oath (by duet). **Ch. 30:** the Shell's judge — no gavel, none needed. She proposes the motion that invents the **duet office** (the line stays in the water; a **keeper-Above** entered in the reef-roll; the first bar answerable from the surface; the sea's reply to any reading **sung by the full chorus**), enters the Barrens' law by **singing it into the horn-roll** (nine notches now), and delivers the sea's verdict on the two doctrines: *your realm's rule is a reading may not be refused; ours is a thing sung true cannot be unsung … we are going to read at every door we own and sing back everything we hear.*
+6. **Shell** — Merfolk, court · court-herald; announces the Re-Oath (in song). **Ch. 30:** announces the party at the Shell's ring **by tide and object**, not by title (*an old man who counts, an older man who reads, a girl with a collar, and a captain with a cut braid*), and closes the announcement with the sea's own verdict on visitors: *the tide says you are guests; the tide says you are dry.*
 7. **Claw** — Merfolk, Thalarch's guard · Maelis's shield; guards Maelis.
 8. **Deepwater** — Merfolk, Thalarch's court · counsel; advises Maelis.
-9. **Song-Part** — Merfolk, Thalarch's court · Maelis's voice-keeper; carries Maelis's part of the first song (the "one voice" tragedy, made concrete).
+9. **Song-Part** — Merfolk, Thalarch's court · Maelis's voice-keeper; carries Maelis's part of the first song (the "one voice" tragedy, made concrete). **Ch. 30, central:** she leans toward the Thalarch **like an ear**; she has sung Maelis's part four thousand and eleven times; she stands in the Shell for an ordinary kelp-farm verdict and **the chord does not close**, because the first bar is anchored to a line that has not been heard in a year (*we are not dying. We are* **quiet**); and she sings the Thalarch's **ask** to Nereia while holding Maelis's hand — because in the sea's parliament the ruler with no voice **votes by giving her hand to her keeper**, and that gesture must be drawn as the realm's whole constitution.
 10. **Remember** — Merfolk, Thalarch's court · memory-keeper; remembers the first song *for* Maelis.
 
 ### The siren / the krakenkin
