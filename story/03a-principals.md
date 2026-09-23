@@ -133,6 +133,11 @@
 
 ## Ulgar (+7)
 
+### Reader-at-the-Edge Kha — ORC · the post at the edge of the world
+- **Function:** the realm's first appointed reader outside the realm; Kharza's sister; the code's youngest student (eleven).
+- **Beat:** **the newest word goes to the furthest door** — the realm posts a *student* at the edge because the edge is where a law gets tested. **Ch. 29:** appointed in the horn's copy and read aloud at the post's door; does not appear on the page; wears the **collar** (office outside, *and she may refuse* inside, on a rim-foundry buckle).
+- **Line:** **not yet written** — her first line is Vol. 6+'s, and it must arrive after a year at the edge has cost her something. (Kharza's Ch. 29 letter to her is the *realm's* line: *don't sit still, and don't be brave — be accurate.*)
+
 ### Blood-Clan Chief Urzun the Red — ORC · Morgatha's clan
 - **Function:** chief of Morgatha's blood-clan; Ulrik the Unbroken's comrade.
 - **Beat:** votes *against* the hostage-rescue (the code) — and then votes *for* it (the code rewrites around Morgatha's choice; the "the chief who changes the vote" beat). **Manga route (Ch. 22–Ch. 25): there is no *rescue*** — the realm frees the War-Chief by **procedure** (the clause, the vote, the carrying), and Urzun's two movements are (i) the vote on the clause itself (Ch. 24 P3.1–P3.2, his line spent verbatim, *resent* entered in the horn) and (ii) **holding the clan stone out to Morgatha at the gate (Ch. 25 P5.2) and taking it back when she refuses it** — *“then it stays in my hand a while … when the road comes home you'll find me in this exact spot with it.”* His grievance is not with her but with the decade: *“you were owed better than my vote.”*
