@@ -191,9 +191,11 @@
 ### Elder Mnemothe — KRACKENKIN · the deep-memory
 - **Function:** the oldest mind; the one who *remembers* the Leviathan's first dream.
 - **Beat:** the Thalassa arc's lore-beat; speaks in centuries (the "even the sea thinks in centuries" joke); his memory is the realm's *firstness* kept alive (the "the oldest mind, holding the first song" beat).
+- **Ch. 31:** the reef's **missing year** goes into Viv's six-line report, is read aloud at the post at the edge, and becomes the sentence the realm cannot unhear: the sea spent a year unable to bind, which is the shape of the Barrens' own wound. Canon from Ch. 31 P4.2: **the sea's year of unboundness is entered in the horn as a debt, to be read aloud at each circle until the reef is told to have grown its ring.**
 - **Line:** *"I remember the first song. I remember it* stopping. *I don't remember why. That's the* worst *part. A memory with no* reason." — **SPENT, manga Ch. 30 P6.1**, at the memory-reef, with the outermost ring's lip thin and unfinished under one tentacle-tip; he speaks without a single tentacle stopping.
 
 ### Ferry-Captain Marra — SELKIE · the tide-wanderers
+- **Ch. 31 (P1.1):** she reads the sea's notched roll aloud at **four gullies** on the way inland (Pearl's duty, entered with the motion), keeps a **tally-book** in which the fourth gully's rising finger is written on the *weather* line without comment (*if the sea wants to explain it, the sea can write*), and tells Fenn to put it on the map — *small*.
 - **Ch. 26 (P9.1), planted for Vol. 6:** met on the caravan road east with a **boat on a wagon** and a bucket of seawater she drinks like tea. The sea's *first song* has stopped reaching, and her canon strategy is already on the page: *“the sea's gone quiet, and I'm not waiting for it to come back to me. I'm going to it.”* She **fills Nereia's flask without being asked** (the volume's third stranger-courtesy to Nereia) and the two sea-folk share a page **without one word between them**. Practical, warm, edged; salt-cracked hands; **her Thalassa arc is Vol. 6's.**
 - **Function:** the team's sea-to-land liaison; the only "traveler" of the deep.
 - **Beat:** leaves the sea *with* the team (the heartbreak of choice); her sea-skin stays in a tide-jar in Ashenmere (the "Freeskin" visual — a selkie's home, *bottled*, on a shelf in a human town).
@@ -212,6 +214,7 @@
 ### Dream-Keeper Whalesong — MERFOLK · the Deep-Listening
 - **Function:** the one assigned to *listen* to the Leviathan; the Deep-Listening festival's keeper.
 - **Beat:** when the First Song goes quiet, he *keeps listening anyway* (the "faith without answer" beat — the arc's quiet hero; a merfolk listening to a god that stopped speaking, for a century, out of *duty*).
+- **Ch. 31 P11.1:** he **cuts the notch he refused in Ch. 30** and does the one thing the post has never done in three hundred and sixty-two days — **sings one note of the first line back down the tube** (a single clean line of the sea's ring-script) — on the reasoning that *a receiving end isn't a partner, it's a bucket*. The deep gains nothing; the only permitted change is a faint haze at the tube's mouth. His last line: *the flood's at dawn; I'll know by the flood.*
 - **Line:** *"The Leviathan's* silent. *I'm still* listening. *That's not* hope. *That's* manners." — **SPENT, manga Ch. 30 P7.1**, verbatim, at the Deep-Listening post (361 notches, no gap), delivered as a job description. **Ch. 30 P7.2:** the deep answers in a **key the sea does not have** (*that was the first line being sung back at us*), he leaves the day's notch **uncut**, tells nobody but the map, and goes back to the shell. **Nothing in Vol. 6's next two chapters may explain it.**
 
 ### Duelsinger Vespera — SIREN · the verdict-duets
