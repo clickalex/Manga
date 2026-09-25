@@ -205,7 +205,7 @@
 
 **END OF THE PILOT**
 **The pilot is complete: twelve chapters, twelve issues, twelve episodes. The Nine are named. The realms are waking. The Hollow is waiting.**
-**Next:** Season 1 continues — Volume 3, "The First Crown" (Ch. 7–12): the realm by realm, the Re-Oath's second act, the Null's first word.
+**Next:** Season 1 continues — Volume 3, "The First Crown" (Ch. 7 onward; the volume closes with the Season 1 finale, Ch. 13, *Every Name*): the realm by realm, the Re-Oath's second act, the Null's first word.
 
 ---
 
