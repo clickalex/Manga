@@ -26,6 +26,8 @@
 | [assets/key-ch30-first-line.png](assets/key-ch30-first-line.png) | **Key visual &#8212; Ch. 30, *The First Line*.** The **Shell** at the ninth mark of the tide-clock: water ankle-deep and climbing, the chorus mid-chord, shell-lamps lit &#8212; and the sea drawn, per Volume 6's rule, as **light and one line**, never as a body of anything. Web copy: [assets/key-ch30-first-line-web.jpg](assets/key-ch30-first-line-web.jpg). |
 | [assets/cover-vol1-web.jpg](assets/cover-vol1-web.jpg) | **Web copy of the cover** (same 848×1264 image as the v2 master, JPEG q86, ~250 KB vs the 2.5 MB PNG) — this is what `index.html` shows on the Home tab. Regenerate from the PNG with `convert cover-vol1.png -strip -quality 86 cover-vol1-web.jpg`; keep the PNG as the master, and keep `index.html`’s hardcoded `width`/`height` in sync with the master’s pixel size. |
 
+| [audit-2026-09-25.md](audit-2026-09-25.md) | **The repo audit as of Chapter 31** — structure, card captions, colour gates, docs consistency, asset/dimension checks, dead-link scan, the four defects it fixed, the known false positives, and the standing checks carried forward. Re-runnable; the fixes live in the commits, the report lives here so it survives with the work. |
+
 ## Deploying to GitHub Pages (the index page)
 
 The site is a **single index page** at the repo root: [`index.html`](../index.html). It fetches the `.md` files from this repo and renders them in the browser (marked.js from CDN) — so **the repo *is* the site**; no build step, no server code.
