@@ -215,7 +215,7 @@
 10. **Void-Kin** — Demon, fire-court · void-keeper; keeps the void (Malachar's clause, sealed in the court's void-vault — the "hole, kept" beat).
 
 ### The djinn / the imp
-11. **Draft** — Djinn, word-forge · scribe; drafts (Zephyrine's working scribe).
+11. **Draft** — Djinn, word-forge · scribe; drafts (Zephyrine's working scribe). **Ch. 38:** he attends the Court's sessions with a **white stone tablet** and measures the void's edge twice a year (*somebody in this building has to keep talking to the wound*); keeps the chalk-line on the wall; annotates the void-clause in the word-forge's notation with a single word — ***intentional*** — and gives the chapter's coldest testimony, ending on the admission that closes the page: *a witness who is frightened is a witness who is accurate.* Canon: his armour's sentence is legible and **never translated** in this volume's first chapter.
 12. **Clause-Word** — Djinn, word-forge · clause; clauses (the grammar's working keeper).
 13. **Wish-Word** — Djinn, word-forge · wisher; wishes (the "wish, drafted" beat).
 14. **Grammar-Kin** — Djinn, word-forge · grammar; grammars (the realm's living grammar).
