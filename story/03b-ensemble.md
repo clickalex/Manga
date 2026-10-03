@@ -278,6 +278,8 @@
 27. **Vigil-Kin** — Gargoyle, Carved-Order · vigil; vigils (the "vigil's stone" beat).
 28. **Pure-Halo** — Seraphim, Purity-Council · pure; purges the pure (Seravon's working purity-keeper).
 
+**Ch. 46:** the realm's census becomes the volume's clock: **Wing-Count** runs the stand (the trade, *the count never names anybody*, and *we hold the place*), **Wing-Count-Young** makes every cut on the page and reads his own marks back to his teacher alphabet-slow, and the chapter's rule for both of them is that their work is drawn as *chores* — the post, the book, the kettle, the stools, the stand kept open at night for the first time in sixty years. Canon: the count's tally is cut in **pairs**, the roll names and the count does not, and no clerk in Seraphel ever enforces anything on anybody.
+
 ---
 
 ## Realm 8 — Nocturne (28)
