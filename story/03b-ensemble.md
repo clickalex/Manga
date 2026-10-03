@@ -227,6 +227,8 @@
 
 **Ch. 44:** he cuts the realm's first **form** — eleven lines, no seal, no term, no party, no return — and the design brief is the chapter's craft line: *a form's got to be readable by the people who didn't get one.* He cuts it with the largest letters he has ever put on a plate, on purpose, because the clerk in the west will be copying it with a nail on the back of a fee-book with his hands full of ink and river, and says out loud that in thirty years and four hundred plates he has never once cut anything **designed to be copied badly on purpose** (*a law's got to be exact; a form's got to be readable by the people who didn't get one*). The plate is filed under **public business**, and his answer to being told to make it bigger is the whole of his method: *bigger letters. All right. Bigger letters.*
 
+**Ch. 45:** the word-forge's last job of the volume is a **ruling-plate** — the chair orders *cut it* the moment the disposition is ruled, and the realm's finding goes into gold in the same shop that has cut every plate in the volume; the blank plate is framed with the man it concerns on the other side of the table, and the smith's craft line (*it doesn't only burn what breaks; it listens to what holds. same fire, other side. — turn it*) is the design brief for the instrument. Canon: nothing cut on the plate is a promise, no party signs it, and the gold hangs over the table and not over the man.
+
 ### The salamander / the hellhound
 20. **Therma** — Salamander, hot-springs · bath-master; tends the hot-springs (Malachar's dawn-promise, kept by her hands).
 21. **Spring-Current** — Salamander, hot-springs · spring-current; keeps the springs (the "spring's heat" beat).
