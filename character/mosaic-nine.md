@@ -50,6 +50,8 @@
 
 **Ch. 43 — one dangerous sentence, from a bench, with his boots up.** He says the chapter's most dangerous correct line about the man who sold a stranger two chips' worth of admission — *he'll be the first honest clerk the west ever had* — from the bench outside the gate with his eyes shut, and he is **asleep before anybody answers him**, because the answer is standing on the crates at the gate going west on the tide. He is drawn twice in the chapter and awake for exactly one of them, and nobody wakes him for either.
 
+**Ch. 44 — the knife, called before it is drawn.** Half-asleep on the gate's bench with his boots up on a bale, watching the crates go west, he calls the west's answer before anybody in the realm has seen a rates board: *the west'll charge two chips for it and then take a knife to the price* — and is out before the last line of it lands. He is drawn three times in the chapter and awake for none of it (the bench in the morning, the bench at noon, the party's table-leg at the ninth hour), and the art team must draw him at the table-leg as **the only figure in the room who has not read the west's letter.** No figure may quote, answer or mention his sentence.
+
 ---
 
 ## 2 · LYRA SYLVARI — High Elf · 17 (elven: ~170 rings) · Sylvaris
@@ -71,6 +73,8 @@
 **Pilot line (canon, verbatim):** *"I've waited three hundred years for something worth this. Don't waste it being brave."*
 
 **Adaptation notes.** Her wall is a *courtesy* — the panels show the wall going up (composed) and down (one crack) as separate visual states; the lettering never explains them. **Vol. 4:** the noticer measures a foreign law against her own — *“The elves keep their law in a tree and the tree talks, and we spent eleven generations learning to answer it properly. These people kept their law in a book about lamp-oil…”* (Ch. 18 P5.1, Ch. 20 P10.2), and she gets **one almost-smile** in the volume (Ch. 17 P9.2), which is her only crack and must not be repeated casually. Her rings are her *health bar*: drawn, countable, spent.
+
+**Ch. 44 — the question that produces the answer.** With the west's letter open in her hands she asks the only question the room has not asked — *did anybody in the west ask us for anything?* — and answers it herself off line seven: **send me the rules.** Not the readings, not a licence, not a stamp: the *shape* of the thing the realm did with them, because a form is the one thing in this world that travels for nothing and belongs to whoever is holding it. Her refusal to vote on the ruling is the chapter's pattern for her: *I don't want to vote on the ruling — I'd like the form to be the answer*, sent the day it is cut, because a clerk nine hundred miles away already has three sentences and nowhere to put them, *and I know that feeling exactly.*
 
 ---
 
@@ -104,6 +108,8 @@
 
 **Ch. 43 — the cloth, and a thing that is supposed to wear out.** He checks the realm's first publication between thumb and finger at the forge bench and gives it the only number his trade has for paper — **four winters in a pocket** — and says out loud that in forty years of pins, keystones and buckles he has never once held a thing that was *supposed* to fail. He lays the sheet down flat afterwards, which is the only way he knows how to be respectful to a document.
 
+**Ch. 44 — how to cut a thing that will be copied badly on purpose.** He takes the form's proof at the bench's end and gives the forge the rule that makes the whole chapter work — *no ornament a bad hand can improve* — then lays the proof down flat, which is the only way he knows how to be respectful to a document. His verdict on the realm's first form is also its design brief: a stranger must be able to copy it with a nail, or get nothing that looks like it.
+
 ---
 
 ## 4 · MORGATHA ULRIK — Orc · 20 · Ulgar
@@ -136,6 +142,8 @@
 **Ch. 42 — the outside eye on a realm teaching the world to see.** She watches a stone city decide to hand out the way it looks at things, and gives the chapter the plain warning it has earned, from the end of a desk, with her eyes on the queue and not on the smith: *we don't hand the man who's learning to pick the lock a drawing of the lock* — and then carries the bucket anyway, because she has watched that rule save four of them twice in one week. Her instruction is the chapter's real counsel, and it is hers: **teach the lock, not the door.**
 
 **Ch. 43 — the finding that puts a price on a door.** She watches a woman on a bench for half a morning and then tells the room what the paper actually bought: *she paid for leave to stand in a room.* Not the sentence, not the reading — **admission** — the only thing this realm has that nobody else in nine realms gives away. Her instruction is the chapter's pivot: *stop asking whether to honor it; ask what it's worth not to sell it.* Delivered from the corner of the table, sitting down unasked, with one hand on the paper's corner and her thumb nowhere near the writing.
+
+**Ch. 44 — the outside eye on a board with five lines.** With the west's traced fair copy flat under her thumb she gives the room the ground the ruling ends up standing on: *in my country we would call that fifth line an oath a man swore that nobody made him swear.* Delivered at the party's table before Lyra asks the chapter's question, sitting back afterwards with her thumb nowhere near the writing — the same thumb, the same table, the same discipline as the finding that priced a door four days earlier.
 
 **Ch. 39 — four words, and the realm's own case.** She closes the chapter's first movement with the plainest sentence anybody says about the discovery — ***it was mine, not his*** — and gives the chapter its outside view of Emberfall's eight years: *you are not a realm with a hole in it; you're a realm that kept its word while the paperwork was missing, and there's a whole province of you who never got told the law had stopped watching.*
 
@@ -190,6 +198,8 @@
 
 **Ch. 43 — the direction, and the condition.** The realm invents a publication and the sea gives it a route: *west, and the crossings, and the boats that come up on the evening tide* — because west is where a reading costs two chips, and the only remedy for a price is a copy in the same pocket at no price. Her condition shapes the whole dispatch: **no clerk of this realm goes with them**, since the first clerk sent west to hand these out will come back with a lesson about how to charge for them. She is drawn already at the door with her wrap over her arm, because a tide is a schedule and not a suggestion.
 
+**Ch. 44 — the sea has no arm either.** She gives the ruling its image at the Court's table: a tide can carry a hull four hundred miles and cannot arrest a drowning man; *a current doesn't reach a place because it decided to — it reaches the place because it was already going there and somebody built a landing* — and sets the west's traced board down at the frame's edge, where the chandlery of two realms meets. Earlier, at the water-stairs, she is the one who says what a boat carries: *the cheap one's on top — don't let it get wet.*
+
 ---
 
 ## 6 · AZRAEL VENN — Fallen Angel · 22 · Seraphel
@@ -213,6 +223,8 @@
 **Ch. 42 — the lesson, taken down with everybody else.** He sits in the second row at the gate in the rain with a slate like the rest of the queue and gets the chapter's driest line, delivered while he is writing: *nothing in it is mine — I'd like it read anyway.* Canon note for the art team: he writes with the same hand everybody else is using, because the page's whole argument is that the realm's new skill is **learnable** and not revelation. He takes none of the chapter's business personally and is not consulted about any of it.
 
 **Ch. 43 — the verdict from the middle of the queue.** He is drawn in his plain coat with the day's notice in his hand, reading it out loud to the woman beside him for the fourth time that afternoon that somebody has read it to somebody — and then gives the seller the plainest description in the chapter: *a clerk without a desk.* His correction of the realm's own framing is the one nobody else makes: *you're not fighting a swindler; you're fighting a custom.* He hands the notice back to the woman he read it to and not to the payer, and moves up the queue.
+
+**Ch. 44 — the hardest question of the week, entered standing.** He asks the second book whether a sentence kept by seven animals that cannot understand it counts as kept, refuses the *law* column and the *fee* column out loud, says *I know what I think it is*, and is already turning away with his hands in his coat before anybody answers — and the office answers in four columns anyway: **can the realm act on it: no · does it stand: yes.** He gets no other line in the chapter, and nobody calls him back.
 
 **Ch. 38 — a plain name, and no comment.** He signs the Court's Entry plainly, and his entry is the only one of the Nine's that produces **gold text over his head** — the realm's own record of his oath, saying only what he signed — and the chapter gives him **no speech about it and lets nobody else remark on it**, which is the saga's whole method for the man: his name is in a registry elsewhere (a fallen name in an angelic book), he knows exactly what putting it on a demon tablet costs, and he does it anyway, in a room with a gallery in it, without one line of explanation.
 
@@ -270,6 +282,8 @@
 
 **Ch. 43 — the four lines, and the first statement that promises nothing.** The realm's first publication is drafted at her table out of the only law in nine realms about copies: *this is a copy · it may be copied again, by anybody, for nothing · none of this is sold; nobody's permission is required; bring nothing.* She reads all four aloud before anybody may cut anything, and asks the record to note that this is the first thing this realm has ever said out loud that **promises nothing at all** — which, in a realm where promises hang in the air in gold, is a legal fact and not a joke.
 
+**Ch. 44 — witnesses don't get expenses, and the realm owns nothing but its promise.** She refuses the realm's refund of the two chips of carriage out of the parties' own ledger's wording (*not lent; not advanced; paid*), gives the chapter its first flat truth — *we're witnesses — witnesses don't get expenses* — and then delivers the ownership finding at the Court's table: the realm owns nothing a stranger can take away, because the only property it has ever had that *grows* when somebody else reads it is **its promise**; *no loss has occurred.*
+
 ---
 
 ## 8 · BRAMBLE — Changeling · ~14 · The Seams
@@ -300,6 +314,8 @@
 **Ch. 42 — the form, and the fool's errand that isn't one.** She invents the realm's newest grammar in one sentence and does not think it is a big deal: *you say it; he says it back; you don't sign, because signing's for promising and I've got nothing to promise anybody.* The realm's clerk objects that the form makes no gold, and she is already right: the thing she has been asking a stone city for half a morning is to *hear* something instead of *seeing* it, and she supplies the words the whole volume will use for it. She is not in the queue, she does not enter her own sentence in the second book, and the chapter does not touch her tag, her hands, or her four words to the hound.
 
 **Ch. 43 — the only thing she has that was never priced, given away on a bench.** Sitting down beside a stranger with two bowls from the market and her mouth full, she hands over the one asset this city has that has never had a price: **a place in the queue.** *Nobody's ever charged me for standing in a queue* — it can't be sold, taken or rescinded, and the only way into it is to stand in it, which means the man with the tray sold the woman something she already had. The chapter's warmest line comes with a spoon in her hand and not one note of pity in it.
+
+**Ch. 44 — they go where they're read to.** On the gate's step with yesterday's bread in a cloth and her hand flat on the oldest hound's shoulder, she gives the volume's plainest sentence about the pack and refuses every larger reading of it in the same breath: *that one was standing at this gate the noon the sentence came out whole, and since that noon the seven of them walk down here at noon and up the road at dusk… they go where they're read to* — and then invites anybody who wants to make it bigger than seven dogs and a habit to come and say it **to them.**
 
 ---
 
@@ -333,6 +349,8 @@
 **Ch. 42 — the mark he does not draw yet.** He is drawn once at the edge of a Court page with the map unrolled and his hand already on the chalk, and the chapter stops him there on purpose: the realm's first thing-that-is-not-anywhere has happened (a copy made up the road, a lesson taught at a gate, a fee that arrived from nobody) and Fenn's craft has no mark for it. **He draws nothing in this chapter.** The map's next layer — and the mark for a thing with no place on it — is the next chapter's business, and the art team must draw the *unmarked* map pulled out and put away twice.
 
 **Ch. 43 — the first mark in nine realms for a thing that is not anywhere.** Asked to mark a document designed to exist in nine hundred pockets at once, he cuts **two strokes, side by side, equal, with a clear gap** — *nothing else on the page has two of anything* — and explains it as a surveyor explains a boundary: check the words, then check the marks; if the marks are missing, single or lopsided, somebody has changed a word and any reader who has seen a true copy knows it at a glance. Drawn at the bench with the chalk in his hand and the map **rolled and untouched**, because this mark is not for a place.
+
+**Ch. 44 — the map's first line that is not a road.** He draws the water-road dotted to a small circle at a second landing, rules it in two passes the same as every road on the sheet, letters the note at the circle in his own hand, and tells Sprocket why the line stays dotted: *the map's got a line on it now that's not about ground — it's about a habit*, and *a solid line would be a lie by spring.*
 
 ---
 
