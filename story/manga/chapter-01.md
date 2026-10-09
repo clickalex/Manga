@@ -103,7 +103,7 @@
 **Senna:** "He's in my class. Try again."
 
 ### P5.3 — Kaelen arrives
-**Art:** Kaelen at Senna's shoulder (he heard the bell of his own making — no, he heard Senna's voice; keep it human). He crouches to Pippin's eye level. The kids back off — not out of fear, out of the specific awkwardness of being caught.
+**Art:** Kaelen at Senna's shoulder (the beat is *human*, not mystic: what he heard first was his sister's voice, and the bell of his own making is only what he *wishes* he heard). He crouches to Pippin's eye level. The kids back off — not out of fear, out of the specific awkwardness of being caught.
 **Kaelen (to Pippin, quiet, face to face):** "A mark's not a stain. It's a signature. Someone in this room taught me that."
 **Pippin (small):** "…Who?"
 **Kaelen:** "My dad."

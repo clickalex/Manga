@@ -283,7 +283,7 @@
 **Fenn (last, the close — the chapter's last line of dialogue):** "…I've got nothing to start the sentence with. The white's not at the water. For now, the *tree* holds."
 
 ### P12.2 — The end card (bottom third)
-**Art:** Plain page. The scribe's hand — Vaelis's ink (the record's voice; the theme made ink — the fifth card of the series: *Here begin the named* (Ch. 6) → *Here begins the road* (Ch. 7) → *Here walk the named* (Ch. 8) → *Here keep the named* (Ch. 9) → now). Under the words, small, in a different hand — chalk, not ink — one short vertical stroke: Wren's, the *down* (the art team: the first time the card has two hands on it. The reader won't know why until Vol. 12).
+**Art:** Plain page. The scribe's hand — Vaelis's ink (the record's voice; the theme made ink — the fifth card of the series: *Here begin the names.* (Ch. 6 P7.3, Vaelis’s hand) → *Here begins the road* (Ch. 7) → *Here walk the named* (Ch. 8) → *Here keep the named* (Ch. 9) → now). Under the words, small, in a different hand — chalk, not ink — one short vertical stroke: Wren's, the *down* (the art team: the first time the card has two hands on it. The reader won't know why until Vol. 12).
 **Caption (the record, Vaelis's hand — the S1 refrain, the fifth):** **Here turn the named.**
 **Small, bottom:** *Next: Chapter 11 — Volume 3 continues (S1, "The First Crown"). The white is under. The spring is going down. The Nine are back at the gate — and a root has moved.*
 

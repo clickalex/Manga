@@ -1,6 +1,6 @@
 # 02 — RACES AND REALMS (Complete Roster)
 
-**Design rule: no race is a monster. Every race is a civilization.** Each race has a culture, a law, a cuisine, a festival, a prejudice it carries, and a prejudice other races hold about it. That's what makes 40+ races feel real instead of decorative.
+**Design rule: no race is a monster. Every race is a civilization.** Each race has a culture, a law, a cuisine, a festival, a prejudice it carries, and a prejudice other races hold about it. That's what makes 49 races feel real instead of decorative.
 
 **World map logic:** Vael is one world shaped like a **nine-pointed crown** (the world is literally the shape of the shattered Aurelion). Eight realms ring a center: **the Seams** — the in-between lands where no realm fully claims. The Veil runs along the seams; RiftFalls are places the Veil is tearing.
 

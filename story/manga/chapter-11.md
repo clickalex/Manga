@@ -293,7 +293,7 @@ The Nine, at the stair's foot. Small. The count in Morgatha's corner.
 **Fenn (last, to the mark on the stair — the one line, the uncle, the map):** "*Draw it honest.*"
 
 ### P12.3 — The end card (bottom third)
-**Art:** Plain page. The scribe's hand — Vaelis's ink (the record's voice; the theme made ink — the sixth card: *Here begin the named* (Ch. 6) → *Here begins the road* (Ch. 7) → *Here walk the named* (Ch. 8) → *Here keep the named* (Ch. 9) → *Here turn the named* (Ch. 10) → now). Under the words, small, in chalk: Wren's stroke — *down* — and beside it, this time, the map maker's sign: the circle with the tail (the art team: three hands on the card — the record's, the apprentice's, the map's. Do not explain it).
+**Art:** Plain page. The scribe's hand — Vaelis's ink (the record's voice; the theme made ink — the sixth card: *Here begin the names.* (Ch. 6 P7.3, Vaelis’s hand) → *Here begins the road* (Ch. 7) → *Here walk the named* (Ch. 8) → *Here keep the named* (Ch. 9) → *Here turn the named* (Ch. 10) → now). Under the words, small, in chalk: Wren's stroke — *down* — and beside it, this time, the map maker's sign: the circle with the tail (the art team: three hands on the card — the record's, the apprentice's, the map's. Do not explain it).
 **Caption (the record, Vaelis's hand — the S1 refrain, the sixth):** **Here hold the named.**
 **Small, bottom:** *Next: Chapter 12 — Volume 3 continues (S1, "The First Crown"). The tree is asking. The roads carry the call. The boy is in the room at the bottom, and the one door with no name on it has turned toward him.*
 
