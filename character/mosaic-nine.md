@@ -42,6 +42,10 @@
 
 **Volume 5 (Ch. 29): the one thing he makes.** At the coda he fits the **rim foundry's clasp** — plate nine hundred and eleven, a class demonstration piece for nine thousand dwarves learning that a hinge has a direction, carried in his father's too-big coat since Ch. 21 — to the reader's collar (Fenn holds the lamp, Bramble holds the strap). His line is the plainest he says all volume: *it's a **buckle** … buckles are meant to come off; that's the entire design.* It is the first thing in the saga that is entirely his, and it is the realm's newest institution's only moving part. **Volume 6 (Ch. 31): buckles by the dozen.** He copies the rim foundry's clasp pattern — **twenty identical buckles in a cloth**, sent east with the realm's clerk so every post's collar closes the same way — and his work in the chapter is deliberately *boring*: the realm builds offices by the dozen, and the smith who made the first one makes the rest. **Cover-art rule (audit, Ch. 1–15 pass).** This note is *load-bearing* and applies to every painted cover, poster and key visual: **the nine colors never bloom on his skin.** Vol. 1’s first cover master drew the chest as a nine-color radial mandala with an aura; it was re-rendered and the old file kept beside the new one as *cover-vol1-v1-glow.png* ([../other/assets/](../other/assets/cover-vol1.png)). The approved v2 shows what the saga actually opens on (Ch. 1 P2.2): a **small, faint gray-green mark** — “a smudge of un-ink” — with its **first white thread** at the edge, easy to miss, on purpose. The Nine-Color Key belongs to the scarf, the record’s lights, the crown-citadel’s nine lanterns. On the boy, it is *one mark and the cost.*
 
+**Ch. 38 — that's not a leash, that's a signature.** He reads Emberfall's reader-collar the way he reads every instrument of law — *that's not a leash, that's a signature* — and then answers the form's question about himself on the spot, half-awake, and is right.
+
+**Ch. 39 — asleep in his boots, and the volume's running image.** He sleeps through the Court's second day in his boots and the chapter draws it as the volume's running image: the boy the realm keeps arguing about, heard by everyone and waking for none of it. No line of his in the chapter.
+
 **Ch. 40 — the sentence that lands later.** At the gate, watching the collar climb a word an evening, he says the chapter's most dangerous line as a throwaway to nobody — *it'll come up when there's somebody to say it to* — and is asleep again before any panel has understood him. Canon: nobody in the party connects the collar's unfinished sentence to the calling, and the reader is left holding both.
 
 **Ch. 41 — asleep through the largest sentence in the realm's history.** The collar finishes its sentence at the gate at noon, the realm signs itself to a Contract and reads a door out loud for the first time in four thousand years — and Kaelen is drawn once, asleep against the gate-post with his boots up on a bale, with **no line at all**, because the chapter that pays his Ch. 40 throwaway is the chapter that finds out there was somebody to say it to after all: a queue, a crier, and seven hounds. Canon: nobody wakes him, and nobody needs to.
@@ -80,6 +84,18 @@
 
 **Adaptation notes.** Her wall is a *courtesy* — the panels show the wall going up (composed) and down (one crack) as separate visual states; the lettering never explains them. **Vol. 4:** the noticer measures a foreign law against her own — *“The elves keep their law in a tree and the tree talks, and we spent eleven generations learning to answer it properly. These people kept their law in a book about lamp-oil…”* (Ch. 18 P5.1, Ch. 20 P10.2), and she gets **one almost-smile** in the volume (Ch. 17 P9.2), which is her only crack and must not be repeated casually. Her rings are her *health bar*: drawn, countable, spent.
 
+**Ch. 38 — the ring and the carried vote, spoken for by no one.** She holds the ring and the vote it carried into Emberfall's first day; nobody speaks for her in this chapter and the chapter does not either.
+
+**Ch. 39 — the ring turned in her fingers at the window.** While the Court argues about what a promise is, she turns the ring in her fingers at the window; her vote stands and she does not repeat it.
+
+**Ch. 40 — the ring that does not vote, and says so.** One frame: the ring that does not vote and says so — no line of consequence, no green — a realm's second signature declined by being already given.
+
+**Ch. 41 — the ring turned once and stopped.** At the realm's largest promise she turns the ring once and stops: no second signature from a realm that already gave one.
+
+**Ch. 42 — the silent structural gift.** Hers is the move that puts the readings outdoors, because a thing that is only heard should be heard in weather; the art team draws the box carried out at the fourth hour with nobody in the frame making a speech about it.
+
+**Ch. 43 — whose is the paper?** She asks the question nobody else asks — *whose is the paper?* — is answered *hers*, and refuses to vote on it.
+
 **Ch. 44 — the question that produces the answer.** With the west's letter open in her hands she asks the only question the room has not asked — *did anybody in the west ask us for anything?* — and answers it herself off line seven: **send me the rules.** Not the readings, not a licence, not a stamp: the *shape* of the thing the realm did with them, because a form is the one thing in this world that travels for nothing and belongs to whoever is holding it. Her refusal to vote on the ruling is the chapter's pattern for her: *I don't want to vote on the ruling — I'd like the form to be the answer*, sent the day it is cut, because a clerk nine hundred miles away already has three sentences and nowhere to put them, *and I know that feeling exactly.*
 
 **Ch. 45 — the question that makes the ruling say its own name.** When the chair brings the disposition to the slate she asks the one thing the room has not answered — *so what is the realm contracting him to? because if the answer is 'himself', say it in those words* — and it is her question, not the Court's, that forces the instrument to be written as an instrument: not a chair, not an office, not a punishment, but a fire entered on the side it was earned on. She is drawn asking it at the party's table with her eyes on the slate and not on the man, because the question is for the realm; and when the gold goes up over the table and not over the party, she is the one who does not look at it again.
@@ -111,6 +127,10 @@
 **Pilot line (canon, verbatim):** *"My dad's forge's been cold a hundred years. I'm not leaving until it's warm again."*
 
 **Adaptation notes.** His comedy is *feeding people* (he carries extra bread, extra stone, extra everything). His tragedy is one silent beat per chapter — do not over-draw it.
+
+**Ch. 38 — three cuts and the dust.** At the festival he makes three cuts and leaves the dust where it falls: the mountain's whole contribution to Emberfall's first day, and enough.
+
+**Ch. 39 — asleep upright, only his boots in frame.** He sleeps upright in his chair with only his boots in the frame — the Court's second day witnessed by a dwarf's feet.
 
 **Ch. 40 — the chisel he does not take.** Offered the chisel for Emberfall's first new form, he puts his own away: in Khazadûm a form is a **stake** and a cut is a **debt**, and you never let a neighbour hold the chisel, because then the debt's in his hand and not in yours — *cut your own law; I'll stand here and be jealous.* Canon: the mountain's rule is why the realm's first stone law is cut by the realm's own hand.
 
@@ -200,6 +220,8 @@
 
 **Ch. 34 — a realm pays its carriers and never pays its witnesses.** Her finding, cut on the coast road and nailed beside the free readings: the Barrens **contracts** the company's clerks for the shoreline posts at posted rates (*the realm will not haggle about the price of a clerk's morning*), pays **nothing** for words at any water in any weather, and **its readers never sell askings** — *the day a reader's door has a price on it is the day this realm has a counter instead of a wall.* The chapter's last spoken line is hers, and it is a war-chief's verdict on a trade: she decides a contract the way she decided a clause, standing up, in daylight, with a clerk taking it down.
 
+**Ch. 38 — the answer given at water.** She gives her answer *at water* and it is entered *not written, not kept*; the chapter closes on her asking, of all things, where the hot water goes.
+
 **Ch. 39 — the question the realm could not answer.** She asks the Fire-Court the question its statute has no term for — ***what do you call a promise kept with nothing holding it?*** — standing in a dry courtroom, and gives the reason in her own realm's history: her people had words for who may speak, who may read, who may cross and who may be held, and no word at all for **a person who is read to**, *and it turned out we could not have a covenant without one.* The Court's answer is the chapter's title: it cuts ***kept*** into its dictionary, in the field that had been ruled and empty since the First Contract. Canon: the sea's keeper is the reason Emberfall's hardest word exists, and she does it on her feet, from a row, without a single signature.
 
 **Ch. 37 — the answer, and the flask on the hook.** The volume's arc pays in four frames and a bottle: at the Deep-Listening post the first line comes **up** the tube into a bowl of seawater on a shelf, and she kneels with her hands flat on the rim **and does not touch the flask**; Song-Part sets one fingertip in the water and the notation gains **two lines where there was one**; and Nereia's finding — the sentence she leaves for the slats, the horn, the school and the road — is ***we did not do it alone. We did it with them.*** Canon for the rest of her run: **the line stopped being hers and became a story the sea tells to whoever is listening**, and the **flask is hung on the cart's hook, full and uncounted**, riding home west — the deadline over, the office kept. Her last beat of the volume is pulling her knees up under her coat and asking where the bread is: the first time in the whole saga she has looked like somebody off duty.
@@ -249,6 +271,10 @@
 **Ch. 36 — the Oathflame Choir, and the line of the page.** Canon pays out: the chapter's first chord is his — **the Oathflame Choir, a contract bound by a chorus**, struck with Nereia over the six-line contract on the third low water of the Re-Oath. He writes the page with Viv on a rock with no paper in the realm (**the only paper in the chapter is his**), reads it at the water in the open, in a flat professional voice — no wings, no glow, the crack in the halo where it has been since Ch. 6 — and his rule for the no is the line that makes the whole oath singable: *the no's not a hole in the page. It's a **line** of the page.*
 
 **Ch. 39 — the testimony, read and not taken personally.** He is the party member who reads **the whole of the five days' testimony** — sixty-one thousand voices about what promises were worth to cooks, clerks, children, ferrymen, and eleven burned names — and the chapter gives him **no line about it at all**, only the reading, because the saga's rule for him is that the man with the worst oath in the room is the one who never once makes a room about it. That silence is his beat; the art team must draw him with a tablet and no balloon.
+
+**Ch. 40 — reading all of it, taking none of it personally.** He reads the whole of the stone-law day and takes none of it personally, with no line; his one action in the chapter is the look at the cook.
+
+**Ch. 41 — every leaf read, none of it personal.** He reads every leaf of the Re-Oath and takes none of it personally; one frame at the window and no line.
 
 **Ch. 42 — the lesson, taken down with everybody else.** He sits in the second row at the gate in the rain with a slate like the rest of the queue and gets the chapter's driest line, delivered while he is writing: *nothing in it is mine — I'd like it read anyway.* Canon note for the art team: he writes with the same hand everybody else is using, because the page's whole argument is that the realm's new skill is **learnable** and not revelation. He takes none of the chapter's business personally and is not consulted about any of it.
 
@@ -349,6 +375,10 @@
 
 **Adaptation notes.** She is the cast's *barometer* — when her humor drops out of a panel, the reader knows a character is about to be hurt (the lettering team: her funny frames get the SFX; her serious frames get *nothing*). **Vol. 4 (Ch. 16–20):** the barometer runs the whole volume — she is the one who notes the realm's small dusty person going unnamed (Ch. 16, Ch. 18 P6.2: *“She's got the formula perfect”*), and Ch. 20 P8.2 gives her the volume's last private frame: *“I've worn nine faces and I couldn't tell you which one's mine. Look at them. They've just written theirs down. …In skin.”* **The tag stays illegible, and nothing in Volume 4 explains why she took it personally.** Her face is a *system*: default (learned), rental (one seam), warning (two seams). The label's writing is withheld for the whole saga — the TCG and the game must keep the tag *illegible* too.
 
+**Ch. 38 — the fruit, the pack, sitting down in the ash.** She takes the fruit, wears the pack, sits down in the ash — and at the gate stands still, which is her whole reading of the realm's first day.
+
+**Ch. 39 — the question granted inside a session.** The Court grants her a question inside a session, and she talks to the collar with no gold in the air at all, because she promised nothing.
+
 **Ch. 40 — the second reading, for the hounds.** On the third reading day she asks the crier the smallest thing a realm has ever been asked — *read it again — to them — they can't read* — and the gate grants it in front of four hundred people without one procedural objection, which is how the pack's entry gets read into seven hounds' own hearing. Her pip still will not grow in ash, and the volume keeps that ledger open.
 
 **Ch. 41 — the thumb, and the last word.** The realm adopts an **outsider's signature** — a thumb in ash — and it is the changeling who sits down in the gate's ash and shows the woman with the ruined hands how to sign her own name (*yours goes on top of mine, then*): the second time this volume watches a realm learn a form from a stranger. And it is Bramble, kneeling at the oldest hound's shoulder at noon, who is looking at the iron when the collar's sentence finishes — four words to the animal, and nothing to anybody else.
@@ -368,6 +398,8 @@
 ---
 
 ## 9 · OLD FENN THISTLEDOWN — Gnome · 312 · The Seams
+
+**Ch. 38 — laughing at the festival, and the corner device taken up as his.** He laughs at the festival, is handed the manifest at last, and takes the volume's corner device up as his own: a ruled line with eight strokes and one gap.
 
 **Ch. 39 — promises get drawn.** His volume-arc turns and he states it as a working mapper: *three hundred and twelve years I have put roads on maps, and it has never once occurred to me to draw a place where a promise is a physical object in the air.* Canon: **the tally-map gains a new layer**, with the jurisdiction line round the city of oaths, the trial's count, the signature-line with its gap, and a new mark at the gate (one stroke going up, in Whalesong's rhythm, unexplained). His chapter's other beat is the sentence he gives Sprocket: *we carry the seeds that don't take and the maps of roads that might.*
 

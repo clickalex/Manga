@@ -87,10 +87,12 @@ Manga/
 │
 └── other/                      ← SITE (the deployment side)
     ├── README.md               ← deploy guide (GitHub Pages steps) + house rules
-    └── assets/
-        ├── cover-vol1.png      ← Volume 1 cover, v2 (AI concept, no text; scar canon)
-        ├── cover-vol1-v1-glow.png ← superseded v1 (nine-color chest glow — kept for reference only)
-        └── cover-vol1-web.jpg  ← web copy used by index.html (JPEG q86, ~250 KB)
+    └── assets/               ← 24 PNG masters + 23 -web.jpg site copies (full canon table in other/README.md)
+        ├── cover-vol1.png … cover-vol8.png  ← the eight volume covers, unlettered (Vol. 1 master is canon v2)
+        ├── cover-vol1-v1-glow.png ← superseded v1 (nine-color chest glow — reference only, never served)
+        ├── key-ch{13,19,22,24,26,27,28,29,30,31,37,45,46,48}-*.png ← fourteen key visuals
+        ├── art-mosaic-nine-v1.png ← the Mosaic Nine ensemble sheet (design draft v1)
+        └── *-web.jpg         ← one JPEG q86 web copy per served master, same pixel size; index.html serves only these
 ```
 
 **The four-folder rule:** canon goes in `story/`, character design in `character/`, world/location docs in `location/`, site assets & deploy notes in `other/`. No loose files at the root except `index.html` and this README.

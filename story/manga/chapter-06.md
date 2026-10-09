@@ -1,4 +1,4 @@
-# AURELION · Volume 2 — Chapter 6: "The First Crown"
+# AURELION · Volume 3 — Chapter 6: "The First Crown"
 
 > **Pilot finale · Pages 1–12 · Season 1, Arc C: "The Court" (end)**
 > **Cast:** the Nine (all present; **AZRAEL** and **BRAMBLE** — FIRST APPEARANCES, pilot lines SPENT), Fenn (map, final pilot caption), Morgatha (the count, *rests* — on purpose), Marginalia (the cart, the passenger), Roderick (the captain's seat), Elowen (the bread), **VAELTHORN** (FIRST APPEARANCE — negative space — pilot line SPENT)
@@ -197,15 +197,15 @@
 ### P12.3 — The end-of-pilot card
 **Card (plain page, the scribe's hand — Vaelis's ink, the record's voice, the theme made ink one last time — the reader's held breath, the reader's chest):**
 **The Nine are named. The realms are waking. The Hollow is waiting.**
-**Small, bottom:** *Next: Chapter 7 — Season 1 continues (Volume 3, "The First Crown"). The gray is patient. So is the map.*
+**Small, bottom:** *Next: Chapter 7 — Volume 3, "The First Crown", continues (Season 1). The gray is patient. So is the map.*
 
 > (Canon reservation, for the file, not the page: Vaelthorn's **S1-finale line** — *"You are the only full thing left. Come home to me, little heart."* — is **reserved for the end of Volume 3** (the end of Season 1), not spent in the pilot. The pilot spends the pilot-line only.)
 
 ---
 
-**END OF THE PILOT**
+**END OF CHAPTER 6 · VOLUME 3 — *THE FIRST CROWN* · END OF THE PILOT.**
 **The pilot is complete: twelve chapters, twelve issues, twelve episodes. The Nine are named. The realms are waking. The Hollow is waiting.**
-**Next:** Season 1 continues — Volume 3, "The First Crown" (Ch. 7 onward; the volume closes with the Season 1 finale, Ch. 13, *Every Name*): the realm by realm, the Re-Oath's second act, the Null's first word.
+**Next:** Volume 3, "The First Crown", continues — Season 1 (Ch. 7 onward; the volume closes with the Season 1 finale, Ch. 13, *Every Name*): the realm by realm, the Re-Oath's second act, the Null's first word.
 
 ---
 

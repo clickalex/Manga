@@ -1,4 +1,4 @@
-# AURELION · Volume 1 — Chapter 3: "One Table"
+# AURELION · Volume 2 — Chapter 3: "One Table"
 
 > **Pilot · Pages 1–12 · Season 1, Arc A "The Town" ends → Arc B "The Road" begins**
 > **Cast:** Kaelen, Lyra, Fenn, Marginalia, Roderick, Marta, **Grimm Khazdûrin + Pebble** (FIRST APPEARANCE), **Morgatha Ulrik** (FIRST APPEARANCE), **Vivienne "Viv" Nox** (FIRST APPEARANCE), **Nereia Thal** (FIRST APPEARANCE), **Orvane** (FIRST APPEARANCE — a *good* man), **Arvel, the Withered King** (final panel, FIRST LINE)
